@@ -1,0 +1,1393 @@
+Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Genres,Artist,Song
+0.435,0.423,11,-8.795,1,0.024,0.0916,0.000659,0.132,0.451,91.137,"album rock, classic rock, heartland rock, mellow gold, rock, soft rock, yacht rock",Eagles,Take It to the Limit
+0.369,0.422,0,-8.407,1,0.0348,0.485,0.106,0.112,0.134,155.931,"britpop, modern rock, welsh rock",Stereophonics,Violins and Tambourines
+0.347,0.741,9,-7.937,0,0.0324,6.73e-06,0.115,0.267,0.0994,159.918,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Coma White
+0.461,0.627,7,-5.659,1,0.0274,0.0528,0.000276,0.12,0.0977,140.04,"album rock, glam metal, hard rock, metal, progressive metal, us power metal",Queensryche,Silent Lucidity
+0.652,0.73,6,-6.512,0,0.0535,0.00363,0.0193,0.531,0.284,126.599,"dance pop, pop",Madonna,Hold Tight
+0.248,0.995,4,-5.499,1,0.0861,6.13e-06,0.892,0.284,0.216,114.967,"alternative metal, djent, groove metal, metal, nu metal, progressive groove metal, swedish metal, technical groove metal, technical thrash",Meshuggah,Bleed
+0.45,0.661,5,-8.537,1,0.0411,0.396,0.0362,0.0912,0.476,173.909,"chamber pop, indie folk, indie rock, indietronica, modern rock",Nas,The Don
+0.633,0.931,1,-7.752,1,0.0686,0.0504,0.109,0.375,0.676,109.116,"dance pop, r&b, urban contemporary",Janet Jackson,Rhythm Nation
+0.754,0.819,0,-6.833,1,0.112,0.0684,0.0,0.345,0.818,142.137,"dance pop, pop",Christina Aguilera,What a Girl Wants
+0.631,0.518,0,-8.771,1,0.0303,0.274,0.0,0.088,0.205,93.023,pop,Taylor Swift,All Too Well
+0.382,0.867,9,-7.426,1,0.0399,5.91e-06,0.581,0.196,0.453,87.309,"alternative metal, alternative rock, grunge, permanent wave, rock, spacegrunge",Smashing Pumpkins,Cherub Rock
+0.45,0.958,9,-5.246,0,0.218,8.01e-05,0.708,0.102,0.165,120.17,"christian doom metal, christian metal, norwegian doom metal, norwegian metal, unblack metal",Antestor,Rites of Death
+0.181,0.95,8,-3.514,0,0.133,0.000239,1.16e-06,0.233,0.44,184.685,"alternative metal, nu metal, pop punk, post-grunge, punk, screamo",AFI,Medicate
+0.804,0.988,1,-2.998,1,0.0444,0.00218,0.0571,0.0671,0.836,145.041,"k-pop, k-pop girl group",Crayon Pop,Uh-ee
+0.932,0.457,11,-9.62,0,0.0541,0.0173,0.0436,0.0414,0.884,117.002,"r&b, soul",Michael Jackson,Billie Jean
+0.894,0.698,6,-8.264,0,0.275,0.0279,3.56e-06,0.329,0.695,98.104,"conscious hip hop, gangster rap, golden age hip hop, hip hop, old school hip hop, rap, west coast rap",N.W.A,Gangsta Gangsta
+0.445,0.384,10,-14.642,1,0.0417,0.635,7.74e-05,0.0539,0.216,123.295,"art rock, classic rock, glam rock, permanent wave, rock",David Bowie,Life on Mars
+0.633,0.714,5,-13.574,1,0.0325,0.193,0.000307,0.296,0.865,98.149,,Sly Fox,Let's Go All The Way
+0.604,0.905,4,-7.059,0,0.0578,0.309,0.0632,0.0837,0.723,147.448,"album rock, classic rock, mellow gold, rock, soft rock, yacht rock",Chicago,25 or 6 to 4
+0.741,0.599,1,-5.792,0,0.0413,0.0362,0.0,0.0561,0.514,109.231,"barbadian pop, pop, urban contemporary",Rihanna,Nobody's Business
+0.551,0.381,7,-8.699,1,0.0274,0.414,0.161,0.115,0.415,138.467,"britpop, welsh indie, welsh rock",Super Furry Animals,Y Gwyneb Iau
+0.62,0.832,9,-9.651,0,0.0335,3.05e-05,0.438,0.128,0.39,134.959,"big room, brostep, dutch edm, edm, house, pop dance, progressive electro house, slap house, trance",Tiesto,Just Be
+0.702,0.826,3,-6.498,1,0.0533,0.314,0.000227,0.355,0.328,80.011,"barbadian pop, pop, urban contemporary",Rihanna,Birthday Cake
+0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,"album rock, classic rock, heartland rock, mellow gold, rock, soft rock, yacht rock",Eagles,Hotel California
+0.552,0.57,7,-10.332,1,0.0349,0.619,0.0,0.397,0.26,127.056,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Chimes Of Freedom
+0.711,0.7,1,-4.805,0,0.046,0.00498,0.000125,0.215,0.801,128.001,"dance pop, pop",Ke$ha,Die Young
+0.551,0.886,0,-4.635,0,0.0542,0.203,0.0,0.0885,0.704,128.981,"dance pop, pop",Cher,Love One Another
+0.452,0.54,8,-10.087,1,0.229,0.122,0.00462,0.0882,0.227,133.774,"pop, r&b",Beyonce,Jealous
+0.327,0.909,2,-3.78,1,0.0489,0.0365,0.0,0.0753,0.433,165.771,"album rock, blues rock, classic rock, electric blues, hard rock, jam band, rock, southern rock",The Black Crowes,Virtue and Vice
+0.491,0.972,2,-3.642,0,0.102,0.000117,1.46e-05,0.389,0.213,101.531,"groove metal, melodic metalcore",Silent Civilian,Rebirth of the Temple
+0.528,0.909,8,-5.712,1,0.0381,7.77e-05,0.00959,0.0891,0.349,112.083,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,King Nothing
+0.435,0.657,5,-8.868,1,0.0545,0.00983,0.00748,0.0923,0.209,118.704,"album rock, classic rock, glam metal, hard rock, mellow gold, rock, soft rock",Boston,Long Time
+0.268,0.742,5,-4.939,1,0.0355,0.0518,0.0,0.626,0.416,159.779,"modern rock, permanent wave, punk, rock",Green Day,21 Guns
+0.353,0.207,0,-14.718,0,0.0306,0.656,0.0,0.0874,0.184,144.539,"new wave pop, soft rock",Richard Marx,Hold On to the Nights
+0.582,0.942,2,-3.098,1,0.0637,0.000371,0.004,0.078,0.357,103.057,"alternative metal, chicago hardcore, chicago punk, hardcore punk, modern rock, pop punk, post-grunge, punk",Rise Against,Give It All
+0.38,0.0993,2,-20.567,1,0.0509,0.914,2.32e-05,0.0605,0.44,174.874,"classic rock, country rock, folk, folk rock, rock, roots rock, singer-songwriter",Bob Dylan,Blowin' in the Wind
+0.723,0.914,7,-5.598,0,0.0663,0.0726,2.12e-05,0.95,0.968,101.181,"latin pop, mexican pop, puerto rican pop",Ricky Martin,María
+0.956,0.795,7,-5.311,1,0.15,0.00356,0.889,0.0906,0.841,121.294,"electro, filter house, rock",Daft Punk,Around The World
+0.743,0.929,4,-2.776,0,0.0553,0.207,0.0,0.127,0.772,110.015,french pop,Amine,J'voulais
+0.396,0.473,10,-7.67,0,0.0345,0.326,0.000124,0.109,0.385,133.449,"baroque pop, classic rock, folk rock, mellow gold, psychedelic rock, rock, singer-songwriter, sunshine pop",Beach Boys,Good Vibrations
+0.483,0.453,1,-10.609,1,0.0282,0.315,1.2e-05,0.143,0.256,139.867,opm,Regine Velasquez,On The Wings Of Love
+0.49,0.928,7,-6.102,1,0.0358,0.000205,0.0,0.0876,0.673,93.19,"hardcore punk, punk, skate punk",Descendents,Silly Girl
+0.38,0.988,1,-2.042,1,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113,"modern rock, permanent wave, punk, rock",Green Day,American Idiot
+0.681,0.248,1,-17.465,0,0.0328,0.696,8.88e-06,0.0839,0.812,112.806,"art pop, art rock, baroque pop, new wave pop, permanent wave, piano rock, singer-songwriter",Kate Bush,Cloudbusting
+0.504,0.779,7,-5.48,0,0.0402,0.0122,0.000501,0.0925,0.3,119.985,"alternative dance, electropop, indietronica, neo-synthpop, shimmer pop, swedish electropop, swedish indie pop, swedish synthpop",Miike Snow,Silvia
+0.49,0.603,9,-6.601,1,0.0801,0.154,0.0,0.116,0.395,103.576,"australian hip hop, dance pop, pop",Iggy Azalea,Impossible Is Nothing
+0.738,0.804,10,-6.018,0,0.0608,0.197,0.0,0.297,0.791,109.045,pop,Miley Cyrus,Hoedown Throwdown
+0.32,0.917,9,-5.903,1,0.0771,0.0717,0.0,0.169,0.715,190.757,pop rock,The Rembrandts,I'll Be There for You
+0.725,0.625,9,-7.595,0,0.0741,0.318,0.0,0.0825,0.845,132.108,"bachata, latin hip hop, latin pop, trap latino, urbano latino",Romeo Santos,You
+0.597,0.415,3,-13.799,1,0.0323,0.189,0.0,0.123,0.826,108.987,"adult standards, arkansas country, classic country pop, folk rock, mellow gold, nashville sound, singer-songwriter, soft rock",Glen Campbell,Gentle on My Mind
+0.496,0.871,1,-6.267,0,0.0525,0.000958,0.000655,0.121,0.346,120.019,"british alternative rock, nintendocore, trancecore, uk metalcore, uk post-hardcore",Enter Shikari,Anything Can Happen in the Next Half Hour
+0.734,0.826,1,-4.909,1,0.0349,0.00101,0.129,0.197,0.74,132.96,"barbadian pop, pop, urban contemporary",Rihanna,Shut Up and Drive
+0.587,0.738,7,-4.469,1,0.0282,0.548,0.0,0.109,0.329,99.046,"british soul, dance pop, pop, talent show",Leona Lewis,I Got You
+0.717,0.732,4,-4.985,1,0.0426,0.0394,0.0,0.136,0.708,119.996,"lilith, new wave pop, permanent wave, pop rock, singer-songwriter",Sheryl Crow,Soak Up the Sun
+0.421,0.831,4,-5.128,1,0.106,0.0283,0.0,0.464,0.488,134.184,"dance rock, modern alternative rock, modern rock, neo mellow, pop rock",Walk the Moon,Work This Body
+0.641,0.781,2,-5.154,0,0.0258,0.237,0.0,0.33,0.45,94.477,"dance pop, post-teen pop",Jessica Simpson,Sweetest Sin
+0.402,0.732,5,-4.665,1,0.0484,0.0033,0.0,0.108,0.472,161.032,pop,Taylor Swift,The Way I Loved You
+0.367,0.685,4,-14.831,1,0.0464,0.00304,0.0478,0.109,0.854,154.953,"alternative rock, athens indie, permanent wave, rock",R.E.M.,Radio Free Europe
+0.885,0.937,1,-0.678,0,0.0898,0.142,0.0,0.103,0.878,114.974,"k-pop, k-pop girl group",Girls' Generation,The Boys
+0.402,0.511,6,-7.148,0,0.0276,0.421,0.000539,0.0968,0.204,151.342,"new romantic, proto-techno, synthpop, zolo",Yello,The Rhythm Divine
+0.381,0.186,4,-15.477,1,0.029,0.613,2.75e-06,0.0694,0.142,65.058,"classic rock, folk, folk rock, singer-songwriter",,Without You
+0.547,0.741,0,-8.127,1,0.163,0.822,0.0,0.117,0.637,82.589,"canadian hip hop, canadian pop, hip hop, pop rap, rap",Drake,The Resistance
+0.386,0.911,4,-6.474,0,0.0956,0.000608,0.443,0.135,0.188,158.045,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Whiplash
+0.633,0.922,11,-4.842,0,0.0454,0.116,0.000465,0.071,0.686,84.11,"dance pop, pop",Britney Spears,Born to Make You Happy
+0.674,0.74,11,-4.517,0,0.0419,0.000637,0.0,0.111,0.431,143.998,pop,Maroon 5,Lucky Strike
+0.723,0.819,0,-7.764,1,0.0309,0.0178,0.0,0.223,0.577,116.984,"dance pop, europop, girl group, talent show",Sugababes,Ugly
+0.624,0.654,8,-6.582,0,0.183,0.577,0.0,0.104,0.564,73.898,"dance pop, pop",Justin Timberlake,Cry Me a River
+0.611,0.556,9,-5.761,1,0.0288,0.175,7.14e-05,0.0359,0.252,126.532,"permanent wave, pop",Coldplay,God Put a Smile upon Your Face
+0.665,0.793,5,-3.888,0,0.0302,0.0166,0.000215,0.113,0.475,135.011,"alternative dance, electropop, indietronica, neo-synthpop, shimmer pop, swedish electropop, swedish indie pop, swedish synthpop",Miike Snow,Black & Blue
+0.884,0.869,11,-6.574,0,0.0758,0.607,0.00168,0.0741,0.94,125.044,"funk, soul, vocal jazz",James Brown,Super Bad
+0.585,0.795,2,-8.269,0,0.0358,0.0412,0.291,0.0834,0.865,109.011,,Frida,I Know There's Something Going On
+0.684,0.834,2,-4.524,0,0.0675,0.0646,0.0,0.271,0.538,164.02,"hip hop, pittsburgh rap, pop rap, rap, southern hip hop, trap",Wiz Khalifa,Black and Yellow
+0.666,0.855,9,-5.051,0,0.0295,0.179,1.2e-06,0.0987,0.803,125.639,"alternative rock, athens indie, permanent wave, rock",R.E.M.,Losing My Religion
+0.542,0.914,0,-4.747,0,0.113,0.0161,0.0,0.744,0.576,153.993,"chicago rap, hip hop, rap",Kanye West,Power
+0.693,0.705,8,-5.747,1,0.0665,0.0228,0.0,0.202,0.45,131.951,"dance pop, pop",Britney Spears,Till The World Ends
+0.641,0.754,0,-8.81,1,0.0438,0.421,0.000284,0.439,0.813,128.925,,,Breakaway
+0.653,0.28,2,-18.087,1,0.0383,0.834,0.922,0.0793,0.54,101.729,"latin jazz, musica tradicional cubana, world",Buena Vista Social Club,Buena Vista Social Club
+0.633,0.823,5,-5.792,1,0.0287,0.0516,0.000496,0.188,0.444,115.107,"album rock, classic rock, hard rock, rock",Aerosmith,Janie's Got a Gun
+0.435,0.887,9,-4.07,1,0.0637,0.000747,0.0,0.0327,0.408,199.939,"emo, modern rock, pop, rock",Fall Out Boy,"This Ain't A Scene, It's An Arms Race"
+0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066,"alternative metal, alternative rock, modern rock, permanent wave, post-grunge, rock",Foo Fighters,Everlong
+0.631,0.804,7,-5.492,1,0.166,0.00589,0.00116,0.16,0.671,79.898,"alternative rock, experimental rock, grunge, noise rock, psychedelic punk, punk",Butthole Surfers,Pepper
+0.764,0.739,1,-6.422,1,0.0574,0.403,0.0,0.0821,0.77,132.995,"bachata, latin hip hop, latin pop, trap latino, urbano latino",Romeo Santos,Promise
+0.638,0.807,11,-7.232,0,0.12,0.00057,0.722,0.097,0.155,132.962,"escape room, hip house, lgbtq+ hip hop, trap queen",Azealia Banks,Yung Rapunxel
+0.71,0.68,1,-4.676,1,0.106,0.0078,0.0165,0.0493,0.571,129.971,"dance pop, pop",Ke$ha,Cannibal
+0.252,0.86,6,-4.096,1,0.0979,0.0547,0.0,0.341,0.364,206.788,"dance pop, hip pop, r&b, urban contemporary",Keri Hilson,Make Love
+0.188,0.707,2,-10.066,0,0.0464,4.82e-05,0.827,0.0957,0.325,87.997,"grungegaze, nu gaze, shoegaze, spacegrunge",Swervedriver,Never Lose That Feeling
+0.619,0.603,9,-9.481,1,0.0342,0.712,0.0,0.0721,0.958,127.433,"adult standards, classic rock, folk rock, mellow gold, rock-and-roll, rockabilly, singer-songwriter, soft rock",Roy Orbison,"Oh, Pretty Woman"
+0.648,0.593,10,-6.267,1,0.0509,0.0188,0.0,0.169,0.719,160.984,"pop, r&b",Beyonce,Party
+0.492,0.824,2,-8.523,1,0.106,0.0758,0.000961,0.147,0.331,85.174,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,I Know What I Like
+0.609,0.857,5,-8.729,0,0.036,0.133,0.699,0.151,0.961,119.987,"electronica, folktronica, indietronica, intelligent dance music, trip hop",Four Tet,Everything Is Alright
+0.729,0.78,5,-7.604,1,0.0631,0.114,0.106,0.0759,0.795,111.833,"disco, quiet storm, soul",Barry White,Can't Get Enough Of Your Love Babe
+0.452,0.873,9,-4.867,1,0.0613,0.000519,0.0,0.0592,0.433,80.473,"alternative metal, alternative rock, grunge, hard rock, nu metal, permanent wave, post-grunge, rock, supergroup",Audioslave,Cochise
+0.723,0.778,6,-3.867,1,0.0444,0.0292,0.000897,0.0518,0.58,96.459,"dance pop, pop",Christina Aguilera,Slow Down Baby
+0.783,0.357,10,-23.0,0,0.15,0.607,0.586,0.547,0.839,112.875,"britpop, welsh indie, welsh rock",Super Furry Animals,Check It Out
+0.564,0.859,7,-5.898,1,0.0423,0.236,9.38e-06,0.116,0.336,147.836,"latin pop, puerto rican pop",Carlos Ponce,Rezo
+0.832,0.848,7,-7.407,1,0.0545,0.0919,2.83e-05,0.0458,0.901,130.004,"k-pop, k-pop girl group",T-ara,Roly Poly
+0.627,0.971,2,-3.017,1,0.0376,0.00376,4.11e-05,0.246,0.605,101.0,"modern rock, permanent wave, punk, rock",Green Day,Let Yourself Go
+0.273,0.138,0,-11.734,1,0.0313,0.701,0.0,0.0942,0.106,83.381,"chamber folk, folktronica, indie folk, new americana, rhode island indie, stomp and holler",The Low Anthem,Charlie Darwin
+0.306,0.722,0,-5.963,1,0.034,0.0519,0.0,0.117,0.41,174.732,"album rock, classic rock, glam metal, hard rock, mellow gold, rock, soft rock",REO Speedwagon,Keep On Loving You
+0.702,0.901,1,-4.45,1,0.0264,0.426,0.00153,0.0368,0.919,97.862,christian music,Amy Grant,Baby Baby
+0.718,0.82,5,-3.453,0,0.0323,0.0444,0.0,0.0846,0.613,92.998,pop,Maroon 5,One More Night
+0.391,0.647,0,-10.882,1,0.0396,0.27,0.0,0.112,0.553,204.411,"dance pop, pop",Cher,Heart of Stone
+0.335,0.721,2,-4.981,1,0.0383,3.47e-05,0.0058,0.351,0.407,141.827,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Putting Holes In Happiness
+0.613,0.622,1,-5.794,0,0.0334,0.00882,0.0,0.37,0.484,80.003,pop,Miley Cyrus,We Can't Stop
+0.423,0.943,0,-2.808,1,0.498,0.0227,0.0,0.0798,0.165,139.48,"brostep, complextro, edm, electro, pop dance",Skrillex,Try It Out
+0.677,0.671,7,-4.905,1,0.0361,0.004,5.07e-05,0.413,0.527,137.046,"barbadian pop, pop, urban contemporary",Rihanna,SOS
+0.613,0.962,6,-5.07,0,0.278,0.034,0.0,0.824,0.496,113.015,"alternative dance, dance-punk, electronica, filter house, indietronica, new rave",Justice,D.A.N.C.E
+0.384,0.833,11,-9.797,0,0.0779,0.000777,0.00489,0.18,0.357,172.015,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Antichrist Superstar
+0.392,0.642,8,-5.267,1,0.0326,0.0048,0.486,0.296,0.129,92.698,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Sweet Dreams
+0.543,0.899,7,-1.589,0,0.16,0.0219,4.88e-05,0.259,0.441,127.991,"dance pop, pop",Christina Aguilera,Let There Be Love
+0.721,0.809,9,-5.18,0,0.0514,0.0451,0.0,0.079,0.611,123.025,"dance pop, post-teen pop",Lindsay Lohan,Bossy
+0.76,0.72,10,-7.771,0,0.042,0.107,0.0403,0.305,0.343,122.05,covertronica,,Halo
+0.805,0.7,5,-6.602,0,0.0717,0.0998,0.0,0.286,0.777,94.974,"latin hip hop, reggaeton, trap latino, urbano latino",Daddy Yankee,Like You
+0.583,0.655,0,-5.407,1,0.0315,0.111,3.57e-06,0.113,0.201,119.759,pop,Miley Cyrus,Adore You
+0.511,0.942,0,-10.407,1,0.0429,0.174,1.87e-05,0.139,0.498,97.909,"new romantic, new wave, new wave pop, permanent wave, rock, sophisti-pop, synthpop",Tears For Fears,Shout
+0.308,0.113,9,-13.282,0,0.0317,0.956,0.59,0.227,0.257,179.641,pop violin,All,Mary
+0.692,0.908,9,-5.364,1,0.0677,0.0251,0.0,0.0933,0.513,124.042,"dance pop, pop, talent show",Kelly Clarkson,Catch My Breath
+0.234,0.227,11,-18.535,1,0.0373,0.944,0.869,0.0854,0.0703,101.636,"classical, german opera, german romanticism, late romantic era",Richard Wagner,Ride of the Valkyries
+0.525,0.472,4,-9.277,1,0.0739,0.534,0.614,0.11,0.0424,127.945,"art pop, metropopolis, nz pop, pop",Lorde,Ribs
+0.571,0.722,9,-5.726,1,0.0944,0.57,0.0,0.0657,0.807,107.745,"colombian pop, latin pop, reggaeton",Fanny Lu,Y Si Te Digo
+0.614,0.476,1,-13.301,0,0.0269,0.23,0.000147,0.0808,0.501,107.265,new wave pop,Debbie Harry,Free To Fall
+0.487,0.558,5,-5.604,1,0.0275,0.694,0.0,0.131,0.321,81.938,"dance pop, pop",Christina Aguilera,Si No Te Hubiera Conocido
+0.663,0.95,7,-4.21,1,0.0619,0.00126,0.0049,0.0753,0.698,116.015,"europop, girl group, talent show",Girls Aloud,Love Machine
+0.931,0.818,2,-2.964,1,0.0445,0.0131,0.697,0.0765,0.856,134.015,"k-pop, k-pop girl group",Crayon Pop,Bar Bar Bar
+0.463,0.889,1,-10.384,1,0.0652,0.000322,8.37e-05,0.123,0.503,98.264,"hardcore punk, punk, skate punk",Descendents,Myage
+0.711,0.801,0,-4.58,1,0.125,0.517,8.37e-06,0.0987,0.78,182.917,"mexican pop, tejano",Selena,Baila Esta Cumbia
+0.698,0.197,4,-14.792,1,0.0383,0.655,0.0,0.0716,0.361,122.864,"classic rock, country rock, folk, folk rock, rock, roots rock, singer-songwriter",Bob Dylan,It's All Over Now Baby Blue
+0.473,0.936,6,-5.967,1,0.0647,0.00276,0.0256,0.107,0.639,162.066,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,We're From America
+0.747,0.716,11,-2.457,0,0.0751,0.135,0.0,0.251,0.751,125.006,"hip pop, pop, queens hip hop, rap",Nicki Minaj,Starships
+0.394,0.991,11,-3.351,0,0.0716,3.93e-05,0.00125,0.0563,0.834,97.93,,The Bronx,History's Stranglers
+0.497,0.511,7,-8.318,1,0.0271,0.702,0.0,0.262,0.591,99.5,"classic rock, country rock, folk, folk rock, rock, roots rock, singer-songwriter",Bob Dylan,Just Like Tom Thumb's Blues
+0.571,0.619,7,-6.961,1,0.0244,0.0613,0.0,0.155,0.468,93.096,opm,Daniel Padilla,Simpleng Tulad Mo
+0.671,0.939,8,-3.206,1,0.161,0.191,0.0,0.298,0.53,129.024,"dance pop, miami hip hop, pop",Pitbull,Give Me Everything
+0.892,0.764,10,-5.668,0,0.0547,0.0186,0.0358,0.332,0.856,115.014,"dance pop, post-teen pop",Lindsay Lohan,Rumors
+0.361,0.843,4,-7.317,0,0.0463,4.33e-05,0.732,0.102,0.0865,95.923,"argentine rock, latin alternative, latin rock, post-punk argentina, rock en espanol, ska argentino",Soda Stereo,En Remolinos
+0.241,0.94,9,-3.519,1,0.0706,0.00749,0.00266,0.327,0.199,154.133,"alternative rock, lo-fi, noise pop, noise rock, permanent wave, power pop, shoegaze, slacker rock",Dinosaur Jr,Freak Scene
+0.52,0.553,8,-3.546,1,0.0269,0.016,0.0,0.165,0.227,81.949,pop,Taylor Swift,Enchanted
+0.552,0.518,5,-10.479,1,0.0265,0.2,0.00938,0.0965,0.45,84.996,"downtempo, electronica, trip hop",Morcheeba,Enjoy The Ride
+0.597,0.5,4,-6.216,1,0.0579,0.127,0.0,0.214,0.522,79.071,"boy band, pop",Jonas Brothers,Lovebug
+0.54,0.825,1,-8.676,0,0.0643,0.00049,0.0,0.331,0.713,96.946,"hardcore punk, punk, skate punk",Descendents,Kabuki Girl
+0.518,0.866,9,-4.476,1,0.0509,0.00413,1.93e-05,0.246,0.671,117.983,"album rock, classic rock, hard rock, rock",Aerosmith,Jaded
+0.764,0.749,4,-6.118,0,0.254,0.34,0.0,0.104,0.813,87.861,"latin afrobeat, latin alternative, latin hip hop, latin rock, puerto rican rock, rap conciencia, reggaeton, rock en espanol",Calle 13,Tango del Pecado
+0.662,0.847,9,-2.796,0,0.039,0.0695,0.00161,0.0832,0.627,121.056,"dance pop, girl group, post-teen pop, talent show",The Saturdays,Notorious
+0.586,0.855,0,-4.131,1,0.0583,0.0853,0.0,0.329,0.42,110.986,,Emmelie de Forest,Only Teardrops
+0.463,0.368,9,-11.546,1,0.048,0.376,0.0,0.149,0.75,141.974,"british folk, british singer-songwriter, chamber pop, singer-songwriter",Laura Marling,Ghosts
+0.423,0.943,10,-3.962,1,0.0941,0.00119,5.08e-06,0.263,0.404,168.024,"heartland rock, new jersey hardcore, new jersey indie, new jersey punk",The Gaslight Anthem,The '59 Sound
+0.434,0.422,7,-13.964,0,0.0375,0.134,2.05e-05,0.0861,0.377,123.201,"british soul, neo soul",Amy Winehouse,Back to Black
+0.722,0.912,9,-5.785,1,0.136,0.0303,0.000457,0.91,0.637,109.995,"alternative metal, alternative rock, funk metal, funk rock, modern rock, nu metal, post-grunge, rock",Incubus,You Will Be A Hot Dancer
+0.354,0.941,1,-6.984,1,0.0737,4.79e-05,0.66,0.331,0.569,131.442,"alternative rock, grunge, punk",Mudhoney,Touch Me I'm Sick
+0.441,0.8,10,-3.268,1,0.0365,0.267,0.0,0.101,0.204,151.011,piano rock,Thriving Ivory,Angels on the Moon
+0.404,0.971,2,-4.159,1,0.104,1.35e-05,2.22e-05,0.488,0.186,148.34,"modern alternative rock, modern rock, pop, pov: indie, rock",The 1975,Sex
+0.749,0.491,10,-9.655,1,0.0403,0.02,0.00899,0.159,0.536,119.528,"europop, swedish pop",ABBA,Gimme! Gimme! Gimme!
+0.452,0.571,7,-3.992,1,0.036,0.249,0.0,0.114,0.326,169.884,"barbadian pop, pop, urban contemporary",Rihanna,California King Bed
+0.711,0.748,8,-7.318,1,0.131,0.133,0.0,0.461,0.489,127.99,talent show,Alexis Jordan,Happiness
+0.963,0.605,9,-6.239,1,0.176,0.0603,5.63e-05,0.238,0.806,129.993,"hip pop, pop, queens hip hop, rap",Nicki Minaj,Anaconda
+0.729,0.929,1,-3.297,1,0.238,0.0759,0.000846,0.303,0.884,92.675,"g funk, gangster rap, hip hop, rap, west coast rap",Dr. Dre,Let Me Ride
+0.435,0.32,11,-15.761,0,0.0826,0.482,0.0,0.111,0.281,131.1,"art pop, art rock, baroque pop, new wave pop, permanent wave, piano rock, singer-songwriter",Kate Bush,Night Of The Swallow
+0.64,0.743,10,-4.08,1,0.0379,0.269,0.0,0.101,0.361,122.035,"neo mellow, piano rock, pop, pop rock",The Fray,How to Save a Life
+0.401,0.957,9,-4.542,1,0.0987,0.00166,8.11e-06,0.14,0.44,93.264,"hardcore punk, punk, skate punk",Descendents,Cameage
+0.696,0.734,7,-5.294,1,0.0298,0.0485,0.0,0.183,0.711,107.987,"dance pop, pop",Britney Spears,Criminal
+0.73,0.797,11,-2.135,1,0.0394,0.0536,0.0,0.0443,0.575,127.985,"dance pop, k-pop, k-pop girl group",2NE1,Go Away
+0.306,0.962,4,-6.059,0,0.0688,0.00179,0.788,0.119,0.385,112.446,"dc hardcore, emo, emo punk, emocore, post-hardcore",Rites of Spring,Remainder
+0.276,0.986,9,-10.221,0,0.122,0.000633,0.00439,0.349,0.0621,153.64,"metal, speed metal, thrash metal, us power metal",Riot,Thundersteel
+0.723,0.721,9,-9.389,0,0.0301,0.0249,0.0108,0.0545,0.646,123.488,"new wave pop, sophisti-pop, trip hop",Everything But The Girl,Missing
+0.536,0.494,2,-6.572,0,0.0295,0.515,0.0,0.114,0.385,144.244,"britpop, welsh indie, welsh rock",Super Furry Animals,The Gift That Keeps Giving
+0.367,0.84,4,-5.164,1,0.0946,0.0763,0.0221,0.102,0.38,97.095,"britpop, welsh indie, welsh rock",Super Furry Animals,Ice Hockey Hair
+0.662,0.911,10,-2.623,0,0.0752,0.0485,3.13e-06,0.262,0.63,104.932,"classic j-pop, eurobeat, j-pop",Ayumi Hamasaki,Bold & Delicious
+0.415,0.891,5,-5.014,1,0.036,2.18e-05,0.39,0.379,0.248,156.03,"alternative dance, alternative rock, dance-punk, indie rock, indietronica, modern rock, neo-synthpop, new rave",Bloc Party,Ion Square
+0.706,0.842,7,-4.474,1,0.078,0.338,0.0,0.357,0.798,133.998,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Dime
+0.525,0.83,5,-7.615,1,0.0629,0.758,0.00278,0.852,0.447,139.084,"art rock, progressive rock, symphonic rock",Roger Hodgson,Dreamer
+0.694,0.824,1,-6.756,1,0.0909,0.119,7.15e-06,0.152,0.675,95.833,"dance pop, pop, urban contemporary",Mariah Carey,Honey
+0.719,0.687,1,-5.923,1,0.0643,0.0208,0.0,0.109,0.544,119.921,"dance pop, pop, pop rap",Taio Cruz,Dirty Picture
+0.787,0.791,1,-5.607,1,0.0599,0.146,0.0,0.106,0.887,93.995,"latin hip hop, reggaeton, trap latino, urbano latino",Nicky Jam,Travesuras
+0.752,0.576,9,-7.45,1,0.0318,0.698,0.00327,0.0972,0.496,130.021,"dance pop, post-teen pop, talent show",Cheryl Cole,3 Words
+0.506,0.988,0,-3.139,1,0.0733,0.00213,0.00399,0.296,0.235,105.531,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Purify
+0.436,0.391,1,-9.62,0,0.0326,0.554,0.0,0.12,0.126,125.354,"dance pop, pop",Mariah Carey & Whitney Houston,When You Believe
+0.781,0.839,5,-5.698,1,0.0821,0.365,0.0,0.111,0.792,87.003,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Menor Que Yo
+0.496,0.449,4,-10.23,1,0.0277,0.364,8.48e-06,0.12,0.547,116.181,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Goin' Back
+0.537,0.399,4,-13.547,0,0.0269,0.202,0.0546,0.109,0.832,171.402,"canadian singer-songwriter, classic canadian rock, classic rock, folk rock, mellow gold, permanent wave, rock, roots rock, singer-songwriter",Neil Young,Heart of Gold
+0.608,0.665,5,-7.081,1,0.0664,0.14,1.13e-06,0.31,0.353,149.989,"art pop, metropopolis, nz pop, pop",Lorde,No Better
+0.744,0.627,9,-12.588,1,0.0324,0.0328,0.000223,0.226,0.946,130.182,new wave pop,Deborah Harry,I Want That Man
+0.377,0.341,2,-6.484,1,0.0283,0.778,0.0,0.109,0.331,104.456,christian music,Amy Grant,Angels
+0.71,0.68,6,-8.19,1,0.035,0.00315,0.259,0.102,0.907,125.983,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,Good Boys
+0.723,0.865,11,-7.08,0,0.0757,0.0476,0.000195,0.392,0.381,132.164,"album rock, classic rock, dance rock, hard rock, new romantic, new wave, new wave pop, rock, soft rock",Billy Idol,Heroin
+0.415,0.704,7,-4.883,0,0.0601,0.0777,0.0,0.36,0.451,139.905,"barbadian pop, pop, urban contemporary",Rihanna,Wait Your Turn
+0.865,0.69,7,-7.448,1,0.0443,0.285,0.0162,0.225,0.867,121.983,"colombian pop, dance pop, latin pop, pop",Shakira,She Wolf
+0.692,0.852,1,-2.975,1,0.0828,0.135,1.26e-05,0.692,0.636,104.957,"dance pop, pop",Christina Aguilera,Makes Me Wanna Pray
+0.566,0.834,6,-8.412,0,0.0298,0.00277,0.008,0.0625,0.621,123.296,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Enter Sandman
+0.361,0.901,4,-4.133,0,0.0443,0.00152,0.000263,0.286,0.482,144.97,"pop rock, post-grunge",Harvey Danger,Flagpole Sitta
+0.384,0.45,6,-10.485,0,0.193,0.269,2.52e-05,0.138,0.0874,89.598,"alternative r&b, dance pop, metropopolis, pop, r&b",Tinashe,Pretend
+0.94,0.633,8,-3.56,1,0.0467,0.0581,4.04e-05,0.281,0.962,121.003,"detroit hip hop, hip hop, rap",Eminem,Just Lose It
+0.522,0.79,9,-6.242,1,0.0252,0.00581,0.00102,0.288,0.244,96.062,"alternative rock, indie rock, melancholia, singer-songwriter",Elliott Smith,Son of Sam
+0.575,0.886,5,-5.182,1,0.034,0.0647,0.000187,0.709,0.609,96.31,"dance pop, europop, lilith, new wave pop, pop rock",Natalie Imbruglia,Torn
+0.552,0.802,0,-3.799,1,0.0615,0.215,0.0,0.275,0.776,78.21,"dance pop, pop, post-teen pop",Hilary Duff,So Yesterday
+0.452,0.574,9,-7.936,1,0.0321,0.111,0.0,0.0823,0.811,123.204,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,All I Really Want To Do
+0.666,0.856,5,-6.101,0,0.0291,0.000428,1.05e-05,0.0715,0.693,99.991,"pop, post-teen pop",Joe Jonas,Just in Love
+0.629,0.839,9,-7.061,1,0.0899,0.0018,0.0859,0.251,0.449,118.979,"dance pop, pop",Madonna,Jump
+0.629,0.819,0,-6.181,1,0.254,0.227,0.00733,0.169,0.47,162.048,"barbadian pop, pop, urban contemporary",Rihanna,Jump
+0.51,0.815,11,-5.847,1,0.508,0.169,0.0,0.0544,0.498,98.216,"hardcore punk, punk, skate punk",Descendents,All-O-Gistics
+0.512,0.615,11,-5.318,1,0.0319,0.216,0.0,0.123,0.193,115.884,"latin pop, mexican pop, puerto rican pop",Ricky Martin,Tal Vez
+0.97,0.738,1,-3.381,0,0.132,0.0369,0.000384,0.324,0.961,107.166,"dance pop, hip pop, neo soul, urban contemporary",Kelis,Trick Me
+0.587,0.755,9,-5.377,1,0.039,0.0722,1.51e-05,0.221,0.8,146.129,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,Sunday Girl
+0.292,0.189,10,-12.385,1,0.0296,0.964,0.000386,0.107,0.0953,88.074,"latin pop, mexican pop, puerto rican pop",Ricky Martin,Hagamos El Amor
+0.414,0.161,7,-22.32,0,0.0318,0.883,0.000223,0.117,0.423,159.375,"album rock, classic rock, rock, soft rock, yacht rock",Fleetwood Mac,Landslide
+0.715,0.46,5,-11.124,1,0.0361,0.0261,0.114,0.105,0.114,105.004,,Shara Nelson,One Goodbye In Ten
+0.658,0.877,7,-2.098,1,0.0323,0.173,0.0,0.0962,0.821,105.586,pop,Taylor Swift,Picture to Burn
+0.684,0.753,5,-5.834,0,0.0483,0.268,3.3e-06,0.3,0.713,104.919,"bolero, latin pop",Luis Miguel,"Sol, Arena y Mar"
+0.454,0.865,4,-3.841,1,0.0561,0.0323,0.0,0.186,0.34,166.018,"canadian pop, candy pop, dance pop, pop",Avril Lavigne,Wish You Were Here
+0.817,0.716,6,-8.898,0,0.144,0.0427,0.00263,0.358,0.692,123.474,"electro, filter house, rock",Daft Punk,Harder Better Faster Stronger
+0.819,0.707,10,-7.449,0,0.183,0.242,0.0,0.506,0.777,92.003,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Que Lloren
+0.571,0.967,2,-4.632,1,0.0434,0.000508,0.0,0.0619,0.761,137.084,,The Bronx,White Guilt
+0.327,0.295,4,-6.907,0,0.0313,0.775,0.0,0.107,0.143,148.574,"dance pop, pop",Christina Aguilera,Hurt
+0.552,0.303,2,-10.579,1,0.0429,0.772,0.0,0.119,0.336,85.921,"new wave pop, soft rock",Gloria Estefan,Con Los Años Que Me Quedan
+0.771,0.68,11,-5.881,0,0.224,0.277,1.18e-05,0.682,0.808,119.952,"dance pop, pop",Justin Timberlake,My Love
+0.717,0.877,0,-4.266,1,0.0375,0.0136,0.000814,0.0616,0.794,111.0,"dance pop, pop",Britney Spears,Anticipating
+0.32,0.87,1,-4.659,1,0.258,0.000912,0.0,0.799,0.154,172.193,"british alternative rock, nintendocore, trancecore, uk metalcore, uk post-hardcore",Enter Shikari,Sssnakepit
+0.293,0.817,8,-5.432,1,0.0852,0.0401,3.4e-05,0.13,0.145,165.0,"modern rock, post-grunge",Thirty Seconds to Mars,Kings and Queens
+0.685,0.172,8,-14.979,1,0.0412,0.909,0.00154,0.286,0.563,133.902,"art pop, baroque pop, chamber pop, indie pop, indie rock, singer-songwriter",Sufjan Stevens,Casimir Pulaski Day
+0.649,0.607,11,-6.179,1,0.0268,0.242,0.0,0.0413,0.708,96.11,"belgian indie, belgian pop, chanson, french pop",Axelle Red,Sensualité
+0.6,0.787,6,-5.163,1,0.0366,0.043,0.0,0.358,0.608,127.977,"dance pop, pop, talent show",Kelly Clarkson,People Like Us
+0.614,0.568,7,-5.477,0,0.0276,0.00797,0.0,0.0997,0.516,107.849,"alternative metal, alternative rock, grunge, hard rock, nu metal, permanent wave, post-grunge, rock, supergroup",Audioslave,Like A Stone
+0.655,0.649,1,-5.653,0,0.089,0.0793,0.000393,0.117,0.759,86.968,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",Aaliyah,More Than a Woman
+0.865,0.665,7,-6.289,1,0.073,0.0453,0.0,0.224,0.331,111.113,"g funk, gangster rap, hip hop, rap, west coast rap",Tupac,Changes
+0.307,0.687,2,-11.999,0,0.173,0.514,0.0727,0.413,0.385,84.413,classic oklahoma country,Garth Brooks,The Thunder Rolls
+0.799,0.676,3,-9.023,1,0.0674,0.548,0.00589,0.456,0.795,109.432,,,Track 7
+0.633,0.934,0,-3.594,1,0.0344,0.219,0.00021,0.0592,0.963,128.602,"album rock, british invasion, classic rock, rock",The Rolling Stones,Brown Sugar
+0.748,0.786,4,-7.788,0,0.0641,0.328,0.0,0.34,0.917,104.833,"ectofolk, lilith, neo mellow, pop rock, scottish singer-songwriter",KT Tunstall,Black Horse & The Cherry Tree
+0.588,0.74,11,-9.939,1,0.034,0.0782,0.0,0.0925,0.555,97.599,"dance pop, pop",Cher,Could've Been You
+0.807,0.741,1,-4.472,1,0.083,0.0135,0.0316,0.06,0.558,108.989,"r&b, soul",Michael Jackson,Blood on the Dance Floor
+0.199,0.843,7,-6.612,1,0.0607,0.00841,0.00248,0.0694,0.271,82.654,"britpop, welsh indie, welsh rock",Super Furry Animals,Battersea Odyssey
+0.407,0.517,2,-11.971,1,0.0397,0.126,0.0,0.117,0.282,121.539,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Chestnut Mare
+0.76,0.696,0,-5.811,1,0.0491,0.0195,0.0,0.278,0.903,127.029,"eurodance, europop, german techno, melbourne bounce international",Cascada,Evacuate The Dancefloor
+0.452,0.938,2,-4.603,1,0.083,0.401,0.787,0.119,0.235,127.18,"hardcore punk, punk, skate punk",Descendents,Days Are Blood
+0.353,0.446,0,-6.044,0,0.0285,0.95,1.35e-05,0.132,0.211,155.476,"british soul, pop, pop soul, uk pop",Adele,Turning Tables
+0.456,0.573,5,-3.866,0,0.0275,0.578,3.05e-06,0.114,0.0992,76.19,"dance pop, pop",Christina Aguilera,Beautiful
+0.471,0.985,2,-3.618,1,0.191,0.00018,4.17e-05,0.0557,0.14,135.063,alternative metal,Avenged Sevenfold,Carry On
+0.18,0.982,5,-4.691,1,0.31,1.36e-05,0.792,0.331,0.0767,81.75,"alternative metal, nu metal, rap metal, rock, sacramento indie",Deftones,When Girls Telephone Boys
+0.792,0.918,6,-14.205,1,0.0713,0.018,0.918,0.129,0.506,120.438,"acid house, chicago house, classic house",Phuture,Acid Tracks
+0.353,0.975,8,-5.275,1,0.081,0.00108,7.12e-05,0.301,0.434,99.004,neo-trad metal,Steel Prophet,Neon Knights
+0.442,0.717,5,-5.498,0,0.0504,0.178,5.1e-05,0.344,0.386,149.582,"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock",Radiohead,2 + 2 = 5
+0.759,0.942,10,-1.625,0,0.0411,0.0144,0.000205,0.0951,0.9,129.009,"disco house, filter house",Bob Sinclar,Rock the Boat
+0.593,0.902,2,-7.069,1,0.358,0.0107,0.0026,0.031,0.582,203.723,"ambient house, breakbeat, electronica, intelligent dance music, trip hop",The Orb,Aftermath
+0.724,0.934,7,-5.271,1,0.0887,0.0083,9e-05,0.0782,0.858,104.027,"dance pop, girl group, pop",Spice Girls,Move Over
+0.659,0.585,7,-8.189,1,0.0288,0.623,0.000213,0.348,0.784,104.111,"arkansas country, outlaw country, rock",Johnny Cash,Ring of Fire
+0.532,0.78,6,-6.612,1,0.274,0.378,0.0,0.157,0.834,76.983,"dance pop, hip pop, r&b, urban contemporary",Keri Hilson,Breaking Point
+0.852,0.797,0,-6.543,1,0.0614,0.322,2.69e-06,0.0845,0.741,96.008,"latin hip hop, reggaeton, trap latino, urbano latino",Daddy Yankee,Gasolina
+0.834,0.878,8,-9.484,1,0.15,0.0461,0.0,0.334,0.418,102.848,"conscious hip hop, gangster rap, golden age hip hop, hip hop, old school hip hop, rap, west coast rap",N.W.A,Straight Outta Compton
+0.235,0.987,10,-4.661,0,0.086,5.52e-06,0.828,0.141,0.139,139.974,"alternative metal, djent, groove metal, metal, nu metal, progressive groove metal, swedish metal, technical groove metal, technical thrash",Meshuggah,Straws Pulled At Random
+0.29,0.911,5,-5.667,0,0.0975,0.00617,0.0108,0.331,0.658,178.636,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Jump in the Fire
+0.592,0.729,8,-4.156,1,0.0448,0.022,0.0,0.0653,0.709,116.03,"neo mellow, piano rock, pop, pop rock",The Fray,Over My Head
+0.551,0.886,5,-5.303,0,0.0454,0.000246,0.0305,0.0804,0.959,163.825,,Gary Glitter,Another Rock and Roll Christmas
+0.512,0.514,11,-11.562,0,0.387,0.555,0.00958,0.126,0.565,181.033,"east coast hip hop, gangster rap, hardcore hip hop, hip hop, rap",Wu-Tang Clan,C.R.E.A.M
+0.582,0.937,8,-4.679,1,0.0363,0.0705,0.634,0.0868,0.437,136.034,"big beat, downtempo, electronica, trip hop",Faithless,I Want More
+0.468,0.971,2,-4.195,0,0.224,0.000116,7.84e-05,0.46,0.511,102.95,"comic metal, wrestling",Fozzy,Enemy
+0.65,0.842,0,-4.793,1,0.0465,0.000642,0.000342,0.0942,0.751,127.003,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,The Devil Beneath My Feet
+0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,"permanent wave, pop",Coldplay,Yellow
+0.66,0.805,1,-5.352,0,0.153,0.0192,8.83e-06,0.159,0.625,103.021,pop,Ariana Grande,Problem
+0.339,0.991,2,-5.028,1,0.145,0.000249,0.00327,0.261,0.185,106.767,"alternative metal, glam metal, groove metal, hard rock, metal, nu metal, old school thrash, rap metal, rock, speed metal, thrash metal",Anthrax,Caught in a Mosh
+0.367,0.415,7,-8.857,1,0.043,0.61,0.0,0.0804,0.402,180.706,"classic rock, country rock, folk, folk rock, rock, roots rock, singer-songwriter",Bob Dylan,Chimes Of Freedom
+0.718,0.523,6,-7.181,1,0.198,0.352,0.00304,0.0909,0.836,167.963,"pop, r&b",Beyoncé,I Miss You
+0.575,0.89,2,-3.169,1,0.0416,0.034,3.23e-06,0.047,0.206,128.041,"big room, dance pop, dutch house, edm, electro house, pop dance",Thirty Seconds to Mars,Do or Die
+0.583,0.666,9,-11.702,0,0.0307,0.0917,0.993,0.281,0.11,121.709,"dusseldorf electronic, early synthpop, electro, proto-techno, synthpop",Kraftwerk,Radioactivity
+0.652,0.698,10,-4.667,0,0.042,0.00112,0.000115,0.0886,0.47,96.021,pop,Miley Cyrus,Party In The USA
+0.657,0.898,7,-5.612,1,0.046,0.0355,0.00143,0.257,0.797,104.007,"latin pop, mexican pop, puerto rican pop",Ricky Martin,"Lola, Lola"
+0.548,0.475,1,-12.42,1,0.0355,0.615,0.808,0.0944,0.0349,126.974,"permanent wave, pop",Coldplay,Midnight
+0.843,0.594,7,-5.967,1,0.0594,0.0511,3.97e-05,0.0589,0.745,120.032,"dance pop, pop",Madonna,Nobody Knows Me
+0.785,0.788,5,-7.539,0,0.0464,0.0331,0.0524,0.0806,0.888,143.959,"dance pop, electropop, neo-synthpop, scandipop, swedish electropop, swedish pop",Robyn,Electric
+0.771,0.85,11,-5.985,0,0.0558,0.334,1.87e-06,0.122,0.586,94.991,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,"Te He Querido, Te He Llorado"
+0.392,0.839,7,-1.921,1,0.193,0.158,0.0,0.3,0.232,168.001,pop rap,Diddy-Dirty Money,Coming Home
+0.421,0.873,10,-4.343,1,0.0564,0.0654,0.0,0.123,0.629,84.786,"celtic rock, pop",The Script,Hall of Fame
+0.762,0.644,7,-6.715,1,0.223,0.0522,0.0,0.0821,0.82,81.99,"contemporary r&b, hip pop, r&b, urban contemporary",Monica,Everytime Tha Beat Drop
+0.742,0.467,10,-5.557,0,0.0624,0.0458,0.0,0.826,0.366,86.442,"dance pop, pop, urban contemporary",Mariah Carey,Obsessed
+0.598,0.974,3,-3.46,0,0.0295,0.00305,1.21e-06,0.247,0.874,134.829,"classic swedish pop, swedish pop",Lena Philipsson,Lena Anthem
+0.521,0.691,1,-7.377,0,0.0251,0.0975,0.0,0.187,0.434,107.707,"album rock, art rock, british invasion, classic rock, folk rock, glam rock, protopunk, psychedelic rock, rock, singer-songwriter",Kinks,Waterloo Sunset
+0.285,0.381,11,-5.545,0,0.0322,0.757,0.0,0.385,0.176,70.673,"british soul, dance pop, pop, talent show",Leona Lewis,Homeless
+0.725,0.841,2,-3.924,1,0.0545,0.002,0.0,0.0652,0.582,130.013,"k-pop, k-pop boy group",Big Bang,Fantastic Baby
+0.292,0.982,7,-5.592,1,0.141,0.0947,0.906,0.127,0.0467,121.72,"alternative rock, chamber pop, indie rock, lo-fi, shoegaze, slacker rock",Pavement,Forklift
+0.283,0.716,1,-9.632,0,0.0986,0.447,0.0,0.399,0.828,201.96,"classic soul, motown, neo soul, northern soul, quiet storm, soul",Marvin Gaye,What's Going On
+0.666,0.732,9,-9.078,0,0.0771,0.709,0.000132,0.0478,0.673,88.349,"salsa, salsa puertorriquena, tropical",La India,Ese Hombre
+0.73,0.735,1,-5.017,1,0.0325,0.000239,0.352,0.276,0.774,130.017,"alternative dance, dance-punk, electrofox, electronica, indie rock, neo-synthpop, new rave",The Rapture,House of Jealous Lovers
+0.561,0.836,9,-3.939,1,0.1,0.0525,0.0,0.136,0.517,127.923,"dance pop, pop",Jason Derulo,The Other Side
+0.575,0.927,5,-5.885,0,0.0393,1.72e-05,0.678,0.0819,0.615,138.009,"australian dance, dancefloor dnb, drum and bass",Pendulum,The Other Side
+0.514,0.738,4,-7.013,1,0.0364,0.000875,0.0876,0.0792,0.368,117.954,,The Narrative,Chasing a Feeling
+0.732,0.925,11,-4.165,0,0.051,0.0276,0.000238,0.14,0.782,127.012,romanian pop,Alexandra Stan,Mr. Saxobeat
+0.487,0.673,9,-10.102,1,0.0409,0.377,0.032,0.629,0.938,110.107,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Old John Robertson
+0.611,0.861,0,-3.757,1,0.0633,0.306,0.0,0.0691,0.846,96.44,"latin pop, modern salsa, salsa, tropical",Marc Anthony,Da La Vuelta
+0.293,0.932,4,-6.839,1,0.051,0.0136,0.906,0.289,0.657,173.262,"instrumental surf, surf music",Dick Dale,Misirlou
+0.555,0.802,4,-4.861,1,0.0277,0.0126,0.0,0.0961,0.143,101.021,"acoustic pop, idol, neo mellow",Kris Allen,The Truth
+0.33,0.957,1,-5.58,1,0.0599,0.000665,0.000282,0.526,0.661,171.098,,The Bronx,False Alarm
+0.587,0.687,1,-8.635,0,0.0509,0.0281,0.14,0.121,0.402,169.938,"electronica, trip hop",Sneaker Pimps,6 Underground
+0.529,0.953,2,-3.848,1,0.0684,0.00224,0.00119,0.772,0.397,136.949,"album rock, glam metal, hard rock, metal, progressive metal, us power metal",Queensryche,I Am I
+0.854,0.674,1,-6.23,1,0.184,0.0517,8.53e-05,0.509,0.848,99.022,"canadian contemporary r&b, canadian pop, pop",Madonna,Music
+0.486,0.635,2,-3.994,1,0.0278,0.00705,0.0,0.119,0.235,141.868,pop,Taylor Swift,Back To December
+0.613,0.317,2,-10.63,1,0.0297,0.557,9.65e-06,0.0958,0.264,129.975,,The Narrative,Eyes Closed
+0.711,0.906,8,-2.671,1,0.0284,0.00952,1.64e-05,0.153,0.824,125.916,"candy pop, dance pop, electropop, metropopolis, swedish electropop, swedish synthpop",Icona Pop,I Love It
+0.711,0.292,4,-15.523,0,0.037,0.313,0.0,0.131,0.194,103.951,"folk, lilith, singer-songwriter, women's music",Tracy Chapman,Fast Car
+0.606,0.591,0,-7.228,0,0.087,0.0756,0.0,0.328,0.477,95.802,"dance pop, pop",Justin Timberlake,Summer Love
+0.342,0.628,4,-8.354,0,0.0406,0.0866,0.101,0.0692,0.279,131.337,"britpop, welsh indie, welsh rock",Super Furry Animals,No Sympathy
+0.474,0.797,6,-4.541,0,0.192,0.193,6.2e-06,0.322,0.399,149.965,"pop, r&b",Beyoncé,Start Over
+0.333,0.497,2,-15.606,1,0.0366,0.105,0.872,0.129,0.113,81.681,"dusseldorf electronic, early synthpop, electro, proto-techno, synthpop",Kraftwerk,Autobahn
+0.662,0.906,5,-7.623,0,0.0349,0.000238,0.366,0.0774,0.662,124.989,"alternative dance, balearic, dance-punk, electroclash, electrofox, new rave, nu disco, rhode island indie",The Juan MacLean,Happy House
+0.497,0.927,0,-4.52,1,0.0372,0.00286,1.26e-06,0.413,0.608,96.987,"contemporary country, country, country pop, country road, modern country rock",Florida Georgia Line,Get Your Shine On
+0.632,0.773,6,-4.856,1,0.0346,0.0623,0.0,0.0885,0.474,130.033,pop,Taylor Swift,You Belong with Me
+0.642,0.695,7,-5.62,1,0.0281,0.000443,1.02e-05,0.0753,0.642,103.984,pop,Taylor Swift,22
+0.58,0.266,2,-15.269,1,0.0317,0.794,0.000172,0.11,0.581,154.595,"lilith, new wave pop, permanent wave, pop rock, singer-songwriter",Sheryl Crow,Strong Enough
+0.855,0.47,5,-10.11,1,0.165,0.341,2.33e-05,0.113,0.761,102.187,old school rap francais,Alliance Ethnik,Respect
+0.466,0.471,1,-13.762,1,0.039,0.573,0.82,0.121,0.794,132.109,,Frank Mills,Music Box Dancer
+0.239,0.415,7,-6.295,1,0.0314,0.425,0.0,0.124,0.443,204.052,"bolero, latin pop",Luis Miguel,Que Seas Feliz
+0.269,0.986,6,-4.243,1,0.166,9.54e-05,0.00064,0.161,0.498,175.02,,The Bronx,Shitty Future
+0.401,0.132,0,-15.569,1,0.0355,0.938,0.102,0.1,0.0381,136.142,"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock",Radiohead,True Love Waits
+0.648,0.859,7,-4.974,1,0.111,0.00645,0.0282,0.135,0.633,128.03,"edm, pop dance, progressive electro house",Swedish House Mafia,Antidote
+0.702,0.76,5,-3.174,1,0.0684,0.00226,0.0,0.132,0.696,129.996,pop,Katy Perry,I Kissed a Girl
+0.701,0.965,8,-4.651,1,0.0468,0.00189,0.000291,0.317,0.961,122.774,"eurodance, hip house",Twenty 4 Seven,I Can't Stand It
+0.516,0.764,2,-6.223,1,0.0366,0.0717,0.0,0.115,0.376,148.021,"piano rock, pop",OneRepublic,Secrets
+0.424,0.157,9,-18.141,1,0.0428,0.95,0.0593,0.101,0.342,91.537,"downtempo, dream pop, indietronica",The xx,Angels
+0.268,0.829,7,-4.592,1,0.0743,0.00986,0.434,0.142,0.203,117.351,"art pop, chamber pop, dream pop, dreamo, indie pop, indie rock, noise pop, shoegaze, toronto indie",Alvvays,"Archie, Marry Me"
+0.437,0.095,10,-14.857,1,0.0341,0.9,0.0345,0.0963,0.137,103.777,"ambient folk, lancaster pa indie",The Innocence Mission,Pioneering
+0.638,0.735,11,-5.414,0,0.0306,0.00359,0.000181,0.174,0.819,125.076,"europop, girl group, talent show",Girls Aloud,Call the Shots
+0.595,0.961,7,-3.781,1,0.31,0.0282,0.0,0.271,0.61,174.071,"brostep, complextro, edm, electro, pop dance",Skrillex,Ragga Bomb
+0.345,0.88,2,-8.62,1,0.0349,0.00662,0.306,0.0498,0.609,110.979,"album rock, classic rock, hard rock, rock",Led Zeppelin,Carouselambra
+0.538,0.82,4,-3.994,1,0.0301,0.0485,0.0,0.204,0.334,110.009,,DecembeRadio,For Your Glory
+0.651,0.83,2,-8.785,1,0.0316,0.00824,0.0429,0.0837,0.917,131.282,"album rock, classic rock, hard rock, mellow gold, new romantic, new wave, new wave pop, permanent wave, power pop, rock, singer-songwriter, soft rock, synthpop",The Cars,Let's Go
+0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05,"dance pop, miami hip hop, pop",Pitbull,International Love
+0.466,0.842,6,-2.937,1,0.0513,0.0332,9.12e-06,0.349,0.418,75.0,"girl group, pop, talent show",Fifth Harmony,Miss Movin' On
+0.691,0.64,8,-9.981,0,0.0839,0.519,2.7e-05,0.0545,0.796,145.741,"art pop, art rock, baroque pop, new wave pop, permanent wave, piano rock, singer-songwriter",Kate Bush,Sat In Your Lap
+0.48,0.303,5,-13.675,1,0.0384,0.812,0.0,0.0889,0.643,98.282,"acoustic blues, blues, louisiana blues, new orleans blues, traditional blues",Guitar Slim,The Things That I Used to Do
+0.6,0.878,6,-6.074,1,0.217,0.0154,0.0,0.0938,0.441,128.205,"escape room, hip house, lgbtq+ hip hop, trap queen",Azealia Banks,Chasing Time
+0.859,0.905,0,-5.539,0,0.129,0.205,0.00837,0.322,0.731,89.946,"r&b, soul",Michael Jackson,They Don't Care About Us
+0.446,0.142,9,-13.498,1,0.0335,0.96,0.00114,0.101,0.156,135.724,"classic country pop, country, country dawn",Dolly Parton,I Will Always Love You
+0.54,0.429,2,-11.822,1,0.0285,0.000202,0.355,0.141,0.113,110.171,"irish rock, permanent wave, rock",U2,With or Without You
+0.649,0.399,7,-13.485,0,0.0311,0.866,0.0786,0.335,0.378,115.016,,,Crazy in Love
+0.311,0.932,2,-3.861,1,0.23,0.0304,0.0,0.338,0.458,138.659,grime,Devlin,Off With Their Heads
+0.639,0.839,5,-4.703,1,0.0634,0.0446,3.74e-06,0.468,0.603,101.447,"alternative rock, funk metal, funk rock, permanent wave, rock",Red Hot Chili Peppers,Aeroplane
+0.61,0.637,1,-5.881,1,0.027,0.61,0.0,0.0952,0.322,128.863,"latin arena pop, latin pop",Cristian Castro,Por Amarte Así
+0.484,0.991,6,-4.648,0,0.118,0.000546,0.00624,0.277,0.3,121.545,"acid house, ambient house, big beat, hip house",The KLF,Last Train to Trancentral
+0.467,0.779,0,-3.071,1,0.0336,0.455,0.0,0.176,0.749,191.287,"classic swedish pop, dansband, swedish country",Kikki Danielsson,Bra vibrationer
+0.33,0.905,4,-5.047,1,0.0497,0.000233,8.14e-06,0.0712,0.259,163.142,britpop,Travis,Sing
+0.617,0.931,0,-6.845,1,0.0345,0.186,0.00166,0.171,0.849,131.014,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,Invisible Touch
+0.808,0.812,8,-5.012,1,0.0381,0.52,7.91e-05,0.134,0.269,100.331,"r&b, soul",Michael Jackson,Man in the Mirror
+0.638,0.428,9,-12.156,0,0.0687,0.252,0.0,0.132,0.901,139.434,"bubblegum pop, classic garage rock, folk rock, merseybeat, psychedelic rock, rock-and-roll",The Box Tops,The Letter
+0.209,0.417,3,-8.74,1,0.0338,0.164,0.00196,0.113,0.124,138.178,"permanent wave, pop",Coldplay,Fix You
+0.4,0.614,0,-15.743,1,0.05,0.0181,0.0367,0.0563,0.419,126.846,venezuelan rock,Vytas Brenner,Morrocoy
+0.752,0.935,11,-6.263,1,0.203,0.0742,0.0352,0.081,0.31,126.022,"big room, dance pop, edm, pop, pop dance",Benny Benassi,Satisfaction
+0.59,0.587,7,-6.24,1,0.143,0.084,0.0,0.317,0.635,106.236,"british soul, neo soul",Beverley Knight,Made It Back '99
+0.531,0.574,10,-6.693,0,0.113,0.114,0.0308,0.256,0.272,115.68,"dance pop, pop, pop rap",Timbaland,Carry Out
+0.196,0.944,3,-4.711,0,0.263,0.00109,3.34e-06,0.125,0.131,199.78,"mathcore, melodic metalcore, metalcore, progressive metalcore, uk metalcore",Architects,Devil's Island
+0.842,0.882,2,-4.96,1,0.0442,0.000914,0.0112,0.0999,0.374,123.068,"dance pop, electropop, neo-synthpop, scandipop, swedish electropop, swedish pop",Robyn,Fembot
+0.262,0.482,2,-6.863,0,0.0302,0.554,0.0161,0.244,0.0878,137.918,"art pop, pop",Lana Del Rey,Shades of Cool
+0.341,0.662,9,-5.023,0,0.0335,0.105,0.0,0.113,0.2,174.875,"alternative metal, alternative rock, grunge, hard rock, nu metal, permanent wave, post-grunge, rock, supergroup",Audioslave,I Am The Highway
+0.648,0.89,2,-3.834,1,0.0429,0.288,0.0,0.119,0.808,126.956,christian music,Amy Grant,Every Heartbeat
+0.798,0.909,11,-4.258,1,0.045,0.231,0.0,0.0502,0.866,117.947,"dance pop, pop",Madonna,True Blue
+0.584,0.936,6,-4.054,0,0.0671,0.00385,0.0614,0.0972,0.542,124.994,"dance pop, miami hip hop, pop",Jennifer Lopez,One Love
+0.599,0.785,3,-4.013,1,0.0309,0.448,0.00336,0.151,0.52,140.046,"canadian pop, neo mellow, pop rock",Daniel Powter,Bad Day
+0.516,0.722,2,-7.656,0,0.0484,0.569,1.8e-06,0.0786,0.681,178.758,"latin pop, modern salsa, salsa, tropical",Marc Anthony,Hasta Que Te Conoci
+0.491,0.917,2,-3.278,1,0.037,0.000199,0.0303,0.355,0.295,99.067,"alternative metal, nu metal, rap metal, rock",Slipknot,Gehenna
+0.425,0.589,1,-5.876,0,0.0284,0.0223,0.00101,0.26,0.144,104.948,"dutch metal, gothic metal, gothic symphonic metal, symphonic metal",Within Temptation,Mother Earth
+0.547,0.761,7,-4.02,1,0.0748,0.169,0.0,0.124,0.651,165.994,"atl hip hop, dance pop, hip pop, r&b, urban contemporary",Kelly Rowland,Grown Woman
+0.616,0.91,11,-4.248,1,0.0347,0.5,0.504,0.281,0.77,111.017,"album rock, british invasion, classic rock, rock",Rolling Stones,Tumbling Dice
+0.728,0.85,1,-5.536,1,0.0868,0.47,0.0,0.056,0.867,103.97,"colombian pop, latin pop, reggaeton",Fanny Lu,No Te Pido Flores
+0.665,0.693,7,-5.213,0,0.0295,0.739,0.0,0.109,0.964,117.293,"lounge, sunshine pop",,"Tonight, Tonight"
+0.426,0.849,4,-6.676,0,0.0456,0.000432,0.0463,0.325,0.263,77.054,"alternative metal, canadian metal, industrial metal, nu metal",Kittie,Get Off
+0.553,0.828,3,-4.399,1,0.0635,0.432,0.0,0.0801,0.504,117.948,"art pop, pop",Lana Del Rey,Blue Jeans
+0.705,0.743,1,-6.631,1,0.042,0.432,0.0133,0.103,0.374,118.552,"album rock, classic rock, country rock, detroit rock, hard rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",Bob Seger,Night Moves
+0.696,0.94,8,-3.498,1,0.064,0.00272,1.34e-06,0.0987,0.7,128.005,"dance pop, post-teen pop, talent show",Cheryl,Call My Name
+0.424,0.885,7,-3.654,1,0.0332,0.0226,0.016,0.235,0.378,88.006,british soul,Duffy,Rockferry
+0.634,0.63,1,-8.277,0,0.031,0.447,0.039,0.17,0.489,118.628,"album rock, british invasion, classic rock, rock",The Rolling Stones,Gimme Shelter
+0.406,0.665,1,-6.02,1,0.0298,0.0264,0.0,0.0826,0.522,201.7,"dance pop, pop, talent show",Kelly Clarkson,Don't Rush
+0.329,0.673,3,-8.465,0,0.0296,0.0239,0.109,0.138,0.323,91.122,"album rock, alternative metal, birmingham metal, classic rock, hard rock, metal, rock, stoner rock, uk doom metal",Black Sabbath,Heaven and Hell
+0.46,0.892,10,-5.046,0,0.0619,0.0051,0.0,0.106,0.59,154.844,"emo, modern rock, pop, rock",Fall Out Boy,Thnks fr th Mmrs
+0.541,0.769,4,-6.253,1,0.0339,0.0556,1.54e-05,0.17,0.382,129.971,latin pop,RBD,Nuestro Amor
+0.815,0.605,5,-9.118,0,0.0368,0.033,0.684,0.114,0.795,102.642,derby indie,White Town,Your Woman
+0.516,0.763,6,-4.012,0,0.0413,0.067,0.0,0.353,0.414,160.023,"girl group, pop, talent show, uk pop",Little Mix,Change Your Life
+0.661,0.855,8,-8.403,1,0.0377,0.0722,0.0185,0.199,0.601,123.943,vocal house,Iio,Rapture
+0.717,0.55,10,-6.019,0,0.0521,0.0358,0.00196,0.126,0.332,96.976,"canadian pop, pop",Justin Bieber,Boyfriend
+0.728,0.817,5,-5.61,1,0.0413,0.0237,2.23e-05,0.115,0.729,129.978,"deep acoustic pop, lilith",Jem,They
+0.607,0.732,9,-4.085,1,0.0394,0.00444,1.55e-06,0.139,0.535,150.294,"dance pop, europop, girl group, talent show",Sugababes,Stronger
+0.717,0.587,4,-7.296,0,0.0339,0.0192,0.0,0.0523,0.544,129.954,"dance pop, pop",Britney Spears,If U Seek Amy
+0.697,0.862,2,-4.579,1,0.145,0.13,1.47e-06,0.0481,0.819,98.9,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,I'm Gonna Love You Too
+0.411,0.635,2,-11.645,1,0.0667,0.66,0.0519,0.273,0.755,97.123,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Ballad Of Easy Rider
+0.508,0.318,8,-9.911,1,0.0365,0.759,0.0,0.184,0.141,122.04,"dance pop, pop, urban contemporary",Mariah Carey,Through The Rain
+0.552,0.538,2,-11.085,1,0.0344,0.516,0.0,0.202,0.401,104.131,"album rock, new romantic, new wave pop, soft rock, synthpop",Corey Hart,Never Surrender
+0.404,0.417,9,-14.33,0,0.0468,0.0978,0.249,0.0663,0.233,123.44,"album rock, art rock, classic rock, glam rock, mellow gold, piano rock, progressive rock, rock, soft rock, symphonic rock",Supertramp,Crime of the Century
+0.818,0.67,8,-4.451,0,0.0472,0.304,1.22e-06,0.0601,0.939,119.988,"pop, singer-songwriter pop, uk pop",Ed Sheeran,Sing
+0.656,0.756,11,-6.516,0,0.0399,0.00785,3.49e-05,0.0927,0.542,118.56,"album rock, dutch prog, dutch rock, nederpop",Golden Earring,Twilight Zone
+0.467,0.98,4,-1.857,0,0.0934,0.000405,0.000908,0.445,0.222,123.089,"alternative rock, funk metal, funk rock, permanent wave, rock",Red Hot Chili Peppers,Monarchy of Roses
+0.774,0.838,5,-3.914,0,0.114,0.0249,0.025,0.242,0.924,143.04,"dance pop, pop",Britney Spears,Toxic
+0.548,0.889,9,-4.682,1,0.0382,0.00165,0.00109,0.197,0.425,90.048,"dance pop, pop, talent show",Kelly Clarkson,Behind These Hazel Eyes
+0.685,0.944,5,-2.793,1,0.145,0.0856,0.0,0.0927,0.757,124.987,"reggaeton, urbano latino",Wisin,Adrenalina
+0.739,0.701,10,-5.542,0,0.0516,0.592,0.0,0.116,0.633,128.022,"bachata, latin hip hop, latin pop, trap latino, urbano latino",Romeo Santos,Mi Santa
+0.514,0.821,7,-4.803,1,0.0444,0.000456,0.0232,0.0946,0.298,94.884,pop,Taylor Swift,Style
+0.583,0.855,0,-7.213,1,0.0333,0.102,0.0173,0.262,0.696,128.181,"album rock, british invasion, classic rock, rock",The Rolling Stones,Street Fighting Man
+0.7,0.693,6,-12.293,1,0.0368,0.312,0.0,0.0613,0.926,114.881,sophisti-pop,Breathe,Say A Prayer
+0.572,0.392,9,-10.555,1,0.0325,0.778,0.000435,0.15,0.381,128.255,"adult standards, classic rock, folk rock, mellow gold, rock-and-roll, rockabilly, singer-songwriter, soft rock",Roy Orbison,Running Scared
+0.539,0.774,1,-7.29,1,0.418,0.033,0.0,0.0622,0.695,95.765,dancehall queen,Sasha,Dat Sexy Body
+0.669,0.843,0,-3.766,1,0.0268,0.169,0.0,0.195,0.702,147.08,"dance pop, pop",Britney Spears,My Only Wish
+0.512,0.426,7,-14.081,1,0.0449,0.109,0.00225,0.764,0.7,132.495,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,You Ain't Goin' Nowhere
+0.602,0.823,6,-3.501,0,0.0366,0.00296,0.259,0.353,0.473,122.992,pop,S Club,Alive
+0.427,0.978,11,-6.639,1,0.0774,0.0307,7.01e-06,0.335,0.747,193.707,"punk, ska, ska punk, skate punk",Face to Face,Disconnected
+0.777,0.71,0,-4.717,1,0.0919,0.0295,0.0,0.192,0.673,129.945,"dance pop, pop",Britney Spears,Big Fat Bass
+0.427,0.773,8,-4.222,1,0.115,0.00605,4.02e-06,0.0396,0.695,171.806,"modern rock, permanent wave, punk, rock",Green Day,Oh Love
+0.495,0.12,4,-19.509,1,0.0371,0.743,0.00686,0.137,0.57,140.742,"classic country pop, folk, folk rock, mellow gold, singer-songwriter, soft rock",John Denver,Garden Song
+0.66,0.729,7,-5.152,0,0.073,0.0186,0.0,0.0867,0.318,117.98,talent show,Nicola Roberts,Yo-Yo
+0.609,0.773,5,-9.166,1,0.0389,0.075,0.0,0.188,0.352,113.443,"dance pop, pop",Cher,Save Up All Your Tears
+0.867,0.783,11,-2.25,0,0.0687,0.00822,0.00643,0.302,0.701,126.04,"dance pop, k-pop, k-pop girl group",2NE1,Fire
+0.523,0.733,1,-7.407,1,0.285,0.26,1.62e-05,0.24,0.112,92.281,"alternative rock, art pop, electronica, experimental pop, experimental vocal, icelandic experimental, icelandic pop, icelandic singer-songwriter, metropopolis, permanent wave, trip hop",Björk,Who Is It
+0.65,0.624,7,-7.57,1,0.027,4.21e-05,0.372,0.107,0.192,95.012,"art rock, melancholia, singer-songwriter",,Crawling
+0.428,0.276,4,-11.729,1,0.0312,0.732,5.33e-06,0.117,0.0382,99.195,canadian pop,Celine Dion,My Heart Will Go On
+0.668,0.672,2,-4.931,1,0.0303,0.111,0.0,0.329,0.539,89.011,pop,Taylor Swift,Our Song
+0.296,0.0724,5,-16.457,1,0.0374,0.945,0.000334,0.0948,0.178,131.397,"alaska indie, ectofolk, lilith, permanent wave, pop rock, singer-songwriter",Jewel,Foolish Games
+0.629,0.824,9,-6.53,1,0.159,0.155,0.000628,0.0651,0.852,128.01,"dance pop, pop",Britney Spears,Work Bitch
+0.701,0.829,10,-4.055,0,0.0467,0.234,0.0,0.071,0.562,95.001,"reggaeton, urbano latino",Zion,The Way She Moves
+0.753,0.79,6,-6.783,0,0.0861,0.00184,9.69e-05,0.648,0.588,127.991,"canadian pop, candy pop, dance pop, pop",Avril Lavigne,Hello Kitty
+0.736,0.88,0,-4.323,1,0.0339,0.00744,0.00123,0.301,0.704,127.996,"canadian pop, dance pop, pop",Carly Rae Jepsen,This Kiss
+0.671,0.777,2,-4.322,1,0.046,0.0057,0.0011,0.0783,0.289,99.98,"girl group, pop, talent show",Fifth Harmony,Sledgehammer
+0.879,0.831,7,-5.941,1,0.274,0.0289,0.137,0.204,0.719,100.014,"hip pop, pop, queens hip hop, rap",Nicki Minaj,Stupid Hoe
+0.699,0.671,6,-4.088,0,0.0372,0.0371,2.74e-05,0.236,0.472,84.021,"barbadian pop, pop, urban contemporary",Rihanna,Talk That Talk
+0.719,0.847,0,-6.34,0,0.0919,0.00201,0.0204,0.221,0.443,127.96,"barbadian pop, pop, urban contemporary",Rihanna,Where Have You Been
+0.596,0.791,7,-8.88,1,0.0446,0.425,0.000295,0.0886,0.98,129.237,"blues, blues rock, classic rock, rock, rock-and-roll, rockabilly, soul",Chuck Berry,No Particular Place To Go
+0.609,0.617,9,-7.091,1,0.0307,0.0994,0.00404,0.118,0.543,128.903,classic rock,Norman Greenbaum,Spirit in the Sky
+0.293,0.958,9,-5.164,1,0.0828,0.000126,0.0,0.268,0.194,169.85,,The Bronx,Young Bloods
+0.325,0.943,5,-8.451,1,0.0542,0.588,0.0055,0.227,0.0608,90.555,"horror punk, new jersey hardcore, new jersey punk, punk",Misfits,Horror Business
+0.793,0.704,8,-7.274,1,0.0943,0.0162,4.29e-06,0.114,0.536,127.077,"dance pop, miami hip hop, pop",Pitbull,Tu Cuerpo
+0.576,0.835,2,-6.826,1,0.0486,0.337,0.0,0.082,0.476,150.017,"dance pop, pop",Bruno Mars,It Will Rain
+0.356,0.917,9,-6.006,1,0.0479,0.0335,0.0,0.406,0.518,171.176,"britpop, permanent wave, rock, shoegaze",The Verve,Bitter Sweet Symphony
+0.521,0.734,7,-4.668,1,0.0392,0.365,0.0,0.132,0.356,123.84,"dance pop, pop, talent show",Kelly Clarkson,Wrapped in Red
+0.501,0.439,3,-7.521,0,0.0313,0.482,0.000117,0.087,0.145,138.377,"r&b, soul",Michael Jackson,Earth Song
+0.623,0.567,5,-6.317,1,0.0266,0.0786,0.00427,0.109,0.514,95.943,"ccm, christian alternative rock, christian music",Bebo Norman,Britney
+0.7,0.766,10,-5.428,0,0.0784,0.186,0.0,0.218,0.868,93.358,"latin hip hop, reggaeton, trap latino, urbano latino",Daddy Yankee,Donde Hubo Fuego
+0.691,0.598,7,-9.699,1,0.043,0.625,0.0174,0.0709,0.842,167.797,"dance pop, pop",Madonna,I'll Remember
+0.502,0.898,2,-8.912,1,0.0469,0.00164,0.0,0.336,0.765,117.246,"hardcore punk, punk, skate punk",Descendents,Hope
+0.566,0.984,4,-2.459,0,0.149,0.805,2.19e-05,0.354,0.501,158.712,"garage punk blues, outsider, psychobilly, punk blues, rhythm rock, song poem",Hasil Adkins,No More Hot Dogs
+0.607,0.403,7,-11.464,1,0.0516,0.587,0.0,0.233,0.484,79.088,"dance pop, pop, urban contemporary",Mariah Carey,Underneath the Stars
+0.745,0.694,8,-7.519,1,0.128,0.0962,0.0,0.0454,0.74,95.924,"barbadian pop, pop, urban contemporary",Rihanna,If It's Lovin' That You Want
+0.473,0.903,7,-6.123,1,0.0679,0.0141,1.11e-06,0.195,0.452,161.965,"boy band, pop",Jonas Brothers,Pushin' Me Away
+0.144,0.541,0,-7.076,1,0.038,0.278,1.01e-05,0.101,0.0899,79.262,"art pop, pop",Lana Del Rey,Ultraviolence
+0.745,0.419,0,-11.279,1,0.145,0.802,0.0011,0.27,0.85,155.749,"acoustic blues, gospel blues, traditional blues",Sister Rosetta Tharpe,Strange Things Happening Every Day
+0.658,0.93,5,-2.912,0,0.141,0.0236,0.0,0.578,0.132,104.018,"brostep, complextro, edm, electro, pop dance",Skrillex,Recess
+0.494,0.935,0,-2.763,1,0.0644,0.000316,0.0,0.076,0.347,150.088,pop,Miley Cyrus,Start All Over
+0.677,0.788,6,-5.88,0,0.478,0.0933,0.0,0.117,0.696,101.194,,Jadakiss,Checkmate
+0.661,0.908,5,-4.897,1,0.039,0.052,0.0,0.0708,0.656,144.091,"album rock, classic rock, mellow gold, new romantic, new wave pop, soft rock, synthpop",Starship,We Built This City
+0.532,0.967,11,-7.977,0,0.0457,0.146,0.985,0.115,0.59,136.083,"eurodance, finnish edm",Darude,Sandstorm
+0.586,0.564,9,-11.243,1,0.0297,0.00052,0.287,0.135,0.186,100.031,"alternative rock, art pop, electronica, experimental pop, experimental vocal, icelandic experimental, icelandic pop, icelandic singer-songwriter, metropopolis, permanent wave, trip hop",Björk,Isobel
+0.701,0.803,5,-6.786,0,0.0545,0.0544,1.54e-06,0.7,0.903,133.608,"album rock, classic rock, dance rock, new romantic, new wave, new wave pop, permanent wave, post-punk, rock, zolo",The B-52's,Love Shack
+0.53,0.46,9,-14.929,1,0.034,0.168,0.919,0.115,0.0928,100.037,"electronica, intelligent dance music, microhouse, minimal techno, pop ambient",The Field,Then It's White
+0.514,0.34,0,-12.779,1,0.0537,0.00142,0.0173,0.213,0.269,145.992,"album rock, classic rock, permanent wave, rock",The Police,Walking on the Moon
+0.692,0.735,8,-5.132,1,0.0881,0.106,4.59e-06,0.239,0.333,120.154,"dance pop, pop",Justin Timberlake,Cabaret
+0.461,0.68,7,-10.457,1,0.0343,0.193,0.0,0.489,0.699,80.222,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Full Circle
+0.694,0.523,2,-6.407,0,0.0254,0.875,0.000172,0.352,0.472,97.985,british soul,Duffy,Stepping Stone
+0.97,0.523,1,-4.972,1,0.0455,0.34,0.0328,0.048,0.924,128.425,"escape room, hyperpop, proto-hyperpop",Hannah Diamond,Every Night
+0.638,0.71,0,-8.716,1,0.0296,0.00403,1.14e-06,0.113,0.39,134.008,"dance pop, pop",Cher,All or Nothing
+0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,"detroit hip hop, hip hop, rap",Eminem,Stan
+0.423,0.845,11,-3.509,0,0.0559,0.143,5.07e-06,0.213,0.317,116.602,"alternative metal, alternative rock, grunge, hard rock, nu metal, permanent wave, post-grunge, rock, supergroup",Audioslave,Be Yourself
+0.559,0.308,0,-11.75,1,0.0376,0.505,0.0,0.109,0.414,113.633,"art rock, classic rock, glam rock, permanent wave, rock",David Bowie,Changes
+0.642,0.88,6,-5.216,1,0.134,0.00233,3.07e-05,0.916,0.576,120.099,"acid house, ambient house, big beat, hip house",The KLF,What Time Is Love
+0.534,0.803,10,-9.129,1,0.0743,0.741,6.07e-05,0.307,0.969,167.983,"blues, blues rock, classic rock, rock, rock-and-roll, rockabilly, soul",Chuck Berry,Johnny B. Goode
+0.723,0.806,0,-4.989,1,0.0521,0.00666,0.876,0.276,0.539,124.976,"edm, pop dance, progressive electro house",Swedish House Mafia,Greyhound
+0.527,0.591,6,-7.664,0,0.0396,0.194,0.0194,0.0907,0.461,123.167,"art pop, pop",Lana Del Rey,West Coast
+0.769,0.678,0,-6.488,0,0.0609,0.103,0.00713,0.15,0.845,95.885,"atl hip hop, contemporary r&b, dance pop, girl group, hip pop, r&b, urban contemporary",TLC,Kick Your Game
+0.715,0.791,10,-6.63,1,0.0414,0.0368,0.0,0.0694,0.879,116.043,"dance rock, europop",Robbie Williams,Candy
+0.546,0.813,4,-10.143,0,0.0356,0.196,0.00502,0.0486,0.427,128.131,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,Turn It On Again
+0.781,0.648,5,-8.216,1,0.0264,0.00761,0.0,0.132,0.546,121.93,"dance rock, new romantic, new wave, new wave pop, soft rock, sophisti-pop, synthpop",Eurythmics,Love Is A Stranger
+0.485,0.483,4,-7.439,1,0.0265,0.379,0.0,0.183,0.15,104.862,"bolero, latin pop",Luis Miguel,Tu Mirada
+0.695,0.656,0,-5.519,1,0.0364,0.000787,0.00307,0.12,0.768,107.986,"candy pop, dance pop, lilith, neo mellow, pop rock",Michelle Branch,Loud Music
+0.749,0.81,8,-4.816,1,0.0314,0.0223,0.0,0.297,0.379,120.041,"dance pop, pop, talent show",Kelly Clarkson,Nostalgic
+0.61,0.906,0,-2.117,1,0.0648,0.00416,0.0,0.758,0.294,127.916,"dance pop, miami hip hop, pop",Pitbull,Rain Over Me
+0.537,0.462,6,-7.501,1,0.0289,0.574,9.75e-05,0.108,0.356,136.634,"latin pop, mexican pop, puerto rican pop",Ricky Martin,Vuelve
+0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,"alternative rock, funk metal, funk rock, permanent wave, rock",Red Hot Chili Peppers,Under the Bridge
+0.518,0.962,6,-3.958,1,0.0773,0.000275,7.11e-05,0.105,0.324,144.794,"alternative metal, christian rock, nu metal, post-grunge",,Human
+0.498,0.824,11,-5.091,1,0.247,0.00332,0.0,0.0757,0.332,145.639,"atl hip hop, dirty south rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",T.I.,No Matter What
+0.616,0.9,6,-5.161,1,0.0525,0.00229,0.0979,0.122,0.251,138.926,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Dope Hat
+0.457,0.956,11,-3.634,0,0.122,0.000145,0.00866,0.395,0.393,170.063,"alternative dance, alternative rock, dance-punk, indie rock, indietronica, modern rock, neo-synthpop, new rave",Bloc Party,Helicopter
+0.526,0.838,6,-6.995,0,0.0544,0.0889,3.81e-06,0.101,0.89,82.969,"britpop, welsh indie, welsh rock",Super Furry Animals,Juxtapozed With U
+0.939,0.727,4,-4.349,0,0.235,0.0343,0.0,0.0855,0.66,96.968,"alternative hip hop, chicago rap, conscious hip hop, hardcore hip hop, hip hop, political hip hop",Common,The Light
+0.674,0.413,2,-7.816,1,0.0274,0.836,1.95e-05,0.098,0.503,124.893,"neo mellow, singer-songwriter",,Daughter
+0.479,0.845,4,-7.383,0,0.0445,0.0131,0.0,0.311,0.489,161.845,"pop, post-teen pop",Demi Lovato,Got Dynamite
+0.665,0.511,8,-7.356,0,0.686,0.461,0.0,0.0967,0.325,120.392,"hip pop, pop, queens hip hop, rap",Nicki Minaj,Only
+0.334,0.585,9,-10.58,1,0.0735,0.28,0.0,0.821,0.339,171.996,"album rock, classic rock, mellow gold, rock, soft rock, yacht rock",Chicago,Look Away
+0.782,0.58,7,-6.548,1,0.0407,0.0114,2.28e-06,0.108,0.66,120.021,"canadian pop, dance pop, pop",Carly Rae Jepsen,Call Me Maybe
+0.495,0.403,1,-9.732,1,0.299,0.499,0.0,0.7,0.563,140.365,"pop, r&b",Beyonce,Rocket
+0.439,0.884,6,-3.963,1,0.0454,0.000123,6.72e-05,0.149,0.352,150.021,"christian metal, christian power metal, neo classical metal, swedish power metal",,Ghost Town
+0.145,0.962,2,-4.09,0,0.0653,0.000167,0.27,0.39,0.489,73.481,"chaotic hardcore, cybergrind, mathcore, nintendocore, uk metalcore, uk post-hardcore",Rolo Tomassi,Ex Luna Scientia
+0.709,0.746,0,-10.966,1,0.0526,0.328,0.0,0.253,0.917,169.868,"cancion melodica, latin pop, mariachi, musica mexicana, ranchera",Juan Gabriel,Pero Qué Necesidad
+0.699,0.579,2,-10.123,1,0.0603,0.00167,0.162,0.361,0.963,125.815,"alternative pop, power-pop punk",Magnapop,"Slowly, Slowly"
+0.58,0.575,3,-7.72,1,0.0231,0.25,1.83e-05,0.0813,0.37,92.934,"canadian rock, pop rock, post-grunge",Crash Test Dummies,Mmm Mmm Mmm Mmm
+0.452,0.952,9,-6.499,1,0.218,0.00442,0.121,0.302,0.305,168.065,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Lunchbox
+0.597,0.517,0,-6.963,1,0.366,0.179,0.0,0.307,0.413,92.035,"dance pop, pop, pop rap",Black Eyed Peas,Imma Be
+0.515,0.805,5,-4.918,0,0.0555,0.0175,0.0,0.208,0.466,161.763,"pop, post-teen pop",Joe Jonas,See No More
+0.582,0.978,0,-3.431,0,0.0284,0.0443,4.35e-06,0.365,0.96,104.006,"classic j-pop, eurobeat, j-pop",Ayumi Hamasaki,M
+0.597,0.97,4,-5.972,0,0.0502,0.000385,0.197,0.133,0.717,114.999,"rock-and-roll, rockabilly",Elvis Presley,A Little Less Conversation
+0.301,0.302,1,-12.698,1,0.0301,0.00979,1.83e-05,0.165,0.0386,82.097,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Space Odyssey
+0.462,0.592,2,-6.5,1,0.0343,0.345,0.0,0.124,0.278,130.098,"dance pop, pop, talent show",Kelly Clarkson,Take You High
+0.65,0.685,0,-5.26,0,0.139,0.0272,3.56e-06,0.572,0.735,183.695,"dance pop, pop",Pink,Family Portrait
+0.377,0.681,7,-8.039,1,0.0298,0.00088,0.0023,0.0504,0.285,108.789,"album rock, classic rock, glam metal, hard rock, mellow gold, rock, soft rock",Boston,More Than a Feeling
+0.618,0.79,3,-8.802,1,0.0308,0.0564,0.238,0.253,0.688,121.114,power pop,The Outfield,Voices Of Babylon
+0.324,0.734,0,-8.009,1,0.0306,0.0193,0.00181,0.0727,0.358,81.977,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,Behind The Lines
+0.801,0.968,0,-3.755,1,0.0422,0.183,0.0,0.0585,0.67,130.083,"eurodance, europop, moldovan pop",O-Zone,Dragostea din tei
+0.686,0.702,7,-5.325,0,0.0455,0.00637,4.46e-05,0.204,0.29,129.948,pop,Ariana Grande,Break Free
+0.72,0.776,10,-5.331,1,0.043,0.00549,0.000298,0.365,0.135,125.961,"canadian pop, dance pop, pop",Carly Rae Jepsen,Tonight I'm Getting Over You
+0.526,0.775,0,-6.05,1,0.0352,0.707,2.05e-05,0.217,0.962,80.106,"album rock, beatlesque, bubblegum pop, classic rock, folk rock, mellow gold, rock, rock-and-roll, singer-songwriter, soft rock, sunshine pop",The Monkees,I'm a Believer
+0.526,0.7,4,-3.95,1,0.0392,0.321,0.0,0.213,0.596,163.949,pop,Taylor Swift,Mean
+0.458,0.987,6,-3.581,0,0.116,0.00015,4.41e-05,0.385,0.377,156.898,canadian punk,Billy Talent,Try Honesty
+0.745,0.701,0,-5.468,1,0.0303,0.153,0.0,0.169,0.952,124.994,bachata,Xtreme,"Shorty, Shorty"
+0.846,0.772,11,-5.735,0,0.259,0.0123,0.000106,0.0769,0.622,125.998,"escape room, hip house, lgbtq+ hip hop, trap queen",Azealia Banks,212
+0.346,0.276,2,-11.11,1,0.0372,0.538,0.0,0.084,0.267,96.159,"canzone d'autore, classic italian pop, italian adult pop",Lucio Battisti,Balla Linda
+0.693,0.366,6,-16.222,0,0.0664,0.84,0.693,0.113,0.0519,112.211,"downtempo, dream pop, indietronica",The xx,Reunion
+0.491,0.591,2,-7.652,0,0.0264,0.15,0.0,0.338,0.574,106.138,"classic swedish pop, swedish jazz",Marie Fredriksson,Sparvöga
+0.704,0.861,2,-4.221,0,0.0493,0.587,0.0615,0.0992,0.636,128.99,"eurodance, italo dance",Gala,Freed From Desire
+0.408,0.902,5,-6.734,0,0.0777,0.0168,0.867,0.114,0.357,170.158,british alternative rock,Stateless,Exit
+0.817,0.584,7,-9.785,1,0.174,0.432,0.00588,0.225,0.502,99.947,"east coast hip hop, golden age hip hop, hip hop, old school hip hop, queens hip hop, rap",LL Cool J,Loungin
+0.384,0.585,1,-5.588,1,0.0311,0.0591,1.77e-06,0.116,0.252,82.378,"british soul, pop, pop soul, uk pop",,River
+0.778,0.908,0,-5.275,1,0.0284,0.0184,0.0,0.0896,0.973,120.009,"dance pop, electropop, neo mellow",Lily Allen,Alfie
+0.476,0.755,1,-9.62,1,0.0556,0.591,0.288,0.185,0.389,109.886,"afrobeat, afropop, world",Fela Kuti,Confusion
+0.588,0.954,0,-4.179,1,0.137,0.0258,5.71e-06,0.383,0.549,125.089,"dance pop, pop, post-teen pop",Nicole Scherzinger,Poison
+0.512,0.86,0,-6.145,1,0.0703,0.00631,0.00528,0.0652,0.258,117.909,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,For Whom the Bell Tolls
+0.724,0.802,11,-4.386,0,0.104,0.0762,0.0,0.077,0.709,98.021,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Dile
+0.461,0.276,8,-9.092,1,0.0277,0.761,0.0,0.108,0.237,92.915,"dance pop, pop",Pink,I Don't Believe You
+0.864,0.732,11,-3.422,0,0.0561,0.000253,0.0359,0.0357,0.668,128.018,,Sak Noel,Loca People
+0.885,0.55,8,-6.518,0,0.0555,0.0259,0.018,0.266,0.822,102.09,"dance pop, r&b, urban contemporary",Janet Jackson,Go Deep
+0.624,0.876,7,-6.005,1,0.0342,0.000926,0.00164,0.0561,0.453,89.24,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Sad But True
+0.468,0.769,4,-7.036,1,0.041,0.00014,0.00124,0.271,0.17,104.102,"alternative metal, funk metal, hard rock, nu metal, post-grunge, rap metal, rock",Korn,Falling Away from Me
+0.605,0.88,1,-3.747,1,0.14,0.263,0.0,0.2,0.908,176.028,latin pop,RBD,Ser o Parecer
+0.588,0.812,5,-4.172,1,0.0429,0.0171,0.0,0.111,0.512,97.98,"colombian pop, latin pop, vallenato",Carlos Vives,Volví a Nacer
+0.613,0.697,2,-8.618,1,0.133,0.0194,0.0,0.332,0.476,122.746,"electro, filter house, rock",Daft Punk,One More Time
+0.766,0.735,0,-11.217,1,0.056,0.00664,0.0244,0.209,0.753,118.221,"freestyle, new romantic, synthpop",Information Society,Pure Energy
+0.515,0.554,7,-11.616,1,0.0784,0.0478,0.0,0.219,0.509,80.146,"art rock, classic rock, glam rock, permanent wave, rock",David Bowie,Ziggy Stardust
+0.17,0.134,5,-22.538,1,0.0367,0.73,0.0,0.349,0.372,79.558,"adult standards, classic soul, jazz blues, piano blues, soul, soul blues, vocal jazz",,Can't Stop
+0.29,0.827,8,-3.451,1,0.0362,0.000659,2.55e-06,0.301,0.45,167.086,"modern rock, permanent wave, punk, rock",Green Day,Holiday
+0.691,0.812,0,-7.772,1,0.0558,0.0433,1.16e-06,0.299,0.685,127.568,"album rock, dance rock, new romantic, new wave, new wave pop, rock, soft rock, synthpop",Duran Duran,Hungry Like the Wolf
+0.324,0.288,10,-9.524,1,0.0314,0.85,0.00917,0.309,0.104,132.127,"dance pop, pop, urban contemporary",Jennifer Lopez,Alive
+0.549,0.256,3,-15.933,1,0.034,0.253,0.0,0.226,0.244,124.332,"dance pop, pop",Cher,All I Really Want To Do
+0.683,0.685,2,-5.961,0,0.0276,0.0212,0.0189,0.1,0.694,110.791,"new romantic, new wave, new wave pop",Kim Wilde,Cambodia
+0.59,0.824,7,-3.997,0,0.386,0.000826,1.11e-06,0.636,0.385,130.088,"dance pop, pop, pop rap",LMFAO,Champagne Showers
+0.473,0.777,8,-13.002,1,0.0486,0.00651,0.00125,0.354,0.772,78.336,"alternative rock, athens indie, permanent wave, rock",R.E.M.,Harborcoat
+0.545,0.939,11,-7.705,0,0.112,0.0137,0.00456,0.441,0.375,125.008,"australian dance, australian pop, europop",Dannii Minogue,You Won't Forget About Me
+0.693,0.813,0,-4.928,1,0.0339,0.156,0.00215,0.223,0.699,122.003,"dance pop, r&b, urban contemporary",Janet Jackson,With U
+0.466,0.828,2,-4.289,0,0.24,0.0642,0.0,0.04,0.74,194.186,"east coast hip hop, gangster rap, hip hop, pop rap, queens hip hop, rap",Alicia Keys,New Day
+0.762,0.84,9,-2.603,1,0.116,0.12,4.78e-06,0.714,0.719,123.006,"k-pop, k-pop girl group",Girls' Generation,Genie
+0.537,0.891,0,-5.206,1,0.0716,0.00108,1.58e-06,0.141,0.281,124.98,"british alternative rock, nintendocore, trancecore, uk metalcore, uk post-hardcore",Enter Shikari,Pack Of Thieves
+0.502,0.324,2,-12.997,0,0.0316,0.475,0.00111,0.236,0.2,126.638,"art pop, art rock, baroque pop, new wave pop, permanent wave, piano rock, singer-songwriter",Kate Bush,Moving
+0.675,0.773,6,-5.545,0,0.22,0.0206,0.0,0.12,0.687,131.935,"australian hip hop, dance pop, pop",Iggy Azalea,Change Your Life
+0.841,0.741,9,-3.487,0,0.0359,0.137,0.000445,0.11,0.834,88.408,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",Aaliyah,If Your Girl Only Knew
+0.515,0.846,4,-3.135,1,0.0381,0.216,0.000143,0.63,0.964,139.059,"britpop, welsh indie, welsh rock",Super Furry Animals,Northern Lites
+0.611,0.63,4,-6.941,1,0.039,0.0734,5.85e-06,0.108,0.358,117.517,deep talent show,Dia Frampton,The Broken Ones
+0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151,"album rock, classic rock, rock, soft rock, yacht rock",Fleetwood Mac,Dreams
+0.624,0.723,1,-6.782,1,0.378,0.172,0.0,0.484,0.757,84.789,"atl hip hop, dance pop, dirty south rap, hip hop, old school atlanta hip hop, pop rap, rap, southern hip hop, trap",Ludacris,My Chick Bad
+0.742,0.595,9,-7.51,1,0.107,0.15,0.0,0.111,0.431,101.013,"alternative r&b, dance pop, metropopolis, pop, r&b",Tinashe,2 On
+0.518,0.901,9,-3.749,1,0.093,0.174,0.0314,0.0712,0.873,115.026,"r&b, soul",Michael Jackson,Black Or White
+0.688,0.784,2,-2.972,1,0.0747,0.182,0.0,0.0843,0.563,100.003,"barbadian pop, pop, urban contemporary",Rihanna,What's My Name
+0.492,0.859,4,-4.274,1,0.0332,0.0659,0.0,0.0756,0.251,92.474,"piano rock, pop",OneRepublic,Stop and Stare
+0.842,0.886,9,-3.785,0,0.0561,0.49,1.08e-05,0.336,0.892,130.92,"dance pop, pop",Christina Aguilera,Falsas Esperanzas
+0.461,0.755,7,-3.71,1,0.0318,0.0178,1.13e-06,0.18,0.439,124.256,"alternative rock, athens indie, permanent wave, rock",R.E.M.,Imitation of Life
+0.612,0.749,0,-5.014,1,0.0446,0.615,0.0,0.167,0.574,120.052,"british soul, pop, pop soul, uk pop",Adele,Rumour Has It
+0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95,"emo, modern rock, pop punk, pov: indie, rock",My Chemical Romance,Welcome to the Black Parade
+0.621,0.675,0,-5.941,1,0.0305,0.295,0.0,0.174,0.747,125.122,"bachata, latin pop, tropical",Juan Luis Guerra,Burbujas de amor
+0.743,0.716,10,-5.334,1,0.0374,0.00301,0.135,0.19,0.594,123.995,coverchill,,Flashdance
+0.41,0.961,1,-6.858,0,0.101,4.12e-06,0.875,0.158,0.319,93.433,"experimental rock, noise rock, rhode island indie",Lightning Bolt,13 Monsters
+0.582,0.894,8,-6.298,1,0.041,0.0022,0.0223,0.0664,0.0694,125.946,"edm, electro house, pop dance, progressive electro house",Otto Knows,Million Voices
+0.704,0.83,11,-3.139,1,0.0297,0.0489,0.0,0.111,0.957,127.103,"bachata, latin hip hop, latin pop, urbano latino",Prince Royce,Corazon Sin Cara
+0.585,0.419,9,-11.754,0,0.0311,0.552,3.41e-06,0.061,0.291,135.958,"dance pop, pop, urban contemporary",Mariah Carey,Anytime You Need A Friend
+0.738,0.868,1,-4.15,1,0.0348,0.0371,0.0,0.294,0.199,130.003,"dance pop, miami hip hop, pop, pop rap",Flo Rida,Sugar
+0.431,0.823,4,-5.219,1,0.0638,4.6e-05,3.23e-05,0.0447,0.272,150.07,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,The Nobodies
+0.366,0.443,7,-10.11,1,0.0235,0.0472,1.44e-06,0.344,0.149,93.951,"irish rock, pop rock, rock",The Cranberries,Ode To My Family
+0.702,0.715,5,-5.377,0,0.0425,0.503,2.44e-05,0.126,0.863,127.048,"barbadian pop, pop, urban contemporary",Rihanna,You Da One
+0.62,0.985,11,-5.171,0,0.21,0.00401,0.0675,0.177,0.387,150.001,"alternative metal, alternative rock, cyberpunk, electronic rock, grunge, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Nine Inch Nails,The Great Destroyer
+0.705,0.794,8,-2.266,1,0.0593,0.0488,0.0,0.575,0.412,127.961,"big room, dance pop, edm, pop, pop dance",David Guetta,Turn Me On
+0.555,0.648,8,-4.107,1,0.0318,0.00781,0.18,0.121,0.666,149.176,"bubblegum bass, escape room, hyperpop, proto-hyperpop",A. G. Cook,Beautiful
+0.691,0.839,5,-10.401,1,0.05,0.0193,0.0712,0.0503,0.808,109.152,"freestyle, post-disco",Nu Shooz,Point Of No Return
+0.686,0.751,10,-5.747,0,0.0604,0.00604,0.000849,0.0979,0.851,100.222,"alternative hip hop, modern rock, rock",Gorillaz,Stylo
+0.608,0.419,11,-10.016,1,0.0331,0.602,7.58e-06,0.108,0.602,100.22,"folk, lilith, singer-songwriter, women's music",Tracy Chapman,Give Me One Reason
+0.699,0.735,1,-3.292,0,0.0345,0.111,1.22e-05,0.0782,0.758,96.981,pop soul,Anastacia,Paid My Dues
+0.478,0.533,10,-11.048,1,0.0404,0.591,0.00704,0.139,0.181,162.369,"dance pop, pop, urban contemporary",Mariah Carey,Can't Let Go
+0.547,0.486,2,-7.948,1,0.0244,0.638,1.38e-06,0.216,0.409,88.008,"latin arena pop, latin pop, mariachi, mexican pop, musica mexicana, ranchera",Alejandro Fernandez,No Se Olvidar
+0.602,0.787,2,-8.961,1,0.1,0.203,1.31e-05,0.327,0.868,115.714,"psychobilly, pub rock",The Meteors,Wreckin' Crew
+0.663,0.759,0,-8.91,1,0.0797,0.00191,0.0315,0.105,0.864,128.205,hi-nrg,Amanda Lear,Queen of Chinatown
+0.846,0.649,1,-6.849,0,0.0534,0.000341,0.0,0.0623,0.496,114.976,"dance pop, r&b, urban contemporary",Janet,Feedback
+0.539,0.702,6,-7.291,1,0.0436,0.00245,2.37e-05,0.117,0.206,118.106,"alternative rock, dance rock, modern rock, permanent wave, rock",The Killers,All These Things That I've Done
+0.683,0.886,4,-5.045,0,0.071,0.000738,0.00188,0.0524,0.566,100.04,"dance pop, pop",Pink,Stupid Girls
+0.587,0.566,9,-9.932,1,0.0276,0.469,0.0,0.0644,0.528,76.055,"alternative rock, britpop, madchester, permanent wave, rock",Blur,Tender
+0.7,0.775,1,-3.94,1,0.081,0.00735,0.0,0.082,0.751,134.935,pop,Katy Perry,Circle the Drain
+0.393,0.765,11,-5.924,1,0.0481,0.0172,0.0,0.227,0.274,81.088,"latin pop, mexican pop, puerto rican pop",Ricky Martin,She's All I Ever Had
+0.722,0.658,9,-7.003,0,0.0316,0.178,4.95e-05,0.295,0.735,97.418,"australian pop, dance pop, europop, talent show",S Club 7,Natural
+0.571,0.717,6,-8.333,1,0.336,0.359,3.12e-06,0.797,0.881,87.54,"abstract hip hop, alternative hip hop, hip hop, psychedelic hip hop",Madvillain,Meat Grinder
+0.675,0.862,11,-4.614,1,0.0253,0.0165,0.000427,0.169,0.498,129.967,"big room, dance pop, edm, pop, pop dance",David Guetta,When Love Takes Over
+0.633,0.898,2,-3.254,1,0.034,0.0132,2.07e-06,0.339,0.876,125.994,"dutch house, dutch trance, edm, pop dance, progressive house, trance",Dev,In the Dark
+0.494,0.735,0,-6.326,0,0.0348,0.000185,8.38e-05,0.086,0.359,125.042,"fantasy metal, finnish metal, finnish power metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal",Nightwish,Nemo
+0.539,0.731,3,-5.085,0,0.453,0.112,1.19e-06,0.129,0.568,81.114,"conscious hip hop, hip hop, rap, west coast rap",Kendrick Lamar,Institutionalized
+0.423,0.926,8,-2.965,1,0.0535,0.0438,1.28e-05,0.113,0.515,177.727,"dance pop, post-teen pop",Lindsay Lohan,Over
+0.621,0.82,10,-4.865,1,0.0367,0.332,0.0,0.104,0.452,144.905,"dance pop, pop",Bruno Mars,Marry You
+0.265,0.208,11,-17.613,1,0.0364,0.797,0.000128,0.112,0.11,123.166,,Terry Callier,Occasional Rain
+0.331,0.676,2,-5.346,0,0.0318,0.43,0.000232,0.29,0.133,121.978,australian pop,Delta Goodrem,Believe Again
+0.736,0.971,11,-2.369,0,0.158,0.108,1.53e-05,0.286,0.798,133.004,"dance pop, girl group, post-teen pop, talent show",The Saturdays,Gentleman
+0.175,0.204,4,-11.414,1,0.0362,0.799,4.88e-05,0.147,0.0795,73.106,"r&b, soul",Michael Jackson,Childhood
+0.507,0.874,9,-5.57,0,0.168,0.00576,0.0,0.111,0.459,160.122,"alternative dance, alternative rock, dance-punk, indie rock, indietronica, modern rock, neo-synthpop, new rave",Bloc Party,The Prayer
+0.722,0.758,11,-4.477,0,0.0471,0.0111,0.0,0.308,0.62,128.047,pop,Maroon 5,Moves Like Jagger
+0.471,0.0865,9,-17.821,0,0.0431,0.986,0.721,0.0951,0.218,60.469,"cool jazz, hard bop, jazz, jazz fusion, jazz trumpet, soul, vocal jazz",,Yesterday
+0.772,0.682,10,-6.919,1,0.0701,0.0461,0.00285,0.0672,0.868,129.978,"big beat, classic house, deep house, disco house, filter house, house, speed garage, uk dance, vocal house",Armand Van Helden feat. Duane Harden,You Don't Know Me
+0.545,0.787,7,-4.095,0,0.0521,0.00999,0.000201,0.0809,0.574,80.158,"pop, post-teen pop",Selena Gomez,Come & Get It
+0.764,0.763,6,-5.109,1,0.0576,0.641,0.0,0.0706,0.511,92.727,"colombian pop, dance pop, latin pop, pop",Shakira,Gypsy
+0.663,0.746,2,-3.567,0,0.0321,0.0697,0.0,0.0929,0.325,102.847,pop soul,Anastacia,Left Outside Alone
+0.658,0.814,4,-7.131,1,0.035,0.342,0.96,0.306,0.988,147.693,"instrumental surf, surf music",Dick Dale,Let's Go Trippin'
+0.518,0.679,11,-5.406,0,0.0355,0.079,4.85e-05,0.0588,0.106,132.146,europop,Loreen,Euphoria
+0.49,0.798,6,-3.66,1,0.0489,0.0137,0.0,0.0627,0.479,149.109,"dance pop, pop, talent show",Kelly Clarkson,Heartbeat Song
+0.606,0.826,0,-6.04,1,0.0307,0.0256,1.57e-05,0.117,0.332,121.036,"folk-pop, neo mellow, pop rock",Phillip Phillips,Home
+0.592,0.747,8,-4.439,0,0.137,0.0176,0.0,0.0752,0.697,83.926,"dance pop, pop, urban contemporary",Jennifer Lopez,I'm Into You
+0.865,0.505,7,-11.813,1,0.102,0.0631,0.0151,0.102,0.475,123.102,"dance pop, r&b, urban contemporary",Janet Jackson,Together Again
+0.852,0.896,6,-5.465,0,0.0681,0.00887,6.03e-05,0.0216,0.961,121.978,"dance pop, pop, post-teen pop",Hilary Duff,With Love
+0.791,0.713,5,-3.742,0,0.254,0.0163,0.0,0.189,0.514,130.012,"dance pop, electropowerpop, pop punk, pop rap, post-teen pop",3OH!3,Don't Trust Me
+0.529,0.843,6,-6.908,0,0.0616,0.0628,0.000827,0.0608,0.188,117.662,"album rock, glam metal, hard rock, rock, swedish hard rock, swedish melodic rock",Europe,The Final Countdown
+0.517,0.799,0,-7.562,1,0.035,0.0194,0.000368,0.221,0.504,105.953,"alternative rock, indie rock, melancholia, singer-songwriter",Elliott Smith,Shooting Star
+0.339,0.208,0,-16.725,1,0.0308,0.396,0.000519,0.18,0.288,98.54,"adult standards, brill building pop, folk rock, mellow gold, motown, rock-and-roll, rockabilly",Righteous Brothers,Unchained Melody
+0.482,0.889,4,-4.27,1,0.0873,0.00177,9.54e-05,0.116,0.29,150.048,new wave pop,Debbie Harry,Two Times Blue
+0.422,0.837,4,-7.146,1,0.0386,0.0216,0.000437,0.303,0.587,96.687,"album rock, british invasion, classic rock, rock",The Rolling Stones,19th Nervous Breakdown
+0.489,0.745,4,-5.743,1,0.0371,0.004,2.31e-05,0.178,0.752,140.02,"britpop, welsh indie, welsh rock",Super Furry Animals,Ysbeidiau Heulog
+0.761,0.716,10,-5.8,0,0.056,0.396,0.0,0.0771,0.649,119.41,pop soul,Anastacia,I'm Outta Love
+0.677,0.665,7,-5.171,1,0.0305,0.56,1.01e-06,0.338,0.706,74.981,"dance pop, pop",Britney Spears,From the Bottom of My Broken Heart
+0.571,0.805,9,-4.985,0,0.129,0.0106,0.0,0.0864,0.356,135.908,pop,Miley Cyrus,Who Owns My Heart
+0.354,0.944,2,-3.84,0,0.0588,4.83e-05,0.726,0.0987,0.214,131.901,"grungegaze, nu gaze, shoegaze, spacegrunge",Swervedriver,These Times
+0.644,0.664,9,-8.398,1,0.0332,0.048,0.867,0.342,0.53,124.726,"electro, filter house, rock",Daft Punk,Digital Love
+0.658,0.464,4,-15.932,0,0.0704,0.0242,0.893,0.0751,0.779,120.988,,,Seven Nation Army
+0.482,0.978,1,-9.463,0,0.056,0.00031,0.0146,0.333,0.114,101.95,"chicago hardcore, chicago punk, experimental rock, industrial rock, noise rock, post-hardcore, post-punk",Big Black,Kerosene
+0.557,0.814,10,-4.469,0,0.0872,0.0114,7.97e-05,0.345,0.616,127.969,"dance pop, pop",Jason Derulo,Breathing
+0.54,0.55,5,-6.521,1,0.0368,0.0362,0.000203,0.115,0.0899,79.037,"dance pop, pop",Madonna,Ghosttown
+0.523,0.719,2,-8.793,1,0.0423,0.304,0.00192,0.196,0.767,137.709,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Tiffany Queen
+0.467,0.579,4,-4.886,1,0.0289,0.197,0.0,0.118,0.121,106.982,"dance pop, pop, talent show",Kelly Clarkson,Save You
+0.651,0.801,0,-7.34,1,0.0514,0.123,0.0,0.0825,0.776,133.769,"alternative rock, permanent wave, punk, rock",The Clash,London Calling
+0.623,0.612,11,-5.497,1,0.0345,0.606,0.0,0.148,0.275,119.864,"australian americana, australian country, australian rock",Kasey Chambers,Not Pretty Enough
+0.859,0.75,8,-8.325,0,0.303,0.0193,0.0,0.0538,0.857,98.691,"conscious hip hop, gangster rap, golden age hip hop, hip hop, old school hip hop, rap, west coast rap",N.W.A,Fuck Tha Police
+0.563,0.293,0,-9.323,1,0.0331,0.671,4.41e-05,0.302,0.63,102.961,"mariachi, ranchera",Vicente Fernandez,El Último Beso
+0.738,0.482,6,-8.917,0,0.0402,0.0266,0.621,0.106,0.352,93.457,"permanent wave, pop",Coldplay,Magic
+0.794,0.662,6,-4.913,0,0.249,0.0789,0.0,0.0938,0.683,93.053,"contemporary r&b, dance pop, hip pop, r&b, urban contemporary",Aaliyah,Try Again
+0.619,0.955,4,-6.381,1,0.0324,0.00548,0.0,0.0433,0.952,131.988,football,Black Lace,Agadoo
+0.687,0.537,10,-7.639,1,0.0305,0.561,0.0,0.107,0.264,120.023,"europop, talent show",Daniel Bedingfield,If You're Not The One
+0.553,0.959,6,-4.947,1,0.0466,0.000642,6.19e-05,0.129,0.46,136.05,"modern rock, post-grunge",Thirty Seconds to Mars,Conquistador
+0.637,0.832,5,-3.945,1,0.183,0.0282,3.47e-06,0.277,0.68,175.011,"dance pop, pop",Jessie J,Price Tag
+0.373,0.717,1,-5.833,0,0.083,0.0568,0.0,0.114,0.293,109.977,"chicago rap, melodic rap, rap",,End Of The Road
+0.526,0.509,2,-8.705,1,0.0525,0.0847,0.0,0.158,0.216,123.551,,Nick Jonas,Haven't Met You Yet
+0.463,0.946,7,-8.355,1,0.0805,0.00494,0.059,0.44,0.407,150.213,"britpop, welsh indie, welsh rock",Super Furry Animals,Night Vision
+0.541,0.968,0,-4.129,1,0.0396,0.000248,8.28e-06,0.423,0.505,125.04,alternative metal,Avenged Sevenfold,Bat Country
+0.662,0.236,0,-11.631,1,0.0285,0.766,2.39e-05,0.0798,0.653,127.85,"country, honky tonk, traditional country, yodeling",Hank Williams,Your Cheatin' Heart
+0.602,0.612,0,-8.409,1,0.0335,0.206,0.00607,0.107,0.453,122.062,"permanent wave, pop",Coldplay,Don't Panic
+0.517,0.876,10,-9.161,1,0.0496,0.0182,0.747,0.0691,0.688,171.714,"alternative pop, power-pop punk",Magnapop,Lay It Down
+0.464,0.795,1,-9.267,1,0.0926,0.0493,0.00244,0.399,0.612,158.691,"album rock, british invasion, classic rock, rock",The Rolling Stones,Paint It Black
+0.705,0.805,4,-4.887,0,0.0596,0.133,0.000139,0.367,0.887,120.007,"dance pop, pop, urban contemporary",Jennifer Lopez,Papi
+0.798,0.744,7,-5.328,0,0.136,0.33,0.000106,0.292,0.794,82.356,"conscious hip hop, g funk, gangster rap, hip hop, rap, west coast rap",Ice Cube,It Was a Good Day
+0.697,0.942,9,-5.709,0,0.0816,0.15,0.0,0.0664,0.654,94.535,"latin pop, mexican pop, puerto rican pop",Ricky Martin,One Night Man
+0.659,0.702,2,-9.255,1,0.0308,0.11,0.000136,0.365,0.402,94.28,lilith,Alana Davis,32 Flavors
+0.745,0.911,1,-5.549,0,0.0502,0.00703,0.588,0.188,0.729,112.446,dance pop,,Don't Stop
+0.492,0.641,0,-5.296,1,0.0448,0.459,0.0,0.0809,0.235,76.07,"british soul, dance pop, pop, talent show",Leona Lewis,Happy
+0.507,0.837,2,-10.465,1,0.0624,0.174,0.814,0.0906,0.318,107.013,"album rock, classic rock, hard rock, rock",Led Zeppelin,Four Sticks
+0.369,0.929,9,-3.071,1,0.0578,0.0162,0.0,0.342,0.489,168.051,australian pop,Delta Goodrem,In This Life
+0.411,0.398,2,-8.331,1,0.0316,0.179,0.0109,0.238,0.141,179.905,"dance pop, pop, talent show",Kelly Clarkson,Sober
+0.675,0.479,0,-9.87,0,0.0278,0.633,1.76e-05,0.088,0.454,81.998,neo mellow,James Blunt,You're Beautiful
+0.332,0.823,0,-8.09,1,0.0357,0.0118,0.847,0.105,0.454,150.299,"corrosion, dark wave, gothabilly, gothic rock",Fields of the Nephilim,Moonchild
+0.487,0.9,0,-4.417,1,0.0482,6.79e-05,0.0,0.358,0.484,149.937,"canadian pop, candy pop, dance pop, pop",Avril Lavigne,Sk8er Boi
+0.709,0.565,5,-6.395,0,0.0471,0.00209,0.0125,0.0901,0.571,112.203,"dance pop, pop",Britney Spears,Breathe on Me
+0.438,0.687,7,-9.15,1,0.0619,0.000668,0.0801,0.42,0.426,103.01,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,One
+0.826,0.612,1,-3.891,1,0.0982,0.00681,0.0,0.0889,0.756,120.057,"dance pop, pop",Ke$ha,Your Love Is My Drug
+0.833,0.467,0,-7.89,1,0.0619,0.0339,0.0,0.09,0.767,139.971,"dance pop, pop, urban contemporary",Mariah Carey,We Belong Together
+0.389,0.71,5,-6.265,1,0.0351,0.161,0.0,0.918,0.666,160.397,"bolero, latin pop",Luis Miguel,La Bikina
+0.657,0.467,5,-8.925,1,0.0341,0.667,1.92e-06,0.0295,0.276,100.139,"r&b, soul",Michael Jackson,I Just Can't Stop Loving You
+0.594,0.889,5,-7.775,1,0.246,0.768,0.0,0.124,0.8,116.187,calypso,Harry Belafonte,Jump In The Line
+0.721,0.88,9,-3.896,0,0.0454,0.191,0.0,0.0769,0.655,110.021,"dance pop, pop, post-teen pop",Natasha Bedingfield,Pocketful of Sunshine
+0.667,0.655,2,-9.339,0,0.0367,0.0491,0.000894,0.0641,0.657,134.212,"album rock, classic rock, mellow gold, rock",Dire Straits,Money for Nothing
+0.742,0.878,9,-3.127,0,0.128,0.000758,8.88e-05,0.286,0.564,114.965,"girl group, pop, talent show, uk pop",Little Mix,Wings
+0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,"album rock, classic rock, hard rock, mellow gold, rock, soft rock, yacht rock",Toto,Africa
+0.478,0.698,7,-9.255,1,0.0321,0.00114,0.0,0.191,0.85,112.99,"early us punk, glam punk, glam rock, protopunk, punk",New York Dolls,Trash
+0.719,0.736,10,-5.931,0,0.047,0.0252,0.000179,0.209,0.945,131.053,"dance pop, electropop, neo mellow",Lily Allen,22
+0.757,0.825,7,-4.062,0,0.0701,0.0398,2.63e-06,0.0798,0.446,95.01,"pop, post-teen pop",Bridgit Mendler,Hurricane
+0.336,0.627,7,-7.463,1,0.0384,0.164,0.0,0.0708,0.35,150.273,"dance pop, pop, urban contemporary",Mariah Carey,All I Want For Christmas Is You
+0.707,0.814,11,-4.509,0,0.0577,0.0861,0.0,0.168,0.717,124.921,"barbadian pop, pop, urban contemporary",Rihanna,Disturbia
+0.433,0.897,9,-3.156,1,0.0438,0.0169,0.0,0.109,0.563,164.986,"anime, j-pixie, vocaloid",Supercell,Kimi no Shiranai Monogatari
+0.503,0.816,5,-4.34,1,0.0369,0.0524,6e-06,0.127,0.553,138.127,twee pop,Lucky Soul,Lips Are Unhappy
+0.525,0.717,9,-7.402,1,0.0302,0.00213,3.4e-06,0.0583,0.576,100.016,"australian alternative rock, australian rock",Alex Lloyd,Amazing
+0.45,0.81,9,-3.933,0,0.0474,0.000734,0.000392,0.431,0.447,150.039,"alternative dance, metropopolis, neo-synthpop",Ladyhawke,My Delirium
+0.819,0.741,8,-6.538,0,0.0412,0.104,0.0,0.283,0.84,97.014,"latin hip hop, reggaeton, trap latino, urbano latino",Daddy Yankee,Lo Que Paso Paso
+0.575,0.795,2,-6.149,1,0.0357,0.0787,2.62e-05,0.086,0.149,105.015,"modern rock, post-grunge",Thirty Seconds to Mars,City of Angels
+0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,"detroit hip hop, hip hop, rap",Eminem,Without Me
+0.695,0.921,0,-3.752,1,0.0363,0.00314,5.26e-05,0.0842,0.714,119.007,"art pop, dance pop, pop",Lady Gaga,Bad Romance
+0.729,0.807,6,-6.492,1,0.0936,0.181,0.75,0.319,0.765,114.742,"dance pop, pop, pop rap",Timbaland,The Way I Are
+0.297,0.634,0,-7.927,0,0.0335,0.00141,0.175,0.247,0.331,94.733,"downtempo, electronica",Moby,Porcelain
+0.693,0.849,1,-3.259,0,0.189,0.0668,0.0,0.69,0.599,128.971,"dance pop, miami hip hop, pop",Pitbull,Get It Started
+0.348,0.935,0,-4.588,1,0.0756,0.00137,1.83e-06,0.233,0.601,109.138,"hardcore punk, punk, skate punk",Descendents,Mr. Bass
+0.739,0.911,1,-5.534,1,0.0739,0.844,0.0,0.311,0.938,129.931,"bachata, latin pop, tropical",Juan Luis Guerra,La bilirrubina
+0.724,0.769,9,-4.862,0,0.0471,0.028,1.75e-05,0.0457,0.313,98.033,"atl hip hop, dance pop, hip pop, r&b, urban contemporary",Kelly Rowland,Rose Colored Glasses
+0.686,0.672,5,-7.338,0,0.0372,0.42,0.000359,0.0508,0.85,97.006,"bolero, latin pop",Luis Miguel,Inolvidable
+0.457,0.948,10,-3.364,1,0.0354,0.0191,0.0,0.0536,0.878,148.001,"contemporary country, country, country pop, country road, modern country rock",Florida Georgia Line,Cruise
+0.583,0.767,0,-3.005,1,0.0266,0.257,0.0146,0.17,0.845,127.959,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,Picture This
+0.423,0.517,0,-7.377,1,0.0486,0.369,0.0,0.177,0.366,185.262,pop,Taylor Swift,White Horse
+0.626,0.799,11,-6.612,0,0.0461,0.00036,0.00155,0.36,0.37,98.993,"art pop, dance pop, pop",Lady Gaga,Alejandro
+0.369,0.305,1,-14.303,1,0.0267,0.522,0.0,0.0579,0.376,94.791,"adult standards, brill building pop, folk rock, mellow gold, motown, rock-and-roll, rockabilly",Righteous Brothers,You've Lost That Lovin' Feelin'
+0.548,0.949,9,-5.082,1,0.065,0.000752,0.00016,0.355,0.686,84.588,"album rock, classic rock, dance rock, hard rock, new romantic, new wave, new wave pop, rock, soft rock",Billy Idol,Shock To The System
+0.81,0.652,8,-4.227,1,0.0531,0.199,0.0,0.128,0.185,122.965,barbadian pop,Livvi Franc,Now I'm That Bitch
+0.378,0.937,0,-4.142,0,0.0769,0.000234,0.0,0.0404,0.634,140.763,"irish rock, pop rock, rock",The Cranberries,I Just Shot John Lennon
+0.628,0.605,0,-10.795,1,0.0368,0.00231,0.439,0.169,0.262,107.006,,Shara Nelson,Down That Road
+0.593,0.74,8,-6.12,1,0.0339,0.363,2.22e-05,0.102,0.502,118.008,"piano rock, pop",OneRepublic,Apologize
+0.77,0.741,1,-9.252,0,0.0417,0.0234,7.2e-05,0.242,0.951,125.056,"australian dance, australian pop, europop",Dannii Minogue,I Begin To Wonder
+0.747,0.82,1,-5.546,0,0.0532,0.277,7.56e-05,0.239,0.6,95.997,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Indecisiones
+0.612,0.554,8,-8.626,1,0.0314,0.00289,0.00989,0.0892,0.138,126.017,"dance pop, post-teen pop",Paris Hilton,Come Alive
+0.186,0.481,9,-8.292,0,0.0397,0.217,0.0545,0.201,0.0537,182.405,neo soul,Bilal,Slipping Away
+0.642,0.722,4,-4.845,0,0.167,0.293,0.0,0.337,0.513,127.959,"dance pop, pop",Britney Spears,Radar
+0.736,0.817,8,-4.9,1,0.0407,0.00987,0.00167,0.117,0.653,119.95,"dance pop, pop",Ke$ha,We R Who We R
+0.63,0.95,1,-4.012,1,0.0806,0.000915,6.51e-06,0.373,0.858,143.866,"latin pop, mexican pop, puerto rican pop",Ricky Martin,She Bangs
+0.512,0.461,7,-8.253,1,0.0244,0.577,0.00215,0.174,0.198,90.005,"progressive metal, progressive rock",Porcupine Tree,Pure Narcotic
+0.879,0.825,9,-4.698,0,0.0534,0.0471,0.000531,0.0648,0.9,105.857,"r&b, soul",Michael Jackson,This Time Around
+0.822,0.712,10,-8.838,0,0.0816,0.00452,0.446,0.071,0.279,127.006,"dance pop, pop",Madonna,Gang Bang
+0.392,0.476,1,-7.583,1,0.0249,0.397,0.000163,0.309,0.234,78.031,"album rock, classic rock, hard rock, rock",Aerosmith,Dream On
+0.81,0.755,0,-6.408,1,0.199,0.291,0.0,0.0857,0.625,130.991,"dance pop, pop",Fergie,Glamorous
+0.575,0.67,7,-10.39,1,0.0318,0.343,4.95e-06,0.129,0.74,139.191,"album rock, classic rock, heartland rock, mellow gold, rock, soft rock, yacht rock",Eagles,Take It Easy
+0.741,0.622,8,-5.878,1,0.0404,0.00887,0.000501,0.15,0.625,122.013,"dance pop, pop",Britney Spears,Kill The Lights
+0.333,0.935,11,-5.768,1,0.178,0.0176,0.000476,0.176,0.516,164.926,"alternative metal, alternative rock, grunge, modern rock, palm desert scene, rock, stoner metal, stoner rock",Queens of the Stone Age,Feel Good Hit of the Summer
+0.302,0.919,2,-4.719,1,0.183,0.00463,6.94e-06,0.128,0.499,172.946,modern alternative rock,Coheed and Cambria,The Crowing
+0.81,0.793,6,-9.404,0,0.0403,0.0378,1.77e-06,0.072,0.863,116.05,"electro, filter house, rock",Daft Punk,Get Lucky
+0.567,0.967,1,-2.888,0,0.222,0.119,5.55e-05,0.0721,0.327,127.908,"dance pop, girl group, post-teen pop, talent show",The Saturdays,All Fired Up
+0.433,0.483,9,-9.422,1,0.175,0.656,2.64e-05,0.539,0.717,68.492,"british invasion, classic rock, merseybeat, psychedelic rock, rock",The Beatles,I'm So Tired
+0.44,0.462,9,-9.338,1,0.0382,0.154,0.0,0.0529,0.31,116.033,"baroque pop, classic rock, folk rock, mellow gold, psychedelic rock, rock, singer-songwriter, sunshine pop",The Beach Boys,God only knows
+0.671,0.808,2,-4.861,0,0.0652,0.02,0.0,0.134,0.637,121.956,"dance pop, pop",Jason Derulo,Don't Wanna Go Home
+0.577,0.576,2,-6.299,1,0.0563,0.0143,0.0,0.602,0.12,133.973,"dance pop, hip pop, pop, r&b, urban contemporary",Ciara,Body Party
+0.574,0.467,1,-6.374,1,0.0381,0.738,0.0,0.149,0.256,131.89,"europop, italian adult pop, latin arena pop, mexican pop",Laura Pausini,La solitudine
+0.604,0.737,7,-6.174,1,0.292,0.277,0.0,0.305,0.683,88.243,"east coast hip hop, gangster rap, hip hop, pop rap, queens hip hop, rap",50 Cent,Hustler's Ambition
+0.75,0.605,11,-4.876,1,0.0455,0.229,1.49e-06,0.135,0.472,122.662,"escape room, hyperpop, proto-hyperpop",Danny L Harle,In My Dreams
+0.653,0.827,4,-3.206,0,0.042,0.649,0.0,0.18,0.733,95.223,"cuatro venezolano, latin pop, modern salsa, musica nicaraguense, salsa, tropical",Luis Enrique,Yo No Se Mañana
+0.549,0.897,8,-5.779,1,0.0358,0.00134,0.00149,0.264,0.378,129.982,"dance pop, pop",Britney Spears,And Then We Kiss
+0.559,0.86,7,-4.04,1,0.05,0.0991,0.0,0.292,0.292,118.969,"dance pop, pop, talent show",Kelly Clarkson,Dark Side
+0.739,0.459,11,-14.42,0,0.0294,0.129,0.0194,0.0474,0.892,107.115,"album rock, australian rock, classic rock, hard rock, mellow gold, new romantic, new wave, new wave pop, rock, soft rock",Men at Work,Down Under
+0.776,0.711,3,-9.03,0,0.0473,0.0242,0.000353,0.234,0.901,138.728,"r&b, soul",Michael Jackson,Beat It
+0.631,0.835,5,-4.193,1,0.0552,0.106,0.0,0.388,0.667,93.002,"alt z, canadian electropop, canadian pop, dark pop, electropop, metropopolis",Allie X,Catch
+0.735,0.699,0,-4.435,0,0.084,0.121,2.82e-05,0.0809,0.603,129.944,"big room, dance pop, dutch house, edm, electro house, pop dance",Afrojack,Take Over Control
+0.636,0.648,10,-5.716,1,0.033,0.604,0.000148,0.072,0.56,96.883,"r&b, soul",Michael Jackson,This Is It
+0.662,0.942,3,-3.631,0,0.072,0.00854,0.0,0.117,0.787,133.03,"dance pop, latin pop, mexican pop",Enrique Iglesias,Dirty Dancer
+0.2,0.942,1,-6.482,1,0.0438,0.00123,0.00012,0.308,0.624,192.424,"album rock, alternative metal, birmingham metal, classic rock, hard rock, metal, rock, stoner rock, uk doom metal",Black Sabbath,Neon Knights
+0.526,0.923,11,-4.089,1,0.0282,0.00247,0.000164,0.0866,0.775,121.597,"modern rock, permanent wave, punk, rock",Green Day,Last of the American Girls
+0.482,0.873,0,-3.145,1,0.0853,0.0111,0.0,0.409,0.737,165.084,"canadian pop, candy pop, dance pop, pop",Avril Lavigne,Here's to Never Growing Up
+0.667,0.954,2,-3.462,1,0.0817,0.0296,0.0,0.331,0.807,114.03,"boy band, pop",Jonas Brothers,Burnin' Up
+0.311,0.904,9,-5.364,1,0.0471,0.000105,0.00299,0.0892,0.297,142.606,"alternative dance, dance-punk, indie rock, modern rock, new rave",White Lies,Bigger Than Us
+0.468,0.892,11,-3.555,1,0.132,0.00399,0.0,0.368,0.817,149.162,"boy band, pop",Jonas Brothers,Hold On
+0.538,0.9,8,-6.972,0,0.0465,0.0629,0.065,0.26,0.521,134.26,"album rock, canadian metal, classic canadian rock, classic rock, hard rock, progressive rock, rock",Rush,Lock And Key
+0.529,0.948,0,-3.527,1,0.0474,0.258,9.35e-06,0.283,0.65,146.024,"piano rock, pop",OneRepublic,All the Right Moves
+0.426,0.669,1,-5.293,0,0.18,0.338,0.0,0.1,0.462,173.446,"dance pop, pop",Christina Aguilera,Oh Mother
+0.816,0.775,11,-3.323,1,0.234,0.16,0.00031,0.0543,0.527,93.431,"g funk, gangster rap, hip hop, rap, west coast rap",Dr. Dre,Still D.R.E.
+0.536,0.521,7,-4.128,1,0.0274,0.41,0.0,0.142,0.314,72.06,pop,Ariana Grande,Tattooed Heart
+0.509,0.871,10,-4.279,1,0.0389,0.0804,0.0,0.0967,0.645,169.974,pop,Miley Cyrus,I Miss You
+0.572,0.913,0,-4.26,1,0.0362,0.0753,1.5e-05,0.128,0.561,103.265,"album rock, dance rock, new romantic, new wave, new wave pop, rock, scottish new wave, soft rock",Simple Minds,Alive and Kicking
+0.448,0.784,9,-3.686,1,0.0625,0.0999,0.000108,0.668,0.237,136.239,"modern rock, pop, rock",Imagine Dragons,Radioactive
+0.825,0.757,0,-3.121,1,0.0428,0.0569,0.0,0.202,0.941,139.975,pop,Katy Perry,Peacock
+0.531,0.343,4,-15.074,0,0.0295,0.671,1.72e-06,0.158,0.498,104.037,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Everybody's Been Burned
+0.544,0.449,4,-16.498,0,0.0729,0.168,0.0,0.637,0.412,84.084,"art rock, classic rock, glam rock, permanent wave, rock",David Bowie,Andy Warhol
+0.534,0.87,11,-3.078,0,0.0425,0.000334,0.0,0.241,0.462,126.019,"dance pop, pop",Pink,So What
+0.585,0.61,1,-8.388,1,0.0353,0.103,0.000314,0.113,0.0597,94.969,"art pop, metropopolis, nz pop, pop",Lorde,Yellow Flicker Beat
+0.624,0.911,7,-7.482,1,0.0524,0.329,0.861,0.0727,0.135,122.902,"electro, filter house, rock",Daft Punk,Aerodynamic
+0.536,0.522,9,-8.935,1,0.0295,0.879,1.23e-05,0.377,0.286,86.976,"latin arena pop, latin pop, mariachi, mexican pop, musica mexicana, ranchera",Alejandro Fernandez,Si Tu Supieras
+0.691,0.319,7,-9.509,1,0.0362,0.632,4.23e-06,0.106,0.441,125.047,"cantautor, latin arena pop, latin pop",Ricardo Arjona,Vida
+0.832,0.797,11,-4.193,0,0.0943,0.169,1.29e-05,0.0673,0.951,131.969,"dance pop, pop",Britney Spears,Freakshow
+0.539,0.826,7,-8.037,1,0.0276,0.00224,0.0451,0.0832,0.669,134.718,"permanent wave, pop rock, post-grunge, tempe indie",Gin Blossoms,Found Out About You
+0.49,0.614,9,-6.017,0,0.0334,0.576,0.0,0.0865,0.257,150.984,"dance pop, pop, urban contemporary",Mariah Carey,Bringin' On The Heartbreak
+0.74,0.798,4,-5.431,1,0.122,0.00304,0.000134,0.282,0.823,167.999,"barbadian pop, pop, urban contemporary",Rihanna,Watch n' Learn
+0.781,0.259,7,-9.204,1,0.0323,0.795,0.0,0.0993,0.331,111.9,pop,Maroon 5,Sad
+0.316,0.499,9,-7.899,1,0.0298,0.0108,1.81e-05,0.126,0.403,174.782,"ectofolk, lilith, pop rock, singer-songwriter",Joan Osborne,One Of Us
+0.456,0.711,2,-9.205,1,0.0362,0.203,6.61e-06,0.13,0.412,124.021,"album rock, art rock, classic rock, progressive rock, psychedelic rock, rock, symphonic rock",Pink Floyd,See Emily Play
+0.514,0.742,8,-2.525,1,0.0258,0.27,1.7e-06,0.085,0.47,101.0,"classic oklahoma country, contemporary country, country, country dawn, dance pop, pop",Carrie Underwood,See You Again
+0.839,0.89,1,-11.697,0,0.0628,0.452,0.0224,0.0866,0.575,103.652,"dance pop, r&b, urban contemporary",Janet Jackson,Nasty
+0.587,0.858,6,-3.516,1,0.225,0.0419,0.0,0.322,0.527,93.855,"g funk, gangster rap, hip hop, rap, west coast rap",Dr. Dre,Fuck Wit Dre Day
+0.562,0.671,4,-7.801,0,0.0379,8.73e-06,0.000491,0.792,0.376,134.962,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,The Dope Show
+0.402,0.72,8,-4.698,1,0.0493,0.00133,0.043,0.325,0.499,75.396,"alternative dance, indie rock, modern rock, new rave, rock independant francais, shimmer pop",Phoenix,Entertainment
+0.367,0.307,8,-11.212,1,0.0598,0.198,0.0,0.118,0.465,92.128,"alternative rock, indie rock, melancholia, singer-songwriter",Elliott Smith,Condor Ave
+0.552,0.284,4,-10.481,1,0.0259,0.821,8.15e-06,0.119,0.788,85.077,"classic girl group, doo-wop, vocal harmony group",The Poni-Tails,Born Too Late
+0.721,0.939,8,-11.823,1,0.0376,0.115,3.79e-05,0.108,0.914,113.309,"new romantic, new wave pop, soft rock, sophisti-pop, synthpop",Rick Astley,Never Gonna Give You Up
+0.255,0.815,7,-8.197,1,0.0545,0.0747,0.471,0.227,0.699,144.549,"album rock, classic rock, hard rock, rock",Led Zeppelin,The Song Remains the Same
+0.618,0.0339,8,-21.247,1,0.0505,0.957,0.108,0.114,0.393,90.829,"tin pan alley, vintage jazz",Hoagy Carmichael,Star Dust
+0.663,0.706,1,-4.972,0,0.0383,0.0654,0.0,0.118,0.474,122.013,"piano rock, pop",OneRepublic,Counting Stars
+0.49,0.877,5,-4.37,0,0.0496,0.00437,5.05e-05,0.3,0.546,93.986,pop emo,Anberlin,Feel Good Drag
+0.483,0.931,2,-3.439,1,0.044,0.00826,0.0,0.107,0.645,160.05,"emo, modern rock, pop, rock",Fall Out Boy,America's Suitehearts
+0.473,0.603,9,-6.875,0,0.0319,0.0549,6.25e-06,0.115,0.234,94.984,"canadian hip hop, canadian pop, hip hop, pop rap, rap",Drake,Cece's Interlude
+0.321,0.474,5,-9.383,1,0.0348,0.743,0.0,0.204,0.804,121.199,"doo-wop, sunshine pop",The Tokens,The Lion Sleeps Tonight
+0.589,0.442,4,-8.517,1,0.0291,0.334,0.000424,0.0987,0.0904,122.688,"alternative metal, nu metal, rap metal, rock",Slipknot,Vermilion
+0.56,0.985,7,-2.884,1,0.0793,0.000388,0.0145,0.258,0.393,127.96,"classic j-pop, eurobeat, j-pop",Ayumi Hamasaki,Boys & Girls
+0.518,0.956,10,-5.016,1,0.155,5.22e-05,0.0183,0.533,0.283,134.019,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Disposable Teens
+0.508,0.88,5,-6.441,0,0.0448,0.0621,9.43e-05,0.15,0.337,140.065,"alternative metal, nu metal, post-grunge, rap metal, rock",Linkin Park,Powerless
+0.566,0.647,1,-6.815,0,0.0335,0.0477,0.0,0.121,0.22,111.96,"art pop, pop",Lana Del Rey,Summertime Sadness
+0.636,0.711,6,-8.752,0,0.0312,0.0045,0.0151,0.64,0.384,126.183,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,War Child
+0.393,0.634,4,-6.629,0,0.0378,0.2,0.000166,0.198,0.395,85.767,"art pop, pop",Lana Del Rey,Born to Die
+0.636,0.54,9,-7.167,0,0.0589,0.00011,0.0003,0.203,0.674,124.002,"dance pop, new wave pop, permanent wave, soft rock",Cyndi Lauper,Into the Nightlife
+0.634,0.756,1,-4.81,0,0.0332,0.00251,0.000441,0.0427,0.661,119.948,"alternative rock, dance rock, electronic rock, permanent wave",Garbage,Stupid Girl
+0.675,0.649,5,-10.271,1,0.0319,0.0204,0.0,0.0959,0.596,116.62,"new romantic, new wave pop, soft rock",Kim Carnes,Bette Davis Eyes
+0.645,0.836,3,-5.558,1,0.0381,0.202,0.0209,0.156,0.68,105.746,"dance pop, r&b, urban contemporary",Janet Jackson,I Want You
+0.371,0.841,0,-6.021,1,0.297,0.287,4.67e-06,0.135,0.231,85.656,"pop, r&b",Beyoncé,I Care
+0.33,0.342,11,-14.09,1,0.0404,0.734,0.671,0.129,0.0795,142.95,"album rock, classic rock, hard rock, rock",Led Zeppelin,No Quarter
+0.565,0.562,1,-4.242,1,0.0277,0.31,0.0,0.188,0.275,128.068,,A Camp,Stronger Than Jesus
+0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006,"grunge, permanent wave, rock",Nirvana,Heart Shaped Box
+0.383,0.813,9,-7.323,0,0.0431,0.0275,0.000599,0.111,0.134,157.046,,Sully Erna,Sinner's Prayer
+0.439,0.867,4,-7.722,1,0.0618,0.00907,8.93e-06,0.679,0.318,129.103,"classic rock, country rock, folk, folk rock, rock, roots rock, singer-songwriter",Bob Dylan,My Back Pages
+0.87,0.699,5,-5.541,0,0.0459,0.245,6.76e-06,0.0588,0.727,126.967,"australian dance, australian electropop, dance rock, indietronica, neo-synthpop",Empire of the Sun,Walking on a Dream
+0.382,0.921,11,-6.427,0,0.0887,0.000339,0.00152,0.406,0.12,107.99,"gothic metal, gothic symphonic metal, norwegian metal, power metal, symphonic metal",Tristania,Angina
+0.727,0.834,2,-5.851,1,0.0496,0.165,0.0,0.105,0.816,131.7,"album rock, australian rock, classic rock, glam metal, hard rock, mellow gold, new romantic, new wave pop, soft rock, yacht rock",Rick Springfield,Jessie's Girl
+0.313,0.533,1,-9.416,0,0.166,0.103,0.00635,0.507,0.311,66.93,"pop, r&b",Beyonce,Haunted
+0.753,0.934,2,-3.011,1,0.0736,0.0174,0.065,0.128,0.73,113.525,"dance pop, r&b, urban contemporary",Janet Jackson,All For You
+0.604,0.788,0,-3.673,0,0.103,0.0678,0.153,0.127,0.301,126.06,"big room, dance pop, edm, pop, pop dance",David Guetta,Titanium
+0.673,0.607,5,-7.672,1,0.027,0.0142,4.15e-06,0.333,0.898,100.023,"dance pop, electropop, neo mellow",Lily Allen,LDN
+0.35,0.76,3,-8.545,1,0.0806,0.000205,0.414,0.348,0.588,161.287,,One World Orchestra,The Magnificent
+0.39,0.252,6,-9.666,0,0.0298,0.808,0.0,0.0887,0.181,122.053,"art pop, pop",Lana Del Rey,Video Games
+0.727,0.889,0,-7.126,1,0.0605,0.0325,1.27e-06,0.323,0.874,118.112,"new romantic, new wave pop, soft rock, sophisti-pop, synthpop",Rick Astley,My Arms Keep Missing You
+0.61,0.677,4,-9.813,0,0.0325,0.0614,0.0,0.232,0.444,103.946,"bolero, latin pop",Luis Miguel,Suave
+0.348,0.88,2,-7.366,1,0.0978,0.128,0.0,0.357,0.606,101.185,anarcho-punk,Chumbawamba,Tubthumping
+0.443,0.0305,0,-26.614,1,0.0617,0.992,0.623,0.0759,0.191,79.603,"early modern classical, impressionism, neoclassicism",Arthur Honegger,Danse de la Chèvre
+0.327,0.588,4,-6.611,1,0.0336,0.0834,0.0,0.104,0.329,161.074,pop,Miley Cyrus,The Climb
+0.717,0.499,9,-15.449,1,0.0354,0.0233,0.445,0.86,0.419,116.974,"album rock, art rock, classic rock, progressive rock, psychedelic rock, rock, symphonic rock",Pink Floyd,Run Like Hell
+0.657,0.642,7,-12.98,1,0.085,0.926,0.0165,0.12,0.737,110.543,"acoustic blues, blues, chicago blues, delta blues, harmonica blues, memphis blues, traditional blues",Howlin' Wolf,How Many More Years
+0.813,0.703,11,-5.077,0,0.268,0.125,1.26e-06,0.237,0.241,94.828,"east coast hip hop, hardcore hip hop, hip hop, queens hip hop",Mobb Deep,Survival of the Fittest
+0.471,0.797,6,-8.407,0,0.0389,0.000179,6.49e-06,0.299,0.497,152.903,"permanent wave, pop rock, post-grunge, tempe indie",Gin Blossoms,Hey Jealousy
+0.706,0.882,2,-3.382,1,0.0326,0.2,0.0,0.121,0.591,106.03,"dance pop, pop, post-teen pop",Hilary Duff,Chasing the Sun
+0.623,0.515,2,-12.354,1,0.0272,0.397,0.929,0.288,0.125,89.987,"britpop, welsh indie, welsh rock",Super Furry Animals,Some Things Come From Nothing
+0.782,0.665,1,-7.211,1,0.0754,0.135,3.15e-06,0.438,0.707,90.709,"g funk, gangster rap, hip hop, rap, west coast rap",2Pac,Temptations
+0.323,0.327,2,-8.946,0,0.031,0.753,0.0,0.119,0.237,178.595,"dance pop, pop",Madonna,One More Chance
+0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,"detroit hip hop, hip hop, rap",Eminem,The Real Slim Shady
+0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,"canadian hip hop, canadian pop, hip hop, pop rap, rap",Drake,Take Care
+0.37,0.208,5,-14.487,1,0.037,0.933,0.769,0.26,0.104,85.116,"big band, dixieland, jazz clarinet, swing, vintage jazz",Artie Shaw,Stardust
+0.399,0.767,2,-3.732,1,0.0328,0.0242,0.0,0.306,0.507,135.943,"boy band, pop",Jonas Brothers,When You Look Me in the Eyes
+0.667,0.714,6,-5.155,1,0.0288,0.0673,1.01e-06,0.0957,0.553,132.035,"australian pop, australian r&b",Gabriella Cilmi,Sweet About Me
+0.469,0.899,7,-3.847,1,0.0968,0.0119,8.2e-06,0.117,0.527,79.553,"dance pop, pop, post-teen pop",JoJo,Disaster
+0.632,0.586,0,-11.333,1,0.0284,0.0983,0.581,0.0535,0.89,114.243,"album rock, classic rock, hard rock, metal, rock",Deep Purple,Smoke on the Water
+0.603,0.529,4,-9.974,0,0.0307,0.462,0.000207,0.0959,0.235,89.763,"dance pop, pop",Madonna,You'll See
+0.649,0.593,9,-4.975,0,0.0304,0.108,0.0,0.109,0.329,119.944,"dance pop, girl group, post-teen pop, talent show",The Saturdays,Missing You
+0.283,0.973,4,-4.006,0,0.0459,0.000281,0.706,0.192,0.275,97.303,"alternative metal, metal, progressive death metal, progressive metal, swedish metal, swedish progressive metal",Opeth,Deliverance
+0.626,0.915,6,-3.123,0,0.0824,0.011,0.0,0.108,0.759,119.999,"europop, girl group, talent show",Girls Aloud,Something New
+0.421,0.459,4,-15.411,1,0.0441,0.167,0.0,0.0637,0.642,139.299,"art rock, classic rock, glam rock, permanent wave, rock",David Bowie,Song for Bob Dylan
+0.523,0.454,7,-9.686,1,0.0244,0.454,4.5e-05,0.0807,0.394,105.78,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,You Don't Miss Your Water
+0.4,0.915,0,-4.89,1,0.279,0.083,0.0,0.0503,0.871,89.006,"latin hip hop, puerto rican pop, reggaeton, trap latino, urbano latino",Don Omar,Danza Kuduro
+0.67,0.885,1,-5.076,0,0.0453,0.0596,0.0915,0.056,0.665,122.021,"alternative dance, electropop, indietronica, neo-synthpop, shimmer pop, swedish electropop, swedish indie pop, swedish synthpop",Miike Snow,The Wave
+0.721,0.821,1,-3.856,0,0.165,0.073,0.0,0.631,0.721,127.944,"pop, post-teen pop",Selena Gomez,Slow Down
+0.81,0.888,11,-5.763,0,0.0691,0.0504,0.634,0.101,0.483,108.726,"dance pop, r&b, urban contemporary",Janet Jackson,All Nite
+0.793,0.859,0,-3.774,1,0.0332,0.266,0.000356,0.133,0.964,129.911,british soul,Duffy,Mercy
+0.645,0.697,5,-4.733,0,0.0285,0.0739,0.000842,0.575,0.25,130.001,"dance pop, pop",Christina Aguilera,Keeps Gettin' Better
+0.677,0.935,3,-11.55,0,0.0514,0.0787,0.376,0.0787,0.965,120.11,"detroit house, diva house",Inner City,Big Fun
+0.652,0.834,8,-5.989,1,0.0374,0.00366,0.000248,0.097,0.501,119.896,neo soul,Bilal,Restart
+0.854,0.673,4,-3.132,0,0.185,0.038,0.000227,0.255,0.955,95.0,"r&b, soul",Michael Jackson,You Rock My World
+0.45,0.76,9,-4.976,1,0.0339,0.333,0.0,0.204,0.556,145.735,"contemporary country, country, country road",,Lemonade
+0.63,0.825,4,-4.683,1,0.0447,0.0622,1.58e-06,0.215,0.285,120.829,"dance pop, pop, post-teen pop",Hilary Duff,Wake Up
+0.652,0.609,11,-7.519,0,0.037,0.263,0.00101,0.233,0.482,95.986,"neo soul, pop, r&b",Alicia Keys,Fallin'
+0.545,0.241,7,-15.421,1,0.0658,0.507,0.0,0.0744,0.505,78.235,,,Ease Back
+0.5,0.807,4,-7.071,0,0.145,0.0552,0.0,0.0995,0.276,160.089,"ccm, christian alternative rock, christian indie, christian music, world worship",Stryper,To Hell with the Devil
+0.64,0.872,2,-5.104,1,0.0942,0.184,7.42e-05,0.0786,0.703,123.33,"classic soul, disco, funk, philly soul, quiet storm, soul, southern soul",,Love Story
+0.273,0.102,7,-12.787,1,0.0376,0.802,3.87e-06,0.32,0.259,78.65,"cancion melodica, copla",Sara Montiel,La Violetera
+0.489,0.758,7,-6.491,1,0.0297,0.000678,0.49,0.092,0.435,112.113,"art rock, classic rock, glam rock, permanent wave, rock",David Bowie,Heroes
+0.499,0.934,8,-3.661,0,0.095,0.0468,3.07e-06,0.703,0.356,110.053,"album rock, glam metal, hard rock, metal, progressive metal, us power metal",Queensryche,Jet City Woman
+0.454,0.987,8,-4.485,1,0.0881,0.0195,0.279,0.268,0.316,123.61,"glam metal, hard rock, rock",Guns N' Roses,Welcome to the Jungle
+0.788,0.693,7,-6.564,1,0.0407,0.0449,0.0017,0.0555,0.878,105.001,"post-disco, post-disco soul",T.S. Monk,Bon Bon Vie
+0.489,0.741,11,-7.406,0,0.0624,0.0414,0.00313,0.186,0.18,109.805,"alternative emo, emo, grand rapids indie",La Dispute,King Park
+0.538,0.752,9,-8.838,1,0.0356,0.0211,0.121,0.108,0.954,145.514,"alternative rock, chamber pop, indie rock, lo-fi, shoegaze, slacker rock",Pavement,Box Elder
+0.224,0.796,0,-5.363,0,0.042,0.000294,0.0165,0.0666,0.184,90.036,"fantasy metal, italian folk metal, italian metal, italian power metal, metal, neo classical metal, power metal, speed metal, symphonic metal",Rhapsody,Wisdom of the Kings
+0.398,0.952,4,-6.042,1,0.061,0.000373,7.75e-05,0.1,0.584,122.093,"heartland rock, mellow gold, permanent wave, rock, singer-songwriter",Bruce Springsteen,Born in the U.S.A.
+0.66,0.816,2,-6.61,1,0.0299,0.168,0.0181,0.0608,0.678,111.346,"album rock, dance rock, new romantic, new wave, new wave pop, rock, scottish new wave, soft rock",Simple Minds,Don't You Forget About Me
+0.43,0.957,6,-7.828,1,0.11,0.000901,0.849,0.738,0.366,173.001,"australian dance, dancefloor dnb, drum and bass",Pendulum,Another Planet
+0.511,0.908,0,-6.078,1,0.042,0.00228,0.0289,0.638,0.717,145.213,"album rock, blues rock, classic rock, hard rock, rock",ZZ Top,Tush
+0.632,0.639,5,-5.938,1,0.0259,0.00143,0.0,0.221,0.733,95.506,"dance pop, electropop, neo mellow",Lily Allen,Smile
+0.39,0.557,3,-6.344,1,0.0521,0.452,0.0,0.125,0.317,79.34,"dance pop, pop",Britney Spears,Perfume
+0.873,0.721,11,-9.774,0,0.0448,0.113,0.0,0.27,0.81,106.725,"contemporary r&b, new jack swing, r&b, urban contemporary",Tony Toni Tone,If I Had No Loot
+0.3,0.489,6,-7.849,0,0.0293,0.11,5.43e-05,0.119,0.0999,121.831,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,Many Too Many
+0.481,0.829,7,-9.867,1,0.0382,0.000784,4.82e-06,0.348,0.877,120.669,"hardcore punk, melodic hardcore, power-pop punk, punk, ska punk, skate punk",All,Dot
+0.585,0.927,5,-5.253,1,0.04,0.00432,0.0,0.178,0.672,142.043,"pop, post-teen pop",Demi Lovato,Here We Go Again
+0.794,0.711,8,-5.124,0,0.0699,0.3,0.0,0.0955,0.955,174.915,"dance pop, pop",Bruno Mars,The Lazy Song
+0.647,0.785,7,-5.414,1,0.165,0.0561,0.0,0.148,0.943,160.015,pop,Taylor Swift,Shake It Off
+0.722,0.63,3,-5.784,0,0.132,0.0485,0.000294,0.179,0.519,150.023,"dance pop, pop",Madonna,Bitch I'm Madonna
+0.433,0.0748,0,-19.351,1,0.049,0.92,0.00104,0.105,0.193,73.093,"rock-and-roll, rockabilly",Elvis Presley,Are You Lonesome Tonight
+0.283,0.356,11,-14.858,0,0.0346,0.53,0.906,0.093,0.406,185.387,"art rock, instrumental rock, jazz rock, progressive rock, psychedelic rock, symphonic rock, zolo",King Crimson,The Sheltering Sky
+0.803,0.68,4,-5.248,0,0.0406,0.594,1.37e-05,0.101,0.699,124.946,"bachata, reggaeton",Toby Love,Lejos
+0.303,0.996,10,-3.795,0,0.117,3.18e-06,0.105,0.191,0.361,125.043,"canadian metal, groove metal, nu metal, progressive metal, vancouver metal",Strapping Young Lad,Far Beyond Metal
+0.65,0.868,5,-3.988,1,0.084,0.000836,1.61e-05,0.245,0.71,87.961,"dance pop, pop, post-teen pop",Vanessa Hudgens,Come Back To Me
+0.784,0.627,11,-14.617,0,0.0572,0.0425,0.717,0.0645,0.952,136.879,"early synthpop, moog",Hot Butter,Popcorn
+0.578,0.892,10,-7.952,0,0.0441,0.000139,0.0111,0.215,0.892,150.255,"alternative dance, alternative rock, dance-punk, indie rock, indietronica, modern rock, neo-synthpop, new rave",Bloc Party,Banquet
+0.796,0.875,8,-3.916,1,0.115,0.1,4.36e-05,0.252,0.76,92.028,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Tuya Soy
+0.539,0.591,9,-8.327,1,0.0239,0.0721,5.52e-06,0.18,0.315,96.885,"bolero, latin pop",Luis Miguel,"America, America"
+0.68,0.687,9,-6.162,0,0.0709,0.0161,0.0,0.261,0.467,150.053,"atl hip hop, dirty south rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",T.I.,Whatever You Like
+0.42,0.69,9,-6.221,0,0.0347,0.00385,0.015,0.287,0.237,85.014,"permanent wave, pop",Coldplay,Princess of China
+0.332,0.668,9,-6.926,1,0.0406,0.00372,0.0046,0.2,0.392,162.769,"australian alternative rock, australian rock",Powderfinger,The Metre
+0.545,0.67,9,-8.81,1,0.0496,0.009,0.000822,0.0451,0.481,151.553,"album rock, classic rock, rock, soft rock, yacht rock",Fleetwood Mac,The Chain
+0.566,0.766,2,-5.036,1,0.0399,0.431,0.0,0.101,0.547,168.005,"dance pop, pop, post-teen pop, urban contemporary",Jordin Sparks,Tattoo
+0.391,0.951,6,-7.419,1,0.0688,0.012,0.000446,0.0878,0.468,157.663,"alternative metal, modern rock, pop punk, punk, rock, socal pop punk",Blink-182,What's My Age Again
+0.624,0.979,1,-3.796,0,0.0495,0.111,0.0,0.0972,0.88,157.962,"colombian pop, latin pop, mexican pop, rock en espanol",Juanes,La Luz
+0.814,0.639,1,-8.078,0,0.0463,0.0979,0.0,0.13,0.961,133.035,"bachata, bachata dominicana, latin hip hop, latin pop, tropical, urbano latino",Aventura,Mi Corazoncito
+0.373,0.366,8,-9.687,0,0.056,0.468,3.9e-06,0.463,0.131,95.407,"alternative rock, art pop, electronica, experimental pop, experimental vocal, icelandic experimental, icelandic pop, icelandic singer-songwriter, metropopolis, permanent wave, trip hop",Björk,Mutual Core
+0.646,0.718,0,-6.279,1,0.0422,0.0783,0.803,0.0847,0.524,116.982,"britpop, welsh indie, welsh rock",Super Furry Animals,Slow Life
+0.814,0.546,9,-10.0,1,0.0534,0.386,2.24e-05,0.085,0.963,124.315,new wave pop,Debbie Harry,The Jam Was Moving
+0.432,0.716,5,-4.761,1,0.035,0.165,0.0,0.105,0.228,89.916,"classic malaysian pop, malaysian pop",Siti Nurhaliza,Galau
+0.382,0.615,5,-11.285,1,0.037,0.0298,9.8e-05,0.228,0.578,168.614,"album rock, blues rock, classic rock, electric blues, hard rock, jam band, rock, southern rock",The Black Crowes,Soul Singing
+0.648,0.938,1,-3.298,1,0.115,0.0339,1.28e-06,0.0564,0.849,78.496,"dance pop, pop, urban contemporary",Mariah Carey,Oh Santa!
+0.709,0.949,0,-4.155,1,0.0509,0.00296,0.00022,0.26,0.398,128.966,"dance pop, pop, urban contemporary",Jennifer Lopez,Booty
+0.391,0.936,2,-4.061,1,0.0326,4.23e-05,0.15,0.215,0.384,143.657,"emo, emo punk, midwest emo",Mineral,If I Could
+0.702,0.949,7,-6.946,1,0.0486,0.00342,0.725,0.0573,0.787,123.383,"dance rock, dance-punk, no wave, post-punk",Liquid Liquid,Optimo
+0.468,0.524,1,-12.38,0,0.0474,0.00064,0.0221,0.131,0.537,136.293,"grunge, permanent wave, rock",Nirvana,Milk It
+0.35,0.403,0,-9.57,1,0.0279,0.786,0.0,0.12,0.201,104.957,"pop, r&b",Beyonce,Ave Maria
+0.432,0.908,7,-4.029,1,0.094,0.0113,0.0,0.321,0.383,159.962,"candy pop, pixie",Meg & Dia,Indiana
+0.776,0.875,4,-5.535,1,0.0575,0.0343,0.0,0.314,0.849,111.988,"girl group, pop, talent show, uk pop",Little Mix,Black Magic
+0.306,0.617,0,-4.812,1,0.033,0.0228,0.0,0.231,0.291,156.362,"boy band, pop",Jonas Brothers,A Little Bit Longer
+0.328,0.622,5,-7.291,0,0.0866,0.858,0.0,0.104,0.401,74.267,"hip hop, new orleans rap, pop rap, rap, trap",Lil Wayne,Mirror
+0.645,0.828,0,-8.493,1,0.0373,0.234,0.0,0.2,0.774,121.217,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,Misunderstanding
+0.439,0.434,7,-14.918,1,0.0265,0.0783,5.18e-05,0.14,0.204,94.843,"irish rock, pop rock, rock",The Cranberries,Linger
+0.535,0.658,7,-5.201,1,0.032,0.0303,0.000113,0.0618,0.293,126.053,"britpop, welsh indie, welsh rock",Super Furry Animals,Show Your Hand
+0.679,0.788,5,-9.361,0,0.0509,6.07e-05,2.1e-06,0.0783,0.319,126.998,"escape room, hip house, lgbtq+ hip hop, trap queen",Azealia Banks,Liquorice
+0.412,0.42,10,-10.907,1,0.0666,0.148,0.0125,0.711,0.325,50.783,ectofolk,Eva Cassidy,Stormy Monday
+0.606,0.897,10,-7.469,0,0.0448,0.176,0.882,0.17,0.393,130.55,"big beat, downtempo, electronica, trip hop",Faithless,God Is A DJ
+0.73,0.654,11,-8.334,0,0.0439,0.178,0.0,0.0796,0.693,97.975,"bolero, latin pop",Luis Miguel,Dame
+0.814,0.877,1,-7.134,0,0.153,0.0866,7.62e-05,0.277,0.579,111.179,"r&b, soul",Michael Jackson,Tabloid Junkie
+0.418,0.753,8,-6.749,0,0.0352,0.000167,0.0525,0.595,0.621,137.134,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Get Your Gunn
+0.401,0.499,0,-7.643,1,0.0272,0.217,0.0,0.149,0.262,144.276,"bolero, latin pop",Luis Miguel,Por Debajo De La Mesa
+0.676,0.681,5,-9.223,1,0.0292,0.363,0.191,0.0967,0.901,132.953,"bubblegum pop, classic garage rock, country rock, folk rock, mellow gold, singer-songwriter, soft rock, sunshine pop",The Association,Windy
+0.334,0.872,5,-10.4,1,0.0371,0.0805,0.301,0.847,0.788,154.816,"album rock, art rock, british invasion, classic rock, country rock, flute rock, folk rock, mellow gold, progressive rock, rock, singer-songwriter, soft rock, symphonic rock",The Moody Blues,Ride My See-Saw
+0.496,0.975,8,-7.777,1,0.0676,0.0034,0.0264,0.415,0.359,100.801,"horror punk, new jersey hardcore, new jersey punk, punk",Misfits,Monster Mash
+0.564,0.932,11,-10.068,1,0.0554,0.013,0.169,0.349,0.619,112.937,"album rock, classic rock, hard rock, rock",Led Zeppelin,Immigrant Song
+0.315,0.634,2,-8.174,1,0.0414,0.0018,0.425,0.243,0.0951,109.975,"chaotic hardcore, cybergrind, mathcore, nintendocore, uk metalcore, uk post-hardcore",Rolo Tomassi,Illuminare
+0.823,0.793,1,-11.299,0,0.045,0.0066,0.855,0.108,0.96,98.94,"british folk, classic rock, folk, folk rock, mellow gold, singer-songwriter, soft rock",Cat Stevens,Was Dog A Doughnut
+0.478,0.972,9,-2.965,1,0.0933,0.034,4.42e-05,0.349,0.0974,105.033,"album rock, glam metal, hard rock, metal, progressive metal, us power metal",Queensryche,Eyes of a Stranger
+0.401,0.478,8,-7.751,1,0.0933,0.882,2.47e-06,0.111,0.257,182.996,pop,Katy Perry,Not Like the Movies
+0.711,0.36,11,-11.237,0,0.0331,0.385,9.82e-06,0.111,0.381,127.928,opm,Nina,Jealous
+0.453,0.306,2,-7.611,0,0.0281,0.31,0.00646,0.136,0.132,82.069,"british soul, dance pop, pop, talent show",Leona Lewis,Hurt
+0.365,0.916,4,-7.287,0,0.0667,0.0168,0.0,0.375,0.646,88.912,"hardcore punk, melodic hardcore, power-pop punk, punk, ska punk, skate punk",All,Just Perfect
+0.663,0.98,1,-4.713,0,0.0566,0.29,0.00494,0.826,0.753,95.978,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Chika Ideal
+0.798,0.532,7,-4.329,0,0.0489,0.386,4.31e-05,0.196,0.372,96.992,"alternative r&b, dance pop, metropopolis, pop, r&b",Tinashe,All Hands On Deck
+0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,"dance pop, pop",Bruno Mars,Just the Way You Are
+0.731,0.897,1,-2.845,1,0.113,0.195,0.0,0.391,0.832,103.001,"dance pop, pop, urban contemporary",Mariah Carey,Loverboy
+0.766,0.492,10,-12.765,1,0.0878,0.203,0.00619,0.227,0.978,123.894,"reggae, roots reggae",Bob Marley & The Wailers,Simmer Down
+0.639,0.676,11,-11.168,0,0.061,0.000576,0.434,0.26,0.231,101.957,"dance pop, pop",Madonna,Erotica
+0.823,0.725,10,-3.426,0,0.22,0.0506,0.0,0.19,0.808,95.047,"dirty south rap, hip hop, queens hip hop",Tony Yayo,Pimpin'
+0.771,0.655,3,-10.842,0,0.0372,0.152,0.00197,0.0685,0.97,119.747,"dance pop, pop",Madonna,Like a Virgin
+0.823,0.886,4,-4.485,0,0.0821,0.0137,0.000147,0.064,0.534,107.748,"bmore, chicago rap",Kid Sister,Get Fresh
+0.477,0.855,10,-4.612,0,0.03,0.0421,0.0843,0.126,0.462,85.806,"alternative rock, dance rock, electronic rock, permanent wave",Garbage,The World Is Not Enough
+0.461,0.921,6,-3.57,1,0.0461,6.68e-05,1.24e-06,0.133,0.481,94.992,"alternative metal, nu metal, post-grunge",Breaking Benjamin,Into the Nothing
+0.422,0.245,2,-17.091,1,0.0344,0.344,0.0,0.0737,0.329,117.347,"art rock, classic rock, glam rock, permanent wave, rock",David Bowie,Quicksand
+0.567,0.707,8,-5.455,0,0.0819,0.542,0.000177,0.1,0.751,171.918,"barbadian pop, pop, urban contemporary",Rihanna,Te Amo
+0.683,0.542,9,-7.294,0,0.037,0.715,0.0,0.104,0.401,152.071,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Angel Caido
+0.741,0.759,0,-5.096,0,0.12,0.0218,0.0,0.628,0.362,97.084,"dance pop, pop, urban contemporary",Jennifer Lopez,Get Right
+0.691,0.828,1,-3.909,0,0.0749,0.113,0.0,0.358,0.678,75.519,"dance pop, pop",Bruno Mars,Liquor Store Blues
+0.372,0.309,3,-10.339,0,0.037,0.981,0.154,0.0686,0.444,100.856,british dance band,All,Guilty
+0.328,0.571,8,-8.133,1,0.0543,0.0382,0.0,0.33,0.215,83.276,"dance pop, electropop, neo-synthpop, scandipop, swedish electropop, swedish pop",Robyn,Giving You Back
+0.531,0.864,4,-4.948,0,0.0611,0.000753,0.00046,0.354,0.485,166.312,"album rock, classic rock, dance rock, hard rock, new romantic, new wave, new wave pop, rock, soft rock",Billy Idol,Rebel Yell
+0.698,0.826,10,-6.263,1,0.031,0.201,0.000125,0.114,0.502,92.41,"dance pop, pop",Gwen Stefani,4 In The Morning
+0.64,0.887,0,-5.204,0,0.0368,0.143,0.0,0.336,0.94,144.546,"britpop, new romantic, new wave, ska, ska revival",Madness,Baggy Trousers
+0.8,0.632,8,-4.875,0,0.051,0.0901,0.0,0.0315,0.845,95.954,"dance pop, pop, urban contemporary",Mariah Carey,It's Like That
+0.461,0.466,11,-9.627,1,0.0598,0.86,2.76e-05,0.135,0.251,128.537,"arkansas country, classic country pop, country, country rock",Conway Twitty,It's Only Make Believe
+0.302,0.428,5,-8.814,1,0.0338,0.479,0.0,0.105,0.119,144.075,"bolero, latin pop",Luis Miguel,O Tu O Ninguna
+0.664,0.819,4,-9.698,1,0.0487,0.671,3.83e-06,0.0985,0.931,116.082,"classic italian pop, italian adult pop",Domenico Modugno,Volare
+0.403,0.674,9,-8.208,1,0.0352,0.00158,1.38e-06,0.308,0.877,161.424,"alternative rock, permanent wave, punk, rock",The Clash,Garageland
+0.619,0.745,11,-4.801,0,0.13,0.178,0.0,0.202,0.532,91.969,"dance pop, grime, pop rap",Tinie Tempah,Wonderman
+0.503,0.928,7,-5.927,1,0.144,0.0096,0.000163,0.33,0.765,125.645,,Cristina,Disco Clone
+0.419,0.951,0,-3.201,1,0.0897,0.000569,0.000342,0.196,0.326,161.922,"candy pop, modern rock, pixie, pop, pop emo, pop punk, rock",Paramore,Now
+0.533,0.901,0,-6.008,0,0.24,0.566,0.000147,0.102,0.432,84.959,"art pop, pop",Lana Del Rey,National Anthem
+0.704,0.68,7,-4.751,1,0.0581,0.0059,0.0,0.213,0.689,123.973,"dance pop, girl group, post-teen pop, talent show",The Saturdays,What About Us
+0.588,0.751,0,-7.588,1,0.0328,0.00174,6.57e-05,0.353,0.52,136.979,"canadian indie, lilith, metropopolis, permanent wave",Tegan and Sara,Closer
+0.762,0.651,0,-13.34,1,0.0655,0.00198,0.856,0.111,0.941,130.395,"alternative rock, dance rock, madchester, new romantic, new wave, permanent wave, post-punk, synthpop, uk post-punk",New Order,Blue Monday
+0.653,0.858,10,-4.646,0,0.0307,0.0235,0.0,0.11,0.583,127.981,"latin arena pop, latin pop",Cristian Castro,Azul
+0.756,0.772,5,-6.65,0,0.0306,0.0848,0.0026,0.0792,0.954,98.382,"album rock, classic rock, mellow gold, singer-songwriter, soft rock, yacht rock",Don Henley,Dirty Laundry
+0.462,0.602,7,-4.167,1,0.0285,0.142,0.0,0.156,0.184,75.071,"british soul, dance pop, pop, talent show",Leona Lewis,I Will Be
+0.48,0.435,7,-8.851,1,0.0359,0.233,7.75e-05,0.204,0.538,93.352,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Wasn't Born To Follow
+0.48,0.826,0,-4.602,1,0.0397,0.000797,1.01e-06,0.125,0.687,96.0,"dance rock, modern alternative rock, modern rock, neo mellow, pop rock",Walk the Moon,Different Colors
+0.298,0.597,5,-12.107,1,0.0343,0.00111,0.0,0.0819,0.536,180.434,pop emo,Anberlin,Paperthin Hymn
+0.388,0.153,2,-16.444,1,0.0392,0.891,3.55e-05,0.11,0.449,113.151,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Kathleen's Song
+0.6,0.792,1,-5.894,1,0.0516,0.00321,4.84e-05,0.315,0.399,80.059,"barbadian pop, pop, urban contemporary",Rihanna,Rehab
+0.666,0.922,5,-4.645,1,0.0352,0.000348,0.0,0.0867,0.758,130.007,pop,Katy Perry,Part of Me
+0.564,0.774,1,-9.424,1,0.0368,0.0135,0.00191,0.0861,0.657,100.894,"irish rock, permanent wave, rock",U2,I Still Haven't Found What I'm Looking For
+0.555,0.854,5,-4.468,0,0.0609,0.0223,3.95e-06,0.0672,0.448,119.991,"classic oklahoma country, contemporary country, country, country dawn, dance pop, pop",Carrie Underwood,Two Black Cadillacs
+0.629,0.703,2,-4.875,1,0.0504,0.519,0.0,0.11,0.402,144.016,"cantautor, latin arena pop, latin pop, mexican pop",Alejandro Sanz,Amiga Mia
+0.696,0.546,5,-6.55,1,0.0414,0.00379,3.8e-06,0.332,0.787,130.002,"dance pop, pop",Britney Spears,I Wanna Go
+0.528,0.468,5,-5.306,1,0.0287,0.295,0.0,0.165,0.185,154.974,"british soul, pop, pop soul, uk pop",,One
+0.531,0.901,2,-6.846,1,0.0873,0.0129,0.00492,0.0753,0.662,89.021,"britpop, welsh indie, welsh rock",Super Furry Animals,Lazer Beam
+0.588,0.705,0,-8.657,1,0.0337,0.0101,0.000284,0.0939,0.507,89.984,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,WOW
+0.308,0.529,7,-5.319,0,0.0874,0.479,0.0,0.441,0.485,80.794,"contemporary r&b, hip pop, r&b, urban contemporary",Monica,Everything to Me
+0.568,0.878,7,-5.094,1,0.0933,0.0309,4.26e-06,0.213,0.725,171.723,"canadian pop, pop",Justin Bieber,Die In Your Arms
+0.815,0.438,0,-14.522,0,0.0346,0.216,0.000466,0.0787,0.552,108.965,"album rock, glam metal, hard rock, soft rock",Survivor,Eye Of The Tiger
+0.6,0.796,2,-4.481,1,0.0275,0.000109,5.2e-05,0.484,0.75,105.991,"finnish alternative rock, funk metal",The Rasmus,In the Shadows
+0.382,0.617,9,-12.358,1,0.0491,1.52e-05,6e-06,0.384,0.616,164.963,"hardcore punk, melodic hardcore, power-pop punk, punk, ska punk, skate punk",All,She's My Ex
+0.778,0.801,9,-4.65,1,0.086,0.345,1.18e-06,0.0881,0.534,97.47,"art pop, dance pop, pop",Lady Gaga,Do What U Want
+0.563,0.865,5,-5.277,1,0.16,0.0472,0.000191,0.77,0.601,156.271,"classic rock, glam rock, rock",Queen,Don't Stop Me Now
+0.445,0.891,1,-4.856,0,0.0528,0.000452,4.48e-06,0.1,0.0923,95.034,"mathcore, melodic metalcore, metalcore, progressive metalcore, uk metalcore",Architects,Colony Collapse
+0.575,0.685,2,-8.146,1,0.0452,0.0148,0.0,0.15,0.588,88.001,"latin pop, mexican pop",Thalia,Entre el Mar y una Estrella
+0.457,0.752,11,-8.121,0,0.09,0.00959,0.00136,0.0573,0.897,183.578,"alternative rock, pop rock, post-grunge, sacramento indie",Cake,The Distance
+0.864,0.495,0,-7.036,1,0.037,0.591,0.000133,0.0992,0.72,129.062,australian pop,Gotye,Somebody That I Used to Know
+0.674,0.413,2,-7.816,1,0.0274,0.836,1.95e-05,0.098,0.503,124.893,"neo mellow, singer-songwriter",,Daughters
+0.525,0.944,5,-3.327,1,0.0403,0.00247,0.0001,0.248,0.593,108.8,"alternative metal, alternative rock, pop rock, post-grunge",Third Eye Blind,Blinded
+0.634,0.848,1,-3.843,0,0.047,0.00237,0.0,0.0681,0.647,105.055,"canadian pop, candy pop, dance pop, pop",Avril Lavigne,Smile
+0.674,0.789,8,-6.903,1,0.0676,0.00178,0.00708,0.0753,0.918,129.802,"alternative rock, britpop, madchester, permanent wave, rock",Blur,Song 2
+0.769,0.505,1,-7.345,1,0.0829,0.311,7.49e-05,0.0777,0.757,171.804,"atl hip hop, contemporary r&b, dance pop, girl group, hip pop, r&b, urban contemporary",TLC,Waterfalls
+0.62,0.429,8,-9.47,1,0.051,0.0236,0.0,0.291,0.495,90.031,"dance pop, pop, post-teen pop",Nicole Scherzinger,Baby Love
+0.368,0.802,4,-6.173,1,0.0518,0.0262,0.000653,0.242,0.797,153.113,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,X-Offender
+0.705,0.783,7,-4.246,1,0.0849,0.0127,0.00642,0.146,0.25,97.328,"dance pop, pop, pop rap",Timbaland,Scream
+0.663,0.694,10,-8.627,0,0.171,0.0253,0.0,0.0698,0.525,167.953,"alternative hip hop, modern rock, rock",Gorillaz,Clint Eastwood
+0.521,0.297,2,-7.022,1,0.0351,0.732,0.0,0.273,0.517,118.681,"alternative metal, comedy rock, comic, comic metal, parody",Tenacious D,Fuck Her Gently
+0.545,0.675,6,-6.474,1,0.0279,0.00617,0.00197,0.209,0.162,124.97,"permanent wave, pop",Coldplay,A Sky Full of Stars
+0.663,0.942,2,-2.545,1,0.31,0.106,0.0006,0.338,0.675,180.038,"dance pop, hip pop, r&b, urban contemporary",Keri Hilson,The Way You Love Me
+0.327,0.902,1,-2.734,1,0.0619,0.000419,0.000342,0.0728,0.546,86.067,"glam metal, hard rock, metal, nwobhm, power metal",Saxon,Denim and Leather
+0.591,0.634,9,-6.365,0,0.0291,0.0107,1.95e-06,0.113,0.44,99.998,"art pop, dance pop, pop",Lady Gaga,Bloody Mary
+0.658,0.818,7,-7.09,0,0.0266,0.00613,0.28,0.336,0.391,119.944,"dance pop, pop",Madonna,Deeper and Deeper
+0.636,0.854,10,-5.02,0,0.0612,0.00579,0.00833,0.0623,0.59,100.849,"latin pop, mexican pop, puerto rican pop",Ricky Martin,Nobody Wants to Be Lonely
+0.59,0.671,1,-12.484,1,0.154,0.0939,0.0,0.248,0.736,109.333,"classic soul, motown, northern soul, soul, southern soul",Edwin Starr,War
+0.813,0.785,1,-3.881,0,0.0921,0.065,0.0,0.0747,0.852,131.978,"dance pop, k-pop, k-pop girl group",2NE1,I Don't Care
+0.662,0.741,0,-5.406,1,0.0334,0.00165,0.0303,0.114,0.404,131.0,"dance pop, pop, talent show",Kelly Clarkson,Since U Been Gone
+0.415,0.359,7,-11.094,1,0.0334,0.707,6.53e-05,0.319,0.404,146.029,enka,Kyu Sakamoto,Sukiyaki
+0.62,0.695,9,-5.874,1,0.0355,0.565,2e-06,0.263,0.578,104.533,tejano,Selena,Amame
+0.371,0.985,6,-2.644,1,0.128,0.00889,0.000663,0.56,0.427,144.986,"album rock, blues rock, classic rock, electric blues, hard rock, jam band, rock, southern rock",The Black Crowes,Kickin' My Heart Around
+0.252,0.307,7,-9.268,0,0.0352,0.538,0.581,0.369,0.0796,135.95,"cool jazz, hard bop, jazz, jazz fusion, jazz trumpet, soul, vocal jazz",,Sanctuary
+0.77,0.779,0,-3.571,1,0.0628,0.056,3.34e-05,0.0832,0.972,135.102,"dance pop, r&b, urban contemporary",Janet Jackson,Just A Little While
+0.693,0.822,4,-5.441,0,0.0439,0.00616,1.79e-06,0.315,0.763,126.035,"dance pop, miami hip hop, pop, pop rap",Flo Rida,I Cry
+0.77,0.459,1,-17.453,1,0.0416,0.112,0.00343,0.145,0.963,133.351,"ectofolk, lilith, new wave, new wave pop, pop rock, singer-songwriter","10,000 Maniacs",Like The Weather
+0.691,0.921,8,-1.702,0,0.0535,0.174,0.0,0.331,0.802,130.072,"big room, dance pop, edm, pop, pop dance",David Guetta,Play Hard
+0.562,0.709,11,-4.92,0,0.0424,0.00124,0.0,0.109,0.401,91.958,"barbadian pop, pop, urban contemporary",Rihanna,Diamonds
+0.399,0.787,1,-2.88,1,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,pop,Sia,Chandelier
+0.705,0.784,2,-4.351,1,0.0279,0.211,4.3e-06,0.0813,0.418,104.98,"dance pop, pop",Bruno Mars,Moonshine
+0.578,0.817,0,-6.541,1,0.0363,0.183,2.85e-06,0.285,0.734,141.621,"neo mellow, pop rock, post-grunge, rock",Counting Crows,Mr. Jones
+0.299,0.634,2,-7.535,1,0.0374,0.162,0.000402,0.163,0.364,150.382,"britpop, welsh indie, welsh rock",Super Furry Animals,Hello Sunshine
+0.722,0.794,1,-5.398,0,0.28,0.0338,0.0,0.102,0.5,94.257,"atl hip hop, dirty south rap, hip hop, southern hip hop",Big Boi,Tangerine
+0.74,0.53,7,-7.576,1,0.0325,0.0368,0.0,0.156,0.504,83.991,"dance pop, europop, girl group, talent show",Sugababes,Gotta Be You
+0.682,0.678,7,-9.626,1,0.11,0.2,0.000163,0.109,0.517,175.18,"reggae, reggae fusion",Inner Circle,Bad Boys
+0.331,0.969,4,-6.054,1,0.0638,0.00734,0.00852,0.338,0.327,190.816,visual kei,Luna Sea,Storm
+0.75,0.727,5,-4.21,0,0.142,0.0188,0.0,0.266,0.359,129.992,"dance pop, pop, pop rap",LMFAO,Party Rock Anthem
+0.517,0.861,0,-5.319,1,0.0341,0.00404,0.000362,0.126,0.49,79.978,"europop, swedish pop, synthpop",Roxette,Wish I Could Fly
+0.561,0.922,6,-10.816,1,0.049,0.0102,0.000204,0.335,0.826,119.791,"hi-nrg, new romantic, new wave pop, synthpop",Dead Or Alive,Brand New Lover
+0.579,0.898,1,-4.473,1,0.034,0.00212,3.61e-05,0.0816,0.513,124.95,"europop, girl group, talent show",Girls Aloud,The Loving Kind
+0.366,0.286,2,-10.862,1,0.0293,0.705,0.92,0.138,0.215,103.679,"britpop, welsh indie, welsh rock",Super Furry Animals,Cloudberries
+0.514,0.255,5,-12.037,1,0.0283,0.898,0.000235,0.0994,0.298,99.851,"dance pop, pop",Pink,Glitter In The Air
+0.495,0.905,8,-3.768,1,0.0653,0.00227,3.29e-06,0.142,0.215,97.106,"alternative metal, candy pop",The Pretty Reckless,Make Me Wanna Die
+0.561,0.842,2,-7.518,0,0.0566,0.239,0.412,0.0768,0.843,111.209,"album rock, classic rock, hard rock, rock",Led Zeppelin,Trampled Under Foot
+0.329,0.857,11,-3.681,1,0.0496,0.00878,0.0725,0.156,0.476,143.482,"chamber pop, indie pop, scottish indie, scottish rock",Camera Obscura,"Lloyd, I'm Ready to Be Heartbroken"
+0.311,0.694,1,-7.717,0,0.125,0.0859,0.0,0.118,0.224,94.942,"ccm, christian alternative rock, christian indie, christian music, world worship",Amy Grant,Lead Me On
+0.505,0.754,4,-7.435,1,0.0366,0.132,0.0,0.204,0.51,119.204,"album rock, classic rock, hard rock, mellow gold, rock, soft rock",Journey,Don't Stop Believin'
+0.315,0.39,8,-10.258,1,0.0299,0.591,0.0,0.0866,0.954,78.234,"classic girl group, classic soul, doo-wop, motown, rock-and-roll, soul",The Shirelles,Tonight's the Night
+0.721,0.74,1,-5.453,1,0.0413,0.113,4.07e-05,0.0847,0.716,104.812,europop,Des'ree,Life
+0.367,0.601,6,-8.934,1,0.0478,0.000426,0.781,0.0725,0.243,106.036,"birmingham metal, drone metal, dub metal, post-metal",Godflesh,Carrion
+0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,"neo mellow, piano rock, pop rock, viral pop",A Great Big World & Christina Aguilera,Say Something
+0.339,0.79,1,-4.662,0,0.0347,0.00608,3.75e-05,0.184,0.512,108.384,"britpop, welsh indie, welsh rock",Super Furry Animals,Run-Away
+0.611,0.797,6,-7.627,0,0.0533,0.00543,0.00137,0.26,0.518,120.041,"indie poptimism, modern alternative rock, modern rock, pov: indie",BØRNS,Electric Love
+0.432,0.867,9,-6.809,1,0.0593,0.0532,0.0,0.247,0.54,79.995,"r&b, urban contemporary",Miguel,Use Me
+0.768,0.896,11,-6.89,0,0.0555,0.0384,3.73e-05,0.174,0.502,128.036,"escape room, hip house, lgbtq+ hip hop, trap queen",Azealia Banks,Ice Princess
+0.752,0.364,7,-10.375,1,0.277,0.0177,0.000306,0.278,0.534,89.842,"dance pop, r&b, urban contemporary",Janet Jackson,Got 'Til It's Gone
+0.48,0.486,6,-5.754,0,0.0447,0.0469,0.0,0.107,0.265,80.051,"barbadian pop, pop, urban contemporary",Rihanna,Russian Roulette
+0.679,0.903,4,-4.914,1,0.0463,0.333,0.0,0.372,0.872,108.114,"australian pop, dance pop, europop, talent show",S Club 7,Bring It All Back
+0.726,0.827,8,-5.22,1,0.21,0.00866,0.0728,0.0737,0.692,127.01,talent show,Nicola Roberts,Beat of My Drum
+0.93,0.332,1,-10.929,1,0.359,0.0434,3.66e-05,0.122,0.255,98.966,"hip hop, pop rap, rap, southern hip hop, trap",Tyga,Rack City
+0.673,0.732,8,-7.11,0,0.316,0.107,0.0,0.159,0.655,142.119,texas latin rap,,Flatline
+0.451,0.818,2,-8.124,1,0.0439,0.135,2.92e-05,0.052,0.755,124.532,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Turn Turn Turn
+0.466,0.535,1,-7.814,1,0.0934,0.5,1.33e-06,0.332,0.715,81.037,"dance pop, pop, urban contemporary",Mariah Carey,Subtle Invitation
+0.709,0.889,1,-4.118,1,0.138,0.16,0.0,0.0469,0.822,95.01,"indie pop rap, philly rap, pop rap",Chiddy Bang,Ray Charles
+0.256,0.929,7,-6.667,1,0.113,0.00311,0.201,0.11,0.278,113.47,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Fade to Black
+0.666,0.87,11,-5.004,0,0.246,0.203,0.0,0.0851,0.9,160.014,"dance pop, hip pop, r&b, urban contemporary",Keri Hilson,Pretty Girl Rock
+0.694,0.598,7,-6.358,1,0.0365,0.00382,0.0,0.328,0.394,126.966,"dance pop, pop",Madonna,Turn Up the Radio
+0.395,0.876,11,-3.859,0,0.138,0.0173,8.55e-06,0.362,0.567,124.638,"atl hip hop, dance pop, hip pop, r&b, urban contemporary",Kelly Rowland,Commander
+0.606,0.457,6,-14.035,0,0.0497,0.713,2.53e-05,0.0747,0.813,92.033,"classic rock, folk, folk rock, melancholia, mellow gold, rock, soft rock",Simon and Garfunkel,Mrs Robinson
+0.767,0.824,6,-2.778,1,0.062,0.0928,0.0,0.0275,0.938,150.014,"dance pop, pop, post-teen pop",Jesse McCartney,Shake
+0.431,0.613,0,-6.968,1,0.0578,0.632,0.0,0.0964,0.691,76.983,classic venezuelan pop,,Feliz Navidad
+0.567,0.501,2,-8.038,1,0.0241,0.0994,0.0,0.0986,0.201,142.595,"boy band, contemporary r&b, new jack swing, r&b, urban contemporary",Boyz II Men,I'll Make Love To You
+0.225,0.92,8,-5.751,1,0.0832,0.00756,2.51e-05,0.304,0.631,168.749,"cleveland indie, indie punk, indie rock, lo-fi, modern power pop, noise pop, popgaze",Nas,Stay
+0.409,0.946,10,-5.02,0,0.263,0.0105,0.000116,0.161,0.283,169.228,"britpop, welsh indie, welsh rock",Super Furry Animals,Do Or Die
+0.557,0.831,9,-4.02,1,0.132,0.13,0.0,0.129,0.586,89.677,"dance pop, pop",Jason Derulo,Ridin' Solo
+0.664,0.503,2,-5.979,1,0.0366,0.367,0.0,0.113,0.462,85.011,"r&b, soul",Michael Jackson,Cry
+0.906,0.583,8,-7.721,0,0.317,0.0569,0.0,0.126,0.829,129.056,"dance pop, pop",Fergie,Fergalicious
+0.292,0.74,0,-6.839,1,0.0625,8.48e-05,0.276,0.246,0.441,121.497,"grungegaze, nu gaze, shoegaze, spacegrunge",Swervedriver,The Birds
+0.533,0.272,9,-12.9,1,0.031,0.667,0.0,0.111,0.133,120.02,"dance pop, pop, urban contemporary",Mariah Carey,Hero
+0.136,0.945,4,-11.002,1,0.0619,2.91e-06,0.907,0.118,0.33,167.84,"grungegaze, nu gaze, shoegaze, spacegrunge",Swervedriver,Rave Down
+0.523,0.75,6,-4.261,1,0.0398,0.317,0.0,0.228,0.551,103.886,"british soul, dance pop, pop, talent show",Leona Lewis,Trouble
+0.568,0.883,1,-4.575,1,0.0271,0.0973,0.0476,0.104,0.861,104.987,"dance rock, new romantic, new wave, permanent wave, rock, synthpop",Depeche Mode,Precious
+0.569,0.532,7,-5.761,1,0.0322,0.628,0.0,0.117,0.19,133.883,"classic oklahoma country, contemporary country, country, country dawn, country road",Reba McEntire & Kelly Clarkson,Because Of You
+0.441,0.202,7,-12.499,1,0.0381,0.732,2.6e-05,0.126,0.269,77.971,"alt z, electropop, pop",,This Love
+0.387,0.697,0,-4.182,1,0.0384,0.439,0.0,0.337,0.407,145.045,"art pop, dance pop, pop",Lady Gaga,Speechless
+0.775,0.904,1,-4.08,0,0.0437,0.0271,0.000303,0.06,0.84,130.009,"dance pop, electropop, neo mellow",Lily Allen,Fuck You
+0.654,0.899,2,-4.46,1,0.0365,0.000539,6.94e-06,0.169,0.901,132.018,"album rock, classic rock, hard rock, mellow gold, new romantic, new wave, new wave pop, permanent wave, power pop, rock, singer-songwriter, soft rock, synthpop",The Cars,Sad Song
+0.775,0.729,1,-4.229,0,0.162,0.0303,0.00247,0.0361,0.895,104.719,"dance pop, pop, urban contemporary",Jennifer Lopez,Play
+0.865,0.722,2,-4.894,1,0.18,0.209,6.02e-05,0.126,0.828,123.817,"dance pop, pop, pop rap",Timbaland,Release
+0.591,0.176,10,-11.692,0,0.0396,0.638,4.81e-06,0.252,0.296,152.122,"pop, singer-songwriter pop, uk pop",Ed Sheeran,I See Fire
+0.596,0.274,7,-10.59,1,0.046,0.993,0.000145,0.0978,0.608,75.591,"traditional country, western swing, yodeling",Jimmie Rodgers,Waiting for a Train
+0.59,0.875,9,-3.852,1,0.104,0.0104,0.0,0.183,0.663,127.997,"dance pop, latin pop, mexican pop",Enrique Iglesias,I Like How It Feels
+0.288,0.312,5,-11.31,1,0.0332,0.777,2.28e-06,0.0865,0.204,113.983,"bolero, latin pop",Luis Miguel,Ayer
+0.801,0.609,5,-11.569,0,0.0727,0.000785,0.11,0.0751,0.831,138.218,"dance-punk, experimental pop, no wave, post-punk",ESG,Dance
+0.558,0.768,2,-9.997,1,0.0343,0.121,0.0626,0.124,0.429,81.909,"album rock, classic rock, permanent wave, rock",The Police,Every Little Thing She Does Is Magic
+0.443,0.993,11,-4.517,0,0.101,0.000456,0.0437,0.307,0.276,106.875,"alternative metal, nu metal, rap metal, rock",Slipknot,Surfacing
+0.84,0.762,6,-5.454,1,0.226,0.00736,3.77e-06,0.0615,0.946,99.987,"dance pop, pop, urban contemporary",Jennifer Lopez,Jenny From The Block
+0.12,0.336,11,-8.298,0,0.0352,0.786,0.404,0.111,0.0679,72.64,"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock",Radiohead,Pyramid Song
+0.323,0.149,11,-13.906,1,0.0339,0.898,4.2e-06,0.099,0.0788,105.033,"dance pop, pop",Madonna,don't cry for me argentina
+0.544,0.897,3,-6.056,0,0.0471,0.241,0.0,0.13,0.647,157.17,"album rock, classic rock, mellow gold, new wave pop, singer-songwriter, soft rock, yacht rock",Kenny Loggins,Danger Zone
+0.324,0.416,11,-8.92,0,0.0368,0.262,3.69e-05,0.11,0.151,113.986,"art pop, pop",Lana Del Rey,Young and Beautiful
+0.572,0.835,0,-6.219,1,0.0317,0.171,0.000377,0.0702,0.795,129.981,"album rock, classic rock, hard rock, rock",Van Halen,Jump
+0.73,0.769,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,"british soul, pop, pop soul, uk pop",Adele,Rolling in the Deep
+0.701,0.966,8,-3.502,0,0.045,0.0723,0.0,0.329,0.961,136.026,"latin pop, puerto rican pop",Chayanne,Torero
+0.381,0.901,2,-6.998,1,0.0422,0.00178,0.00115,0.329,0.595,87.472,"horror punk, new jersey hardcore, new jersey punk, punk",Misfits,Attitude
+0.623,0.399,2,-10.883,0,0.029,0.123,0.000101,0.115,0.33,134.682,"alternative rock, indie rock, melancholia, singer-songwriter",Elliott Smith,Pictures of Me
+0.505,0.843,0,-3.952,1,0.0372,0.142,7.34e-05,0.148,0.809,114.076,new wave pop,Tracey Ullman,They Don't Know
+0.801,0.548,11,-5.482,0,0.0516,0.0854,0.000232,0.387,0.627,92.059,"rap rock, reggae fusion, ska mexicano, ska punk",Sublime,Badfish
+0.701,0.964,4,-2.037,0,0.127,0.114,9.34e-06,0.153,0.484,113.058,"k-pop, k-pop girl group",Girls' Generation,Mr.Mr.
+0.515,0.43,7,-9.935,1,0.0372,0.0097,0.000133,0.129,0.104,91.844,"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock",Radiohead,Creep
+0.782,0.906,2,-5.229,1,0.152,0.017,0.0503,0.293,0.697,120.064,"art pop, dance pop, pop",Lady Gaga,Beautiful Dirty Rich
+0.811,0.458,5,-9.688,0,0.0402,0.0193,1.41e-06,0.0526,0.797,92.94,"atl hip hop, contemporary r&b, dance pop, girl group, hip pop, r&b, urban contemporary",TLC,Creep
+0.449,0.775,7,-12.029,1,0.0405,0.162,0.149,0.248,0.313,94.907,"instrumental bluegrass, instrumental rock, progressive jazz fusion, shred",Eric Johnson,Cliffs Of Dover
+0.732,0.809,8,-4.904,0,0.329,0.318,0.0,0.207,0.671,94.358,"latin hip hop, puerto rican pop, reggaeton, trap latino, urbano latino",Ivy Queen,I Do
+0.563,0.626,6,-7.88,0,0.0296,0.431,0.916,0.127,0.469,125.008,"britpop, modern rock, welsh rock",Stereophonics,Take Me
+0.283,0.91,6,-5.301,1,0.0431,0.506,0.0,0.108,0.331,100.928,"britpop, glam rock",Suede,Animal Nitrate
+0.482,0.721,0,-6.839,1,0.0321,0.731,0.0,0.189,0.557,95.263,"classic rock, country rock, folk, folk rock, rock, roots rock, singer-songwriter",Bob Dylan,Like a Rolling Stone
+0.366,0.848,11,-10.575,0,0.157,0.000506,0.476,0.12,0.162,92.172,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Damage Inc
+0.877,0.854,1,-4.523,1,0.147,0.0544,5.5e-05,0.144,0.54,114.472,"r&b, soul",Michael Jackson,The Way You Make Me Feel
+0.656,0.704,9,-13.183,1,0.0292,0.131,0.206,0.0591,0.715,104.608,new wave pop,Deborah Harry,Brite Side
+0.593,0.517,4,-10.165,1,0.0281,0.76,0.0,0.291,0.786,105.454,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,Time Between
+0.39,0.914,2,-4.143,1,0.0759,0.0574,5.18e-05,0.108,0.344,104.259,"alternative metal, comedy rock, comic, comic metal, parody",Tenacious D,Wonderboy
+0.85,0.957,4,-3.991,1,0.113,0.393,0.00292,0.0764,0.609,123.589,"r&b, soul",Michael Jackson,Leave Me Alone
+0.784,0.916,7,-3.669,0,0.0477,0.025,0.0,0.162,0.718,125.959,"dance pop, europop, girl group, talent show",Sugababes,Wear My Kiss
+0.531,0.381,4,-14.915,1,0.036,0.751,0.000971,0.157,0.451,162.372,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,Duchess
+0.543,0.682,7,-7.091,1,0.0289,0.0496,8.42e-05,0.104,0.292,95.421,"lilith, new wave pop, permanent wave, pop rock, singer-songwriter",Sheryl Crow,If It Makes You Happy
+0.853,0.981,8,-3.947,1,0.0751,0.247,0.468,0.306,0.595,118.193,"r&b, soul",Michael Jackson,Smooth Criminal
+0.544,0.407,0,-13.726,0,0.0301,0.0195,0.702,0.553,0.163,111.994,"progressive metal, progressive rock",Porcupine Tree,Way Out of Here
+0.748,0.939,0,-4.288,0,0.0341,0.0534,0.0,0.32,0.96,104.001,"dance pop, pop",Britney Spears,Crazy
+0.339,0.65,1,-4.624,1,0.0888,0.0299,0.0,0.646,0.317,173.04,"barbadian pop, pop, urban contemporary",Rihanna,Rockstar 101
+0.736,0.798,0,-6.174,1,0.127,0.0579,0.0681,0.161,0.464,113.996,"afrofuturism, alternative r&b, r&b, urban contemporary",Solange,Losing You
+0.647,0.478,8,-8.837,1,0.0782,0.547,2.69e-05,0.156,0.333,135.877,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",Usher,Climax
+0.594,0.841,1,-5.792,1,0.102,0.000238,2.22e-06,0.156,0.643,129.925,"r&b, rap",Chris Brown,Turn Up the Music
+0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,"grunge, permanent wave, rock",Nirvana,In Bloom
+0.833,0.918,2,-4.401,0,0.0327,0.0646,2.49e-05,0.147,0.967,128.023,"cha-cha-cha, cuban rumba, mambo, musica tradicional cubana, salsa",Celia Cruz,Rie Y Llora
+0.571,0.557,7,-15.439,1,0.211,0.138,0.000203,0.381,0.747,107.953,"album rock, classic rock, country rock, folk, folk rock, mellow gold, rock, soft rock","Crosby, Stills & Nash",Marrakesh Express
+0.555,0.71,4,-6.989,1,0.0327,0.0831,0.000113,0.093,0.475,84.808,"acoustic blues, cosmic american, garage rock, native american traditional, surf music, traditional blues",Link Wray,Rumble
+0.448,0.838,4,-5.257,0,0.0557,0.21,0.000131,0.131,0.254,139.863,pop,,Gold
+0.834,0.669,6,-5.582,0,0.0637,0.0341,7.18e-05,0.0535,0.547,122.669,"barbadian pop, pop, urban contemporary",Rihanna,Don't Stop the Music
+0.678,0.942,7,-2.597,1,0.0546,0.000845,3.43e-06,0.0422,0.726,155.017,"barbadian pop, chutney, soca",Rupee,Jump
+0.416,0.84,0,-4.298,1,0.0787,0.0139,0.0,0.113,0.523,177.942,"dance pop, pop",Jason Derulo,Fight for You
+0.609,0.611,0,-9.208,1,0.0298,0.513,0.0,0.093,0.916,121.836,"album rock, art rock, beatlesque, classic rock, glam rock, mellow gold, rock, soft rock, symphonic rock",Electric Light Orchestra,Sweet Talkin' Woman
+0.468,0.569,6,-7.134,0,0.0399,0.00549,0.0042,0.245,0.289,173.982,"alternative metal, progressive metal",Karnivool,New Day
+0.402,0.892,9,-7.373,1,0.0302,0.0509,0.0,0.345,0.951,134.927,"album rock, beatlesque, classic rock, cosmic american, country rock, folk, folk rock, mellow gold, psychedelic rock, rock, soft rock",The Byrds,I'll Feel A Whole Lot Better
+0.642,0.899,9,-6.92,0,0.0381,0.00171,0.135,0.326,0.726,125.115,"german metal, industrial, industrial metal, industrial rock, neue deutsche harte",Rammstein,Du Hast
+0.493,0.59,0,-5.814,0,0.0392,0.339,0.0,0.121,0.502,169.908,british soul,Duffy,Warwick Avenue
+0.336,0.318,0,-11.412,1,0.0263,0.317,0.0716,0.111,0.24,79.66,"album rock, classic rock, hard rock, rock",Led Zeppelin,The Rain Song
+0.363,0.355,2,-13.968,0,0.036,0.0952,0.559,0.0949,0.437,178.911,"instrumental soul, jazz funk",David Axelrod,Holy Thursday
+0.539,0.768,11,-3.841,1,0.0303,0.0102,3.12e-05,0.108,0.354,87.055,"dance pop, pop, urban contemporary",Mariah Carey,Almost Home
+0.693,0.875,7,-8.354,0,0.0315,0.00986,0.0,0.0601,0.899,120.048,"alternative rock, britpop, madchester, permanent wave, rock",Blur,Girls & Boys
+0.628,0.409,2,-14.348,1,0.0306,0.498,0.00565,0.29,0.755,93.005,"r&b, soul",Michael Jackson,Human Nature
+0.418,0.441,11,-11.522,0,0.283,0.029,0.0707,0.306,0.172,175.928,"pop, r&b",Beyonce,Partition
+0.775,0.825,7,-5.402,1,0.0464,0.0506,1.03e-06,0.111,0.95,139.091,"hip pop, pop",Meghan Trainor,Lips Are Movin
+0.488,0.914,4,-7.178,1,0.0473,0.0838,0.0134,0.063,0.692,160.083,"hardcore punk, melodic hardcore, power-pop punk, punk, ska punk, skate punk",All,Shreen
+0.769,0.685,1,-5.019,1,0.041,0.0105,0.000124,0.0887,0.836,127.977,"barbadian pop, pop, urban contemporary",Rihanna,S&M
+0.318,0.878,4,-3.542,1,0.0584,0.0222,0.000596,0.156,0.351,124.435,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,Union City Blue
+0.707,0.437,4,-14.63,0,0.0447,0.2,0.838,0.0337,0.715,151.481,smooth jazz,,Treasure
+0.495,0.456,8,-9.09,1,0.0329,0.879,0.000334,0.145,0.202,81.043,neo soul,Van Hunt,Moving Targets
+0.317,0.381,3,-6.736,1,0.0357,0.956,5.2e-05,0.286,0.309,103.138,"chanson, torch song, vintage schlager",Edith Piaf,Hymne a l'amour
+0.618,0.748,0,-8.905,1,0.358,0.0384,4.1e-06,0.0473,0.663,134.114,"album rock, classic rock, permanent wave, rock",The Police,Roxanne
+0.747,0.706,4,-4.653,1,0.0413,0.0844,0.00355,0.174,0.567,94.019,"candy pop, dance pop, europop, girl group",Atomic Kitten,Whole Again
+0.604,0.457,2,-9.264,1,0.049,0.19,0.0,0.123,0.694,112.18,"british blues, british invasion, protopunk",Them,It's All Over Now Baby Blue
+0.519,0.85,9,-6.777,1,0.0677,0.0457,0.0,0.232,0.75,123.422,"british invasion, classic rock, merseybeat, psychedelic rock, rock",The Beatles,Ticket to Ride
+0.408,0.71,9,-10.707,1,0.0715,0.0961,3.54e-05,0.0885,0.0916,129.739,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Man That You Fear
+0.51,0.726,1,-7.0,1,0.0337,0.265,0.0,0.0911,0.489,146.553,"latin pop, mexican pop, puerto rican pop",Ricky Martin,Private Emotion
+0.298,0.97,1,-6.76,1,0.168,0.00102,0.0848,0.299,0.156,175.795,"alternative metal, djent, groove metal, metal, nu metal, progressive groove metal, swedish metal, technical groove metal, technical thrash",Meshuggah,Future Breed Machine
+0.24,0.988,9,-6.468,1,0.218,8.28e-05,0.0676,0.984,0.0601,150.949,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Seek and Destroy
+0.69,0.77,6,-5.692,1,0.0766,0.0124,0.0,0.152,0.727,122.075,"dance pop, europop, girl group, talent show",Sugababes,Get Sexy
+0.479,0.871,0,-3.367,1,0.0421,0.151,0.000787,0.364,0.79,114.179,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,The Hardest Part
+0.671,0.882,8,-6.149,0,0.0552,0.00181,0.667,0.285,0.787,136.955,eurodance,Alice Deejay,Better Off Alone
+0.577,0.939,4,-5.282,0,0.119,0.000217,0.00338,0.565,0.302,130.122,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Personal Jesus
+0.283,0.701,4,-7.595,0,0.135,0.66,1.67e-06,0.111,0.564,165.752,"dance pop, electropop, neo mellow",Lily Allen,Littlest Things
+0.604,0.755,0,-10.761,1,0.0337,0.000298,0.817,0.0625,0.387,137.064,"dream trance, eurodance, trance",Robert Miles,Children
+0.556,0.494,2,-7.023,1,0.0729,0.713,0.0,0.383,0.599,104.068,,Nizlopi,JCB
+0.227,0.995,10,-4.361,0,0.173,0.000405,0.393,0.127,0.0363,87.499,"alternative metal, death metal, groove metal, hard rock, metal, old school thrash, rock, speed metal, thrash metal",Slayer,Raining Blood
+0.315,0.895,2,-4.519,1,0.093,0.00209,1.34e-05,0.0596,0.433,79.628,"album rock, glam metal, hard rock, metal, progressive metal, us power metal",Queensryche,Empire
+0.548,0.954,9,-4.008,1,0.0806,5.49e-05,0.000137,0.245,0.488,130.086,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,mOBSCENE
+0.787,0.899,7,-7.896,1,0.0562,0.178,0.0,0.358,0.536,101.098,"dance pop, pop",Whitney Houston,My Name Is Not Susan
+0.583,0.778,5,-6.185,0,0.0303,4.78e-05,0.00148,0.0729,0.424,143.354,"lilith, new wave pop, permanent wave, pop rock, swedish pop",Cardigans,My Favourite Game
+0.544,0.86,0,-6.151,0,0.0489,0.206,0.00108,0.213,0.284,127.129,"dance rock, new romantic, new wave, new wave pop, permanent wave, synthpop",Pet Shop Boys,It's A Sin
+0.523,0.991,10,-4.718,0,0.0985,0.00292,1.4e-05,0.13,0.167,111.086,"horror punk, new jersey hardcore, new jersey punk, punk",Misfits,Dig Up Her Bones
+0.401,0.489,5,-9.919,1,0.0328,0.671,0.0,0.887,0.303,81.403,"dance pop, pop, urban contemporary",Mariah Carey & Trey Lorenz,I'll Be There
+0.792,0.856,11,-5.236,0,0.067,0.0159,2.88e-06,0.0981,0.714,127.988,"dance pop, pop, urban contemporary",Jennifer Lopez,Dance Again
+0.662,0.637,11,-8.689,1,0.0432,0.0273,0.0,0.0668,0.196,129.991,talent show,Melanie Amaro,Don't Fail Me Now
+0.523,0.828,1,-4.696,1,0.0762,0.0136,0.000255,0.165,0.476,96.952,"candy pop, dance pop, lilith, neo mellow, pop rock",Michelle Branch,Everywhere
+0.247,0.868,0,-4.902,1,0.0762,8.19e-05,0.663,0.594,0.261,97.527,"alternative metal, metal, progressive death metal, progressive metal, swedish metal, swedish progressive metal",Opeth,Bleak
+0.731,0.748,7,-5.759,1,0.0966,0.0201,0.0,0.0732,0.745,122.947,"dance pop, post-teen pop, talent show",Cheryl Cole,Fight for This Love
+0.584,0.889,1,-5.941,0,0.0343,0.0462,0.828,0.309,0.464,126.04,"dance pop, edm, pop, pop dance",Avicii,Levels
+0.587,0.663,8,-7.439,1,0.0598,0.0348,9.95e-05,0.0971,0.539,139.993,pop,Taylor Swift,Wildest Dreams
+0.621,0.923,2,-3.124,0,0.0321,0.00645,7.28e-05,0.108,0.716,127.973,"swedish electropop, swedish idol pop, swedish pop",Agnes,Release Me
+0.379,0.76,9,-10.961,1,0.0378,0.00298,0.0296,0.104,0.491,99.436,"album rock, classic rock, hard rock, rock",Aerosmith,Sweet Emotion
+0.627,0.906,2,-4.086,1,0.0901,0.000181,0.000239,0.101,0.214,124.99,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,The Mephistopheles Of Los Angeles
+0.686,0.789,8,-4.713,0,0.23,0.0125,0.0147,0.142,0.72,172.976,"dance pop, pop",Christina Aguilera,Candyman
+0.17,0.81,2,-9.339,1,0.0521,0.27,0.0445,0.104,0.547,193.791,"horror punk, new jersey hardcore, new jersey punk, punk",Misfits,Hybrid Moments
+0.638,0.947,9,-2.811,1,0.054,0.0103,0.0727,0.386,0.7,124.162,"alternative metal, alternative rock, grunge, hard rock, nu metal, permanent wave, post-grunge, rock, supergroup",Audioslave,Original Fire
+0.668,0.824,5,-4.164,0,0.137,0.0017,3.05e-06,0.0426,0.185,163.961,"detroit hip hop, hip hop, rap",Eminem,Sing for the Moment
+0.693,0.674,7,-8.107,1,0.312,0.00157,2.69e-05,0.0946,0.249,136.265,"alternative rock, art pop, experimental, experimental pop, experimental rock, indietronica, neo-psychedelic, no wave, noise pop",Stereolab,Motoroller Scalatron
+0.72,0.586,11,-6.001,1,0.035,0.215,2.23e-05,0.0919,0.908,176.137,neo mellow,Jack Johnson,Good people
+0.787,0.86,1,-4.974,1,0.0344,0.364,0.041,0.0612,0.862,109.154,"dance pop, r&b, urban contemporary",Janet Jackson,Runaway
+0.895,0.876,1,-5.073,0,0.0394,0.436,0.0,0.0557,0.927,109.724,"funk, neo soul, soul",Raphael Saadiq,100 Yard Dash
+0.641,0.497,7,-12.228,0,0.029,0.254,2.15e-06,0.158,0.743,102.274,"album rock, classic rock, mellow gold, new wave pop, singer-songwriter, soft rock, yacht rock",Kenny Loggins,This Is It
+0.752,0.97,2,-4.588,1,0.0537,0.362,1.31e-05,0.116,0.794,97.001,"latin hip hop, rap latina, reggaeton, trap latino, urbano latino",Ivy Queen,Rebulera
+0.541,0.854,5,-7.066,0,0.0426,0.00109,0.000199,0.781,0.381,90.066,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Tourniquet
+0.77,0.668,1,-6.942,0,0.0399,0.151,0.0,0.0838,0.94,99.16,"new wave pop, soft rock",Gloria Estefan,Mi Tierra
+0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,"dance pop, pop",Bruno Mars,Grenade
+0.714,0.852,9,-2.76,0,0.274,0.0154,0.0,0.135,0.565,133.989,"k-pop, k-pop girl group",Girls' Generation,Catch Me If You Can
+0.802,0.468,1,-8.629,1,0.0378,0.248,0.000601,0.32,0.586,129.937,"r&b, soul",Michael Jackson,Stranger in Moscow
+0.674,0.882,3,-2.771,0,0.0477,0.000441,6.62e-05,0.068,0.682,123.017,"alternative dance, electropop, indietronica, neo-synthpop",La Roux,Bulletproof
+0.746,0.92,8,-3.679,1,0.101,0.175,0.0,0.198,0.707,133.921,,Plan B,ill Manors
+0.19,0.265,9,-9.206,1,0.0356,0.863,0.0,0.134,0.101,79.012,alternative metal,Evanescence,My Immortal
+0.706,0.524,4,-12.357,1,0.0681,0.00562,2.13e-05,0.0297,0.894,121.979,"dance pop, pop",Cher,Take Me Home
+0.754,0.437,10,-15.303,1,0.0292,0.501,1.75e-06,0.0651,0.929,101.379,sophisti-pop,Breathe,Say Hello
+0.398,0.782,7,-7.944,1,0.0322,0.0224,0.0684,0.0912,0.806,144.965,"alternative rock, art punk, experimental rock, no wave, noise pop, post-punk, protopunk, punk, singer-songwriter",Television,See No Evil
+0.959,0.376,1,-4.413,1,0.0656,0.00124,0.0,0.0903,0.359,109.046,"art pop, dance pop, pop",Lady Gaga,Christmas Tree
+0.717,0.635,2,-5.194,0,0.0298,0.0357,7.79e-06,0.0886,0.699,92.987,"cantautor, latin arena pop, latin pop",Ricardo Arjona,Te Quiero
+0.717,0.544,7,-6.598,1,0.0371,0.445,5.16e-06,0.0973,0.641,139.959,"dance pop, pop",Bruno Mars,Gorilla
+0.481,0.247,0,-8.4,1,0.0322,0.852,0.0,0.101,0.196,95.762,talent show,,Take My Breath Away
+0.192,0.963,4,-9.316,0,0.0915,2.94e-05,0.703,0.358,0.401,161.436,"classic texas country, psychobilly",The Reverend Horton Heat,Psychobilly Freakout
+0.753,0.931,2,-4.922,1,0.0653,0.00994,0.00696,0.234,0.767,113.026,"dance pop, pop",Madonna,4 Minutes
+0.682,0.894,0,-1.73,0,0.0727,0.0381,0.0,0.416,0.845,95.992,"dance pop, pop",Britney Spears,Overprotected
+0.454,0.26,8,-13.193,0,0.0401,0.539,0.00078,0.0675,0.598,174.322,"bebop, jazz, jazz quartet",Dave Brubeck Quartet,Take Five
+0.384,0.99,7,-3.826,1,0.0601,0.00474,0.036,0.363,0.663,193.93,"alternative dance, big beat, breakbeat, electronica, rave, trip hop",The Chemical Brothers,The Boxer
+0.78,0.366,4,-15.95,0,0.0562,0.669,0.497,0.0727,0.0613,116.025,"downtempo, dream pop, indietronica",The xx,Swept Away
+0.234,0.422,7,-10.561,1,0.0336,0.762,0.941,0.0848,0.0333,50.024,"british soundtrack, orchestral soundtrack, soundtrack",,Pyramids
+0.522,0.782,2,-4.846,1,0.0412,0.216,1.08e-05,0.133,0.169,125.994,"piano rock, pop",OneRepublic,If I Lose Myself
+0.663,0.579,10,-6.982,1,0.0269,0.645,0.0,0.189,0.48,89.929,"bolero, latin pop",Luis Miguel,Sabor A Mi
+0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,"pop rap, seattle hip hop",Macklemore,Can't Hold Us
+0.621,0.834,10,-10.068,0,0.0557,0.000779,0.456,0.0611,0.937,143.973,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,The Beautiful People
+0.539,0.24,3,-16.632,0,0.0426,0.687,5.12e-05,0.133,0.567,80.816,soul,James Brown,It's a Man's Man's Man's World
+0.599,0.818,10,-3.652,0,0.0394,0.0095,0.00571,0.297,0.366,128.159,"alternative dance, electropop, indietronica, neo-synthpop, shimmer pop, swedish electropop, swedish indie pop, swedish synthpop",Miike Snow,Paddling Out
+0.904,0.944,4,-2.626,1,0.138,0.0339,0.00592,0.075,0.931,131.599,"alternative dance, dance-punk, electroclash, escape room, neo-synthpop, new rave",Peaches,Fuck the Pain Away
+0.369,0.961,11,-4.593,0,0.0477,5.64e-06,0.701,0.133,0.163,174.018,"australian dance, dancefloor dnb, drum and bass",Pendulum,Showdown
+0.522,0.835,0,-5.536,1,0.0348,0.013,0.0,0.218,0.215,139.994,"dance pop, metropopolis, pop, swedish electropop, swedish pop, swedish synthpop",Tove Lo,Timebomb
+0.192,0.983,7,-2.85,1,0.097,0.00601,0.0,0.397,0.339,136.36,"crossover thrash, hardcore punk, horror punk, punk",T.S.O.L.,Code Blue
+0.692,0.736,1,-5.109,1,0.11,0.0324,0.0,0.0787,0.217,73.987,"r&b, rap",Chris Brown,Deuces
+0.634,0.716,2,-6.502,1,0.128,0.0341,0.0,0.0877,0.619,91.039,"r&b, rap",Chris Brown,She Ain't You
+0.603,0.756,10,-6.48,0,0.0344,0.0085,0.0479,0.0824,0.184,99.107,"dance rock, new romantic, new wave, permanent wave, rock, synthpop",Depeche Mode,It's No Good
+0.549,0.955,8,-3.145,1,0.27,0.148,3.21e-05,0.441,0.669,169.886,"candy pop, dark pop, electropop",Natalia Kills,Problem
+0.69,0.904,8,-3.83,1,0.0365,0.00208,0.0,0.0793,0.525,134.962,"k-pop, k-pop boy group",Beast,Shock
+0.469,0.985,1,-3.78,0,0.0969,0.000136,0.00026,0.212,0.0368,130.058,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,The Fight Song
+0.608,0.86,5,-5.324,0,0.0554,0.0991,0.0,0.262,0.437,127.075,"dance pop, miami hip hop, pop, pop rap",Flo Rida,Wild Ones
+0.487,0.212,11,-11.863,1,0.0392,0.804,0.0,0.0805,0.261,118.694,"cantautor, latin alternative, nueva cancion, trova",Silvio Rodríguez,Fusil contra fusil
+0.521,0.781,2,-4.942,1,0.0349,0.00424,0.0104,0.106,0.641,126.254,"britpop, welsh indie, welsh rock",Super Furry Animals,Golden Retriever
+0.675,0.781,4,-5.404,0,0.0306,0.0801,0.0143,0.422,0.534,122.989,"australian dance, australian electropop, dance rock, indietronica, neo-synthpop",Empire of the Sun,We Are the People
+0.583,0.584,5,-5.362,0,0.0314,0.254,0.0,0.123,0.136,140.039,"dance pop, pop, talent show",Kelly Clarkson,Because Of You
+0.464,0.954,4,-4.536,1,0.083,0.000528,3.18e-05,0.313,0.758,155.899,"boy band, pop",Jonas Brothers,Tonight
+0.774,0.721,6,-6.662,0,0.0773,0.0126,6.49e-06,0.0952,0.654,118.048,"alternative dance, electropop, indietronica, neo-synthpop, shimmer pop, swedish electropop, swedish indie pop, swedish synthpop",Miike Snow,Animal
+0.774,0.85,0,-4.436,1,0.0326,0.0837,0.0,0.193,0.53,127.031,australian pop,Guy Sebastian,Who's That Girl
+0.328,0.553,6,-6.252,1,0.0267,0.156,0.412,0.0985,0.322,159.959,"alternative metal, metal, progressive death metal, progressive metal, swedish metal, swedish progressive metal",Opeth,Windowpane
+0.569,0.843,9,-5.875,1,0.0503,0.000189,0.0,0.0607,0.76,116.045,"alternative metal, canadian pop punk, canadian punk, modern rock, pop punk, post-grunge, punk, rock",Sum 41,In Too Deep
+0.6,0.86,5,-9.598,0,0.0277,0.00719,0.727,0.204,0.881,122.155,new wave pop,Debbie Harry,In Love With Love
+0.543,0.927,1,-3.601,1,0.119,0.168,0.0,0.0877,0.482,135.435,"conscious hip hop, east coast hip hop, queens hip hop",Pharoahe Monch,Damage
+0.509,0.91,11,-6.531,0,0.038,8.78e-06,0.102,0.404,0.358,101.174,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,Rock Is Dead
+0.678,0.603,2,-13.38,0,0.0301,0.101,9.36e-05,0.228,0.913,121.358,new wave pop,Deborah Harry,Sweet And Low
+0.578,0.605,0,-6.562,1,0.0353,0.0224,0.0,0.166,0.468,103.059,post-teen pop,Jennette McCurdy,Generation Love
+0.631,0.913,0,-6.076,0,0.133,0.491,0.0,0.379,0.684,102.011,europop,Geri Halliwell,Mi Chico Latino
+0.723,0.596,9,-13.436,1,0.0308,0.0187,0.00513,0.16,0.962,128.068,"album rock, classic rock, rock, soft rock, yacht rock",Fleetwood Mac,Say You Love Me
+0.551,0.822,9,-5.857,0,0.0559,0.576,0.000176,0.135,0.412,100.005,"dance pop, pop",Britney Spears,Touch of My Hand
+0.653,0.848,5,-5.936,1,0.0583,0.00516,4.24e-06,0.0798,0.724,122.017,pop,Taylor Swift,New Romantics
+0.379,0.276,0,-9.951,1,0.0318,0.577,0.0,0.0842,0.231,123.792,christian music,Amy Grant,El Shaddai
+0.332,0.623,9,-12.363,1,0.08,0.222,0.000895,0.278,0.413,183.097,"album rock, alternative metal, birmingham metal, classic rock, hard rock, metal, rock, stoner rock, uk doom metal",Black Sabbath,War Pigs
+0.725,0.801,5,-10.059,1,0.0302,0.0722,0.0339,0.339,0.925,148.211,"album rock, classic rock, mellow gold, rock",Dire Straits,Sultans of Swing
+0.424,0.588,9,-5.455,1,0.0278,0.0553,4.95e-06,0.298,0.193,144.636,"permanent wave, pop",Coldplay,In My Place
+0.703,0.997,9,-7.666,0,0.0399,0.0726,0.0235,0.123,0.391,132.872,"eurodance, europop, german techno, hip house",Culture Beat,Mr Vain
+0.549,0.651,0,-7.097,1,0.0323,0.583,0.0,0.121,0.368,122.818,"album rock, art rock, beatlesque, classic rock, glam rock, mellow gold, rock, soft rock, symphonic rock",Electric Light Orchestra,Livin' Thing
+0.766,0.697,10,-9.913,1,0.038,0.0426,0.000184,0.058,0.783,129.564,"adult standards, british invasion, folk rock, soul, vocal jazz",Dusty Springfield,In Private
+0.402,0.691,7,-10.274,1,0.0691,0.0679,0.133,0.0955,0.206,96.95,"album rock, classic rock, hard rock, rock",Led Zeppelin,Over the Hills and Far Away
+0.715,0.949,10,-5.88,0,0.0792,0.0841,3.58e-05,0.165,0.845,99.198,"latin pop, mexican pop, puerto rican pop",Ricky Martin,La Bomba
+0.814,0.899,1,-5.958,1,0.0637,0.00727,0.219,0.0979,0.545,119.011,"dance pop, girl group, pop, r&b, urban contemporary",Destiny's Child,Lose My Breath
+0.53,0.937,5,-3.397,0,0.0466,0.0303,0.000128,0.151,0.546,149.991,"classic hardstyle, euphoric hardstyle, melbourne bounce international",Headhunterz,Colors
+0.437,0.864,4,-7.842,0,0.0904,0.396,0.0314,0.242,0.749,81.394,"album rock, classic rock, hard rock, rock",Led Zeppelin,Black Dog
+0.464,0.775,7,-4.838,1,0.0313,0.203,0.0,0.0478,0.672,184.089,latin pop,RBD,Solo Quédate en Silencio
+0.431,0.723,8,-5.887,1,0.0568,0.145,0.0,0.374,0.19,130.141,"europop, new wave pop, soft rock",Bonnie Tyler,Total Eclipse of the Heart
+0.56,0.969,0,-3.629,1,0.054,0.00246,2.78e-06,0.214,0.585,123.954,"alternative rock, funk metal, funk rock, permanent wave, rock",Red Hot Chili Peppers,Knock Me Down
+0.832,0.485,0,-11.773,1,0.0484,0.0608,0.00588,0.224,0.962,122.349,"british invasion, folk, singer-songwriter",Marianne Faithfull,Broken English
+0.556,0.212,6,-11.197,1,0.0406,0.941,0.0,0.0982,0.514,133.392,opm,Nina,Someday
+0.548,0.636,4,-12.321,1,0.0625,0.69,0.705,0.215,0.648,139.694,new wave pop,Debbie Harry,Chrome
+0.741,0.799,3,-4.56,1,0.062,0.239,0.000795,0.421,0.348,131.383,"r&b, soul",Michael Jackson,Dirty Diana
+0.574,0.512,5,-6.664,0,0.0503,0.234,0.0,0.0946,0.512,76.899,"dance pop, pop",Justin Timberlake,Mirrors
+0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,"dance pop, edm, pop, pop dance",Avicii,Wake Me Up
+0.594,0.771,1,-6.2,1,0.0445,0.124,3.32e-05,0.0854,0.423,127.942,"atl hip hop, contemporary r&b, dance pop, pop, r&b, rap, south carolina hip hop, urban contemporary",Usher,Euphoria
+0.789,0.706,11,-4.233,0,0.0429,0.112,1.71e-05,0.0586,0.638,125.918,"barbadian pop, pop, urban contemporary",Rihanna,Only Girl
+0.535,0.58,6,-7.009,1,0.0543,0.00229,0.0177,0.12,0.377,173.946,"dance pop, pop",Madonna,Masterpiece
+0.734,0.822,7,-2.446,1,0.047,0.0186,0.000146,0.283,0.898,92.935,pop soul,Mark Ronson,Bang Bang Bang
+0.71,0.674,1,-5.393,1,0.0352,0.0136,1.73e-05,0.0366,0.7,124.033,"funk, neo soul, soul",Raphael Saadiq,Love That Girl
+0.4,0.82,0,-5.235,0,0.103,0.502,0.0,0.712,0.398,83.415,"latin pop, mexican pop, puerto rican pop",Ricky Martin,Tu Recuerdo
+0.562,0.991,7,-2.654,1,0.0745,0.0373,1.14e-05,0.425,0.266,118.004,"album rock, glam metal, hard rock, metal, progressive metal, us power metal",Queensryche,I Don't Believe In Love
+0.64,0.796,3,-4.016,0,0.0302,0.0694,0.0,0.42,0.77,96.982,"dance pop, pop, talent show",Kelly Clarkson,Einstein
+0.707,0.695,7,-7.165,1,0.0301,0.022,0.0,0.0927,0.839,115.099,"album rock, classic rock, mellow gold, singer-songwriter, soft rock, yacht rock",Don Henley,All She Wants to Do Is Dance
+0.535,0.711,3,-4.898,0,0.0541,0.0336,3.35e-05,0.0722,0.294,140.928,"girl group, pop, talent show, uk pop",Little Mix,DNA
+0.389,0.626,9,-7.813,0,0.0541,0.366,0.0,0.0663,0.514,144.337,"baroque pop, classic rock, folk rock, mellow gold, psychedelic rock, rock, singer-songwriter, sunshine pop",The Beach Boys,I Get Around
+0.33,0.58,1,-7.875,0,0.0374,0.0614,0.00129,0.115,0.11,76.093,"permanent wave, pop",Coldplay,Violet Hill
+0.825,0.347,11,-13.148,1,0.0504,0.554,0.813,0.0893,0.511,122.742,"downtempo, dream pop, indietronica",The xx,Heart Skipped a Beat
+0.468,0.779,7,-7.792,0,0.0355,0.00145,0.0,0.0512,0.698,80.518,"canadian pop punk, canadian punk, canadian rock, modern rock, neon pop punk, pop punk, pop rock",Simple Plan,When I'm Gone
+0.692,0.744,2,-4.565,1,0.257,0.00868,0.000423,0.359,0.0612,171.374,"detroit hip hop, hip hop, rap",Eminem,Lose Yourself
+0.479,0.974,2,-4.837,1,0.116,4.15e-05,1.52e-05,0.861,0.222,140.359,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,The Love Song
+0.771,0.796,5,-3.081,0,0.076,0.0993,0.00278,0.0981,0.801,99.316,"dance pop, r&b, urban contemporary",Janet,Doesn't Really Matter
+0.261,0.703,6,-7.871,1,0.0414,0.115,0.00078,0.102,0.405,83.495,"album rock, classic rock, hard rock, mellow gold, new romantic, new wave, new wave pop, permanent wave, power pop, rock, singer-songwriter, soft rock, synthpop",The Cars,Drive
+0.743,0.618,8,-7.227,1,0.0732,0.076,0.0,0.0731,0.285,129.034,"dance pop, hip pop, pop, r&b, urban contemporary",Ciara,I Bet
+0.448,0.143,11,-17.012,1,0.0328,0.929,0.0356,0.109,0.0873,132.829,"chamber pop, eau claire indie, indie folk, melancholia, modern rock",Bon Iver,Flume
+0.662,0.624,10,-7.552,1,0.0408,0.468,1.42e-05,0.109,0.524,83.979,"dance pop, electropop, neo mellow",Lily Allen,Who'd Have Known
+0.586,0.881,8,-3.208,1,0.232,0.2,0.0,0.0676,0.647,96.651,"dirty south rap, hip hop, queens hip hop",Tony Yayo,So Seductive
+0.649,0.357,4,-11.968,1,0.0312,0.803,6.27e-05,0.106,0.929,146.165,"country, honky tonk, traditional country, yodeling",Hank Williams,My Bucket's Got a Hole in It
+0.745,0.972,6,-5.598,1,0.0316,0.346,0.0,0.148,0.968,123.067,"pop rock, post-grunge",Smash Mouth,Walkin' on the Sun
+0.269,0.853,7,-4.647,0,0.0854,0.000249,0.000246,0.118,0.179,141.581,"alternative metal, nu metal, rap metal, rock, sacramento indie",Deftones,Change
+0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,"album rock, classic rock, permanent wave, rock",The Police,Every Breath You Take
+0.551,0.836,10,-3.838,0,0.0524,0.00502,2.1e-05,0.0425,0.758,185.063,"acoustic pop, lilith, neo mellow, pop rock, post-teen pop",Sara Bareilles,Brave
+0.625,0.826,4,-5.037,1,0.0325,0.121,0.0,0.158,0.699,99.919,"black americana, contemporary country, country, country road",Darius Rucker,This
+0.753,0.427,0,-11.112,1,0.0387,0.00787,0.00065,0.058,0.295,119.18,"australian rock, new romantic",Midnight Oil,Beds Are Burning
+0.644,0.808,5,-7.268,1,0.0513,0.0467,0.187,0.0652,0.175,174.98,"chamber pop, indie rock, indietronica, seattle indie",The Postal Service,Such Great Heights
+0.418,0.132,7,-18.839,1,0.0351,0.94,0.146,0.113,0.12,168.772,"dream pop, melancholia, shoegaze, slowcore",Mazzy Star,Into Dust
+0.711,0.817,5,-3.792,0,0.158,0.144,0.0,0.0713,0.892,160.028,,,Billionaire
+0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,"new romantic, new wave, new wave pop, permanent wave, rock, sophisti-pop, synthpop",Tears For Fears,Everybody Wants To Rule The World
+0.577,0.474,5,-14.117,1,0.0378,0.424,0.0125,0.125,0.827,121.386,"rock-and-roll, rockabilly",Elvis Presley,Wearin' That Loved on Look
+0.352,0.3,8,-9.282,1,0.0301,0.413,0.0,0.1,0.295,58.686,"american folk revival, folk, folk rock, mellow gold, singer-songwriter",Judy Collins,Both Sides Now
+0.724,0.695,11,-5.226,1,0.0622,0.073,0.0,0.0889,0.235,139.0,"dance pop, pop",Britney Spears,Womanizer
+0.653,0.888,11,-5.614,1,0.0426,0.000207,0.0249,0.16,0.513,128.004,"alternative metal, hard rock, industrial, industrial metal, industrial rock, nu metal, post-grunge, rock",Marilyn Manson,No Reflection
+0.53,0.901,7,-5.134,1,0.102,0.00207,0.00631,0.097,0.706,87.996,"britpop, welsh indie, welsh rock",Super Furry Animals,Into The Night
+0.749,0.988,0,-5.266,0,0.0387,0.202,0.00631,0.17,0.749,135.015,"eurodance, europop, new wave pop",Ace Of Base,Beautiful Life
+0.539,0.0485,1,-18.923,0,0.0407,0.965,7.59e-05,0.191,0.234,171.933,,Shara Nelson,Inside Out
+0.802,0.781,0,-6.564,1,0.0368,0.0075,0.825,0.147,0.622,125.026,"edm, pop dance, progressive electro house",Swedish House Mafia,One
+0.525,0.929,9,-8.56,0,0.0784,0.262,2.9e-05,0.0754,0.556,163.503,"album rock, classic rock, hard rock, rock",Led Zeppelin,D'Yer Mak'er
+0.554,0.963,6,-3.762,0,0.035,0.000244,0.0702,0.431,0.918,128.175,"hi-nrg, new romantic, new wave pop, synthpop",Dead or Alive,You Spin Me Round
+0.644,0.919,2,-6.289,1,0.0561,0.181,0.134,0.622,0.871,117.459,"alternative rock, art punk, dance rock, funk rock, new wave, permanent wave, post-punk, rock, zolo",Talking Heads,Once in a Lifetime
+0.73,0.489,10,-14.013,0,0.199,0.0912,0.0807,0.109,0.62,81.088,"boston hip hop, east coast hip hop, jazz rap",Shara Nelson,Nobody
+0.602,0.774,2,-5.071,0,0.048,0.00674,0.000452,0.308,0.446,126.018,talent show,Nicola Roberts,Lucky Day
+0.705,0.882,11,-3.201,0,0.0445,0.000369,1.16e-06,0.0934,0.7,130.0,"r&b, rap",Chris Brown,Yeah 3x
+0.401,0.981,0,-4.926,1,0.0876,0.00842,3.23e-05,0.106,0.484,173.182,"alternative metal, modern rock, pop punk, punk, rock, socal pop punk",Blink 182,Stockholm Syndrome
+0.599,0.762,0,-6.887,1,0.0423,0.714,4.43e-06,0.35,0.715,76.961,"classic rock, glam rock, rock",Queen,Crazy Little Thing Called Love
+0.552,0.549,2,-11.396,1,0.0447,0.853,0.00454,0.183,0.42,122.528,"blues rock, british blues, glam rock",Status Quo,Whatever You Want
+0.56,0.568,6,-9.111,1,0.029,0.246,0.00022,0.139,0.374,166.568,"latin pop, mexican pop, puerto rican pop",Ricky Martin,Perdido Sin Ti
+0.592,0.825,11,-9.129,0,0.0478,0.0576,0.887,0.178,0.338,120.014,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,The Brazilian
+0.253,0.186,7,-16.807,1,0.0382,0.48,0.00108,0.161,0.106,114.538,"canzone napoletana, classical tenor, italian tenor, opera",Giuseppe Di Stefano,Firenze Sogna
+0.889,0.818,9,-4.639,1,0.253,0.47,0.0,0.179,0.782,96.063,"east coast hip hop, gangster rap, hardcore hip hop, hip hop, rap",Notorious B.I.G.,Juicy
+0.583,0.947,5,-5.12,1,0.0378,0.0185,0.00109,0.0679,0.803,135.448,"album rock, classic rock, rock, soft rock, yacht rock",Fleetwood Mac,Go Your Own Way
+0.195,0.483,4,-4.991,0,0.03,0.465,0.497,0.0686,0.173,84.71,"album rock, art rock, british invasion, classic rock, country rock, flute rock, folk rock, mellow gold, progressive rock, rock, singer-songwriter, soft rock, symphonic rock",The Moody Blues,Nights In White Satin
+0.78,0.608,8,-5.674,1,0.0348,0.592,0.0,0.158,0.91,134.045,"bachata, reggaeton",Toby Love,Tengo Un Amor
+0.664,0.589,0,-14.415,1,0.0406,0.259,0.00587,0.221,0.54,102.74,"new romantic, new wave pop, synthpop",Wang Chung,Dance Hall Days
+0.432,0.852,0,-4.865,1,0.0473,0.0711,0.000391,0.155,0.596,118.256,"alternative rock, athens indie, permanent wave, rock",R.E.M.,Fall on Me
+0.356,0.827,0,-4.759,1,0.0451,0.000471,6.63e-05,0.313,0.491,175.262,"finnish metal, folk metal, nordic folk metal, power metal, symphonic metal, viking metal",Korpiklaani,Wooden Pints
+0.247,0.827,8,-6.065,1,0.044,0.0177,4.5e-05,0.0644,0.608,146.951,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,The Lady Lies
+0.571,0.494,9,-13.169,0,0.0285,0.252,0.00078,0.318,0.601,174.186,"freestyle, new wave pop",Exposé,Seasons Change
+0.293,0.92,2,-3.377,1,0.0562,0.0048,0.000199,0.122,0.673,161.846,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,Dreaming
+0.753,0.729,11,-3.862,0,0.0392,0.00334,5.66e-05,0.073,0.812,120.013,"dance pop, pop",Ke$ha,Blow
+0.682,0.799,1,-6.58,1,0.293,0.0791,0.0,0.0929,0.479,120.173,"gangster rap, harlem hip hop, trap",Jim Jones,We Fly High
+0.662,0.949,6,-4.758,1,0.108,0.128,0.0,0.135,0.516,91.954,dance pop,Jamiroquai,Virtual Insanity
+0.322,0.214,2,-15.949,0,0.0345,0.609,0.0,0.161,0.218,172.395,"cancion melodica, latin pop, mariachi, musica mexicana, ranchera",Juan Gabriel,Hasta Que Te Conocí
+0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,"dance pop, pop",Britney Spears,Stronger
+0.729,0.675,5,-5.292,0,0.0286,4.14e-05,0.00126,0.0867,0.74,125.036,"dance pop, pop",Kesha,Take It Off
+0.653,0.774,8,-8.315,0,0.0337,0.0187,0.0702,0.158,0.435,122.017,"afrofuturism, alternative r&b",Dawn Richard,Gleaux
+0.673,0.773,8,-7.099,1,0.0577,0.00118,0.000611,0.148,0.266,124.999,"barbadian pop, pop, urban contemporary",Rihanna,Cockiness
+0.512,0.274,5,-18.993,0,0.0452,0.795,0.00242,0.554,0.737,103.147,"bebop, contemporary post-bop, hard bop, jazz, jazz quartet",Thelonious Monk Quartet,In Walked Bud
+0.63,0.576,7,-9.046,0,0.0304,0.217,0.686,0.129,0.471,138.009,"downtempo, electronica, trip hop",Zero 7,Destiny
+0.606,0.278,9,-17.746,1,0.0378,0.501,0.0,0.121,0.694,127.163,"art rock, classic rock, glam rock, permanent wave, rock",David Bowie,Kooks
+0.811,0.499,8,-11.847,0,0.08,3.51e-05,0.788,0.0896,0.4,122.813,"dance-punk, experimental pop, no wave, post-punk",ESG,Moody
+0.891,0.893,2,-5.808,1,0.111,0.0195,0.00186,0.262,0.774,122.03,"dance pop, hip pop, pop, r&b, urban contemporary",Ciara,Work
+0.731,0.718,10,-4.089,1,0.0286,0.0305,0.0,0.286,0.236,127.956,"dance pop, hip pop, neo soul, urban contemporary",Kelis,Scream
+0.63,0.662,10,-9.652,0,0.0491,0.00189,0.909,0.111,0.324,132.165,"electro, electroclash, nu electro, outsider house",I-F,Space Invaders Are Smoking Grass
+0.817,0.733,2,-6.009,1,0.145,0.0152,4.31e-05,0.107,0.833,127.056,"dance pop, miami hip hop, pop",Pitbull,I Know You Want Me
+0.511,0.827,1,-4.55,0,0.0323,3.77e-05,0.00103,0.208,0.486,121.459,"alternative rock, dance rock, electronic rock, permanent wave",Garbage,Only Happy When it Rains
+0.725,0.47,2,-8.602,1,0.137,0.00397,1.41e-05,0.52,0.531,129.868,"escape room, hip house, lgbtq+ hip hop, trap queen",Azealia Banks,Wallace
+0.31,0.977,6,-5.478,0,0.164,0.000219,0.273,0.0785,0.179,100.626,"hard rock, metal, old school thrash, rock, thrash metal",Metallica,Creeping Death
+0.76,0.602,7,-4.871,1,0.0316,0.00661,0.000133,0.325,0.685,116.989,pop,Taylor Swift,Welcome to New York
+0.558,0.781,1,-5.448,0,0.0963,0.00657,0.00144,0.102,0.286,126.025,"dance pop, pop",Ke$ha,C'Mon
+0.725,0.652,1,-10.017,1,0.05,0.0203,6.77e-05,0.108,0.355,117.945,"dance pop, pop",Madonna,Rescue Me
+0.675,0.871,0,-8.46,1,0.0375,0.607,0.000256,0.17,0.749,127.42,"britpop, new romantic, new wave, ska, ska revival",Madness,Michael Caine
+0.397,0.797,2,-5.43,0,0.0766,0.0433,0.0,0.115,0.285,171.932,"candy pop, new wave pop, permanent wave, power pop, rock, synthpop",Blondie,No Exit
+0.556,0.855,0,-6.901,1,0.0403,0.174,0.00381,0.261,0.721,117.248,"album rock, classic rock, hard rock, rock",Led Zeppelin,Dancing Days
+0.366,0.845,7,-5.826,1,0.118,0.00339,0.0,0.197,0.545,164.024,pop,Panic at the Disco,New Perspective
+0.274,0.756,0,-7.3,1,0.0393,0.00281,0.0128,0.332,0.357,128.57,"album rock, art rock, classic rock, hard rock, mellow gold, new romantic, progressive rock, rock, soft rock, symphonic rock",Genesis,Deep In The Motherlode
+0.651,0.402,11,-9.303,1,0.028,0.639,7.73e-05,0.0765,0.258,119.873,"r&b, soul",Michael Jackson,You Are Not Alone
+0.452,0.315,4,-6.857,1,0.031,0.543,6.55e-06,0.353,0.364,130.549,"britpop, welsh indie, welsh rock",Super Furry Animals,Fire In My Heart
+0.401,0.56,9,-8.7,1,0.0612,0.08,0.0121,0.361,0.735,88.256,"album rock, classic rock, hard rock, rock",Led Zeppelin,The Ocean
+0.671,0.771,7,-4.821,0,0.0316,0.00492,7.28e-06,0.354,0.436,90.003,pop,Katy Perry,Roar
+0.465,0.844,1,-4.352,0,0.0379,0.00109,0.399,0.0865,0.155,170.358,"downtempo, electronica, trip hop",Hooverphonic,Mad About You
+0.756,0.768,0,-10.701,1,0.112,0.735,0.0,0.182,0.783,118.208,"blues, blues rock, classic rock, rock, rock-and-roll, rockabilly, soul",Chuck Berry,Maybellene
+0.695,0.711,4,-5.706,0,0.0642,0.0254,0.000125,0.304,0.615,147.982,"dance pop, electropop, neo mellow",Lily Allen,Shame For You
+0.559,0.614,4,-11.547,0,0.0768,0.415,0.0,0.139,0.662,124.907,"opm, pinoy reggae",Eraserheads,Ligaya
+0.42,0.974,5,-3.737,1,0.1,0.00018,0.0,0.355,0.459,156.046,"alternative metal, christian alternative rock, nu metal, post-grunge",Flyleaf,Again
+0.634,0.689,8,-7.904,1,0.285,0.0793,0.0,0.296,0.653,184.87,"neo soul, pop, r&b",Alicia Keys,Put It In A Love Song
+0.472,0.479,2,-8.44,1,0.0318,0.396,0.0,0.0958,0.117,69.097,"bolero, latin pop",Luis Miguel,Dormir Contigo
+0.578,0.651,8,-6.924,1,0.0424,0.368,0.0,0.103,0.0931,127.967,"dance pop, pop, talent show",Kelly Clarkson,Someone
+0.616,0.59,7,-5.548,1,0.0294,0.0893,0.0,0.0883,0.198,110.022,"dance pop, pop",Ke$ha,The Harold Song
+0.407,0.558,0,-13.609,1,0.0552,0.0537,1.42e-06,0.34,0.777,71.815,"british soul, neo soul",Amy Winehouse,Rehab
+0.162,0.786,7,-2.353,1,0.038,0.0374,0.0,0.143,0.138,161.192,"canadian pop, candy pop, dance pop, pop",Avril Lavigne,Keep Holding On
+0.243,0.891,4,-12.339,0,0.0713,5.06e-05,7.52e-06,0.298,0.446,83.743,"album rock, glam metal, hard rock, rock, swedish hard rock, swedish melodic rock",Europe,Seven Doors Hotel
+0.738,0.831,2,-6.213,1,0.221,0.278,0.0,0.452,0.493,97.908,"hip hop, pop rap",,Title
+0.602,0.847,11,-5.998,0,0.0588,0.00887,0.0308,0.0622,0.0871,138.037,gregorian dance,Delerium,Silence
+0.498,0.796,8,-4.882,1,0.0453,0.607,0.0,0.3,0.906,79.648,"adult standards, brill building pop, bubblegum pop, easy listening, rockabilly, soft rock",,Happy
+0.483,0.862,11,-3.864,0,0.0857,0.00577,0.0,0.227,0.449,124.025,"modern rock, post-grunge",Thirty Seconds to Mars,Up in the Air
+0.309,0.649,7,-8.994,1,0.035,0.0158,0.00591,0.367,0.312,166.915,"irish rock, pop rock, rock",The Cranberries,Zombie
+0.699,0.618,7,-7.338,1,0.0594,0.0502,0.000925,0.0914,0.679,99.965,"dance pop, pop",Madonna,Don't Tell Me
+0.33,0.906,0,-9.607,1,0.0513,0.533,0.0208,0.15,0.418,91.186,"horror punk, new jersey hardcore, new jersey punk, punk",Misfits,Last Caress
+0.452,0.794,0,-5.151,1,0.0483,0.0111,0.00182,0.416,0.282,137.825,"electro house, electronic trap",Baauer,Harlem Shake
+0.657,0.676,5,-6.633,1,0.0393,0.245,0.0,0.368,0.246,124.904,"dance pop, pop, r&b, urban contemporary",Ne-Yo,Let Me Love You
+0.514,0.898,11,-6.765,0,0.0577,0.00488,0.0345,0.0746,0.353,123.067,"permanent wave, pop",Coldplay,Speed of Sound
+0.687,0.888,11,-2.725,0,0.146,0.0596,2.14e-05,0.181,0.791,64.927,"k-pop, k-pop girl group",Girls' Generation,Run Devil Run
+0.544,0.914,8,-3.614,1,0.0597,0.00575,0.0,0.192,0.352,115.057,"alternative metal, alternative rock, emo, modern power pop, modern rock, neon pop punk, pop punk, pop rock, post-grunge, punk, rock",Jimmy Eat World,Work
+0.686,0.747,6,-6.013,1,0.214,0.0203,5.24e-05,0.124,0.722,124.071,"canadian pop, dance pop, pop",Carly Rae Jepsen,Both Sides Now
+0.468,0.607,9,-11.367,1,0.0336,0.072,0.000852,0.225,0.886,98.429,"album rock, classic rock, hard rock, rock",Led Zeppelin,Ramble On
+0.7,0.864,7,-3.629,1,0.0283,0.0212,0.0,0.0956,0.887,102.997,nu metal,Kid Rock,All Summer Long
+0.535,0.523,2,-7.601,1,0.0312,0.603,0.0,0.0943,0.17,107.889,"dance pop, pop, urban contemporary",Mariah Carey,Butterfly
+0.65,0.717,8,-10.716,0,0.119,0.039,0.000103,0.369,0.263,98.029,,Shara Nelson,Rough With The Smooth
+0.214,0.91,8,-6.662,1,0.389,0.477,0.00833,0.0517,0.448,175.549,"acid rock, album rock, alternative rock, classic rock, hard rock, proto-metal, psychedelic rock, rock",Jimi Hendrix Experience,Voodoo Child
+0.557,0.442,5,-7.224,1,0.0243,0.731,1.46e-05,0.11,0.213,146.277,"permanent wave, pop",Coldplay,The Scientist
+0.54,0.816,9,-6.197,1,0.0421,0.0177,0.00226,0.276,0.658,85.563,"album rock, classic rock, dance rock, hard rock, new romantic, new wave, new wave pop, rock, soft rock",Billy Idol,Eyes Without a Face
+0.416,0.821,1,-14.309,1,0.101,0.00395,0.947,0.455,0.168,118.303,"alternative rock, dream pop, irish shoegaze, noise pop, shoegaze",My Bloody Valentine,In Another Way
+0.819,0.624,11,-14.076,1,0.212,0.039,0.0,0.101,0.802,88.154,"golden age hip hop, old school hip hop, philly rap",DJ Jazzy Jeff & The Fresh Prince,Parents Just Don't Understand
+0.445,0.631,11,-4.798,1,0.0305,0.129,0.0,0.0911,0.152,143.85,"contemporary country, country, country road, modern country rock",Jason Aldean,Don't You Wanna Stay
+0.466,0.759,8,-4.978,0,0.199,0.0521,0.0,0.0587,0.328,160.033,"dance pop, pop, post-teen pop, urban contemporary",Jordin Sparks & Chris Brown,No Air
+0.479,0.545,7,-7.346,1,0.0688,0.365,0.0,0.0963,0.243,74.897,"folk-pop, neo mellow",Passenger,Let Her Go
+0.806,0.649,9,-9.004,0,0.0347,0.0391,5.55e-05,0.0557,0.897,114.834,"album rock, classic rock, mellow gold, rock, singer-songwriter, soft rock, yacht rock",Hall & Oates,Out of Touch
+0.712,0.564,8,-6.527,1,0.047,0.0266,0.0,0.0874,0.411,95.95,"dance pop, pop, post-teen pop",Pia Mia,Do It Again
+0.451,0.951,1,-3.754,1,0.0645,0.000386,2.56e-06,0.261,0.441,162.041,"alternative metal, nu metal, post-grunge, rap metal, rock",Linkin Park,Somewhere I Belong
+0.48,0.689,11,-7.921,1,0.0646,0.78,0.0,0.149,0.596,117.413,"adult standards, bubblegum pop, easy listening, folk rock, merseybeat, rock-and-roll, rockabilly",Petula Clark,Downtown
+0.673,0.902,10,-5.416,0,0.0622,0.00737,0.102,0.333,0.633,123.028,"australian dance, australian pop, europop",Dannii Minogue,So Under Pressure
+0.616,0.919,5,-3.468,0,0.0401,0.0141,0.0,0.117,0.572,110.013,"art pop, dance pop, pop",Lady Gaga,G.U.Y.
+0.389,0.396,7,-7.999,1,0.0332,0.887,0.0,0.0828,0.585,171.86,"classic rock, country rock, folk, folk rock, rock, roots rock, singer-songwriter",Bob Dylan,The Times They Are a-Changin'
