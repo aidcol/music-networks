@@ -1,5 +1,6 @@
 data/__pycache__/
 data/mert_embeds/
+data/mertnet/
 data/temp/
 
 test.ipynb
