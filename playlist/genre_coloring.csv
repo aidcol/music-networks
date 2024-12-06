@@ -1,0 +1,1393 @@
+Node,Genre
+"('Take It to the Limit', 'Eagles')",rock
+"('Violins and Tambourines', 'Stereophonics')",rock
+"('Coma White', 'Marilyn Manson')",rock
+"('Silent Lucidity', 'Queensryche')",rock
+"('Hold Tight', 'Madonna')",pop
+"('Bleed', 'Meshuggah')",rock
+"('The Don', 'Nas')",rock
+"('Rhythm Nation', 'Janet Jackson')",pop
+"('What a Girl Wants', 'Christina Aguilera')",pop
+"('All Too Well', 'Taylor Swift')",pop
+"('Cherub Rock', 'Smashing Pumpkins')",rock
+"('Rites of Death', 'Antestor')",rock
+"('Medicate', 'AFI')",rock
+"('Uh-ee', 'Crayon Pop')",k-pop
+"('Billie Jean', 'Michael Jackson')",r&b
+"('Gangsta Gangsta', 'N.W.A')",rap
+"('Life on Mars', 'David Bowie')",rock
+"(""Let's Go All The Way"", 'Sly Fox')",other
+"('25 or 6 to 4', 'Chicago')",rock
+"(""Nobody's Business"", 'Rihanna')",pop
+"('Y Gwyneb Iau', 'Super Furry Animals')",pop
+"('Just Be', 'Tiesto')",edm
+"('Birthday Cake', 'Rihanna')",pop
+"('Hotel California', 'Eagles')",rock
+"('Chimes Of Freedom', 'The Byrds')",rock
+"('Die Young', 'Ke$ha')",pop
+"('Love One Another', 'Cher')",pop
+"('Jealous', 'Beyonce')",pop
+"('Virtue and Vice', 'The Black Crowes')",rock
+"('Rebirth of the Temple', 'Silent Civilian')",rock
+"('King Nothing', 'Metallica')",rock
+"('Long Time', 'Boston')",rock
+"('21 Guns', 'Green Day')",rock
+"('Hold On to the Nights', 'Richard Marx')",pop
+"('Give It All', 'Rise Against')",rock
+"(""Blowin' in the Wind"", 'Bob Dylan')",rock
+"('María', 'Ricky Martin')",latin
+"('Around The World', 'Daft Punk')",edm
+"(""J'voulais"", 'Amine')",pop
+"('Good Vibrations', 'Beach Boys')",rock
+"('On The Wings Of Love', 'Regine Velasquez')",other
+"('Silly Girl', 'Descendents')",other
+"('American Idiot', 'Green Day')",rock
+"('Cloudbusting', 'Kate Bush')",pop
+"('Silvia', 'Miike Snow')",pop
+"('Impossible Is Nothing', 'Iggy Azalea')",pop
+"('Hoedown Throwdown', 'Miley Cyrus')",pop
+"(""I'll Be There for You"", 'The Rembrandts')",pop
+"('You', 'Romeo Santos')",latin
+"('Gentle on My Mind', 'Glen Campbell')",rock
+"('Anything Can Happen in the Next Half Hour', 'Enter Shikari')",rock
+"('Shut Up and Drive', 'Rihanna')",pop
+"('I Got You', 'Leona Lewis')",pop
+"('Soak Up the Sun', 'Sheryl Crow')",pop
+"('Work This Body', 'Walk the Moon')",rock
+"('Sweetest Sin', 'Jessica Simpson')",pop
+"('The Way I Loved You', 'Taylor Swift')",pop
+"('Radio Free Europe', 'R.E.M.')",rock
+"('The Boys', ""Girls' Generation"")",k-pop
+"('The Rhythm Divine', 'Yello')",pop
+"('Without You', nan)",rock
+"('The Resistance', 'Drake')",rap
+"('Whiplash', 'Metallica')",rock
+"('Born to Make You Happy', 'Britney Spears')",pop
+"('Lucky Strike', 'Maroon 5')",pop
+"('Ugly', 'Sugababes')",pop
+"('Cry Me a River', 'Justin Timberlake')",pop
+"('God Put a Smile upon Your Face', 'Coldplay')",pop
+"('Black & Blue', 'Miike Snow')",pop
+"('Super Bad', 'James Brown')",r&b
+"(""I Know There's Something Going On"", 'Frida')",other
+"('Black and Yellow', 'Wiz Khalifa')",rap
+"('Losing My Religion', 'R.E.M.')",rock
+"('Power', 'Kanye West')",rap
+"('Till The World Ends', 'Britney Spears')",pop
+"('Breakaway', nan)",other
+"('Buena Vista Social Club', 'Buena Vista Social Club')",latin
+"(""Janie's Got a Gun"", 'Aerosmith')",rock
+"(""This Ain't A Scene, It's An Arms Race"", 'Fall Out Boy')",rock
+"('Everlong', 'Foo Fighters')",rock
+"('Pepper', 'Butthole Surfers')",rock
+"('Promise', 'Romeo Santos')",latin
+"('Yung Rapunxel', 'Azealia Banks')",rap
+"('Cannibal', 'Ke$ha')",pop
+"('Make Love', 'Keri Hilson')",pop
+"('Never Lose That Feeling', 'Swervedriver')",other
+"('Oh, Pretty Woman', 'Roy Orbison')",rock
+"('Party', 'Beyonce')",pop
+"('I Know What I Like', 'Genesis')",rock
+"('Everything Is Alright', 'Four Tet')",edm
+"(""Can't Get Enough Of Your Love Babe"", 'Barry White')",r&b
+"('Cochise', 'Audioslave')",rock
+"('Slow Down Baby', 'Christina Aguilera')",pop
+"('Check It Out', 'Super Furry Animals')",pop
+"('Rezo', 'Carlos Ponce')",latin
+"('Roly Poly', 'T-ara')",k-pop
+"('Let Yourself Go', 'Green Day')",rock
+"('Charlie Darwin', 'The Low Anthem')",other
+"('Keep On Loving You', 'REO Speedwagon')",rock
+"('Baby Baby', 'Amy Grant')",other
+"('One More Night', 'Maroon 5')",pop
+"('Heart of Stone', 'Cher')",pop
+"('Putting Holes In Happiness', 'Marilyn Manson')",rock
+"(""We Can't Stop"", 'Miley Cyrus')",pop
+"('Try It Out', 'Skrillex')",edm
+"('SOS', 'Rihanna')",pop
+"('D.A.N.C.E', 'Justice')",edm
+"('Antichrist Superstar', 'Marilyn Manson')",rock
+"('Sweet Dreams', 'Marilyn Manson')",rock
+"('Let There Be Love', 'Christina Aguilera')",pop
+"('Bossy', 'Lindsay Lohan')",pop
+"('Halo', nan)",other
+"('Like You', 'Daddy Yankee')",latin
+"('Adore You', 'Miley Cyrus')",pop
+"('Shout', 'Tears For Fears')",pop
+"('Mary', 'All')",pop
+"('Catch My Breath', 'Kelly Clarkson')",pop
+"('Ride of the Valkyries', 'Richard Wagner')",classical
+"('Ribs', 'Lorde')",pop
+"('Y Si Te Digo', 'Fanny Lu')",latin
+"('Free To Fall', 'Debbie Harry')",pop
+"('Si No Te Hubiera Conocido', 'Christina Aguilera')",pop
+"('Love Machine', 'Girls Aloud')",pop
+"('Bar Bar Bar', 'Crayon Pop')",k-pop
+"('Myage', 'Descendents')",other
+"('Baila Esta Cumbia', 'Selena')",latin
+"(""It's All Over Now Baby Blue"", 'Bob Dylan')",rock
+"(""We're From America"", 'Marilyn Manson')",rock
+"('Starships', 'Nicki Minaj')",pop
+"(""History's Stranglers"", 'The Bronx')",other
+"(""Just Like Tom Thumb's Blues"", 'Bob Dylan')",rock
+"('Simpleng Tulad Mo', 'Daniel Padilla')",other
+"('Give Me Everything', 'Pitbull')",pop
+"('Rumors', 'Lindsay Lohan')",pop
+"('En Remolinos', 'Soda Stereo')",latin
+"('Freak Scene', 'Dinosaur Jr')",rock
+"('Enchanted', 'Taylor Swift')",pop
+"('Enjoy The Ride', 'Morcheeba')",edm
+"('Lovebug', 'Jonas Brothers')",pop
+"('Kabuki Girl', 'Descendents')",other
+"('Jaded', 'Aerosmith')",rock
+"('Tango del Pecado', 'Calle 13')",latin
+"('Notorious', 'The Saturdays')",pop
+"('Only Teardrops', 'Emmelie de Forest')",other
+"('Ghosts', 'Laura Marling')",pop
+"(""The '59 Sound"", 'The Gaslight Anthem')",rock
+"('Back to Black', 'Amy Winehouse')",r&b
+"('You Will Be A Hot Dancer', 'Incubus')",rock
+"(""Touch Me I'm Sick"", 'Mudhoney')",rock
+"('Angels on the Moon', 'Thriving Ivory')",rock
+"('Sex', 'The 1975')",rock
+"('Gimme! Gimme! Gimme!', 'ABBA')",pop
+"('California King Bed', 'Rihanna')",pop
+"('Happiness', 'Alexis Jordan')",other
+"('Anaconda', 'Nicki Minaj')",pop
+"('Let Me Ride', 'Dr. Dre')",rap
+"('Night Of The Swallow', 'Kate Bush')",pop
+"('How to Save a Life', 'The Fray')",pop
+"('Cameage', 'Descendents')",other
+"('Criminal', 'Britney Spears')",pop
+"('Go Away', '2NE1')",k-pop
+"('Remainder', 'Rites of Spring')",other
+"('Thundersteel', 'Riot')",rock
+"('Missing', 'Everything But The Girl')",pop
+"('The Gift That Keeps Giving', 'Super Furry Animals')",pop
+"('Ice Hockey Hair', 'Super Furry Animals')",pop
+"('Bold & Delicious', 'Ayumi Hamasaki')",pop
+"('Ion Square', 'Bloc Party')",rock
+"('Dime', 'Ivy Queen')",latin
+"('Dreamer', 'Roger Hodgson')",rock
+"('Honey', 'Mariah Carey')",pop
+"('Dirty Picture', 'Taio Cruz')",pop
+"('Travesuras', 'Nicky Jam')",latin
+"('3 Words', 'Cheryl Cole')",pop
+"('Purify', 'Metallica')",rock
+"('When You Believe', 'Mariah Carey & Whitney Houston')",pop
+"('Menor Que Yo', 'Ivy Queen')",latin
+"(""Goin' Back"", 'The Byrds')",rock
+"('Heart of Gold', 'Neil Young')",rock
+"('No Better', 'Lorde')",pop
+"('I Want That Man', 'Deborah Harry')",pop
+"('Angels', 'Amy Grant')",other
+"('Good Boys', 'Blondie')",pop
+"('Heroin', 'Billy Idol')",rock
+"('Wait Your Turn', 'Rihanna')",pop
+"('She Wolf', 'Shakira')",latin
+"('Makes Me Wanna Pray', 'Christina Aguilera')",pop
+"('Enter Sandman', 'Metallica')",rock
+"('Flagpole Sitta', 'Harvey Danger')",pop
+"('Pretend', 'Tinashe')",pop
+"('Just Lose It', 'Eminem')",rap
+"('Son of Sam', 'Elliott Smith')",rock
+"('Torn', 'Natalie Imbruglia')",pop
+"('So Yesterday', 'Hilary Duff')",pop
+"('All I Really Want To Do', 'The Byrds')",rock
+"('Just in Love', 'Joe Jonas')",pop
+"('Jump', 'Madonna')",pop
+"('Jump', 'Rihanna')",pop
+"('All-O-Gistics', 'Descendents')",other
+"('Tal Vez', 'Ricky Martin')",latin
+"('Trick Me', 'Kelis')",pop
+"('Sunday Girl', 'Blondie')",pop
+"('Hagamos El Amor', 'Ricky Martin')",latin
+"('Landslide', 'Fleetwood Mac')",rock
+"('One Goodbye In Ten', 'Shara Nelson')",other
+"('Picture to Burn', 'Taylor Swift')",pop
+"('Sol, Arena y Mar', 'Luis Miguel')",latin
+"('Wish You Were Here', 'Avril Lavigne')",pop
+"('Harder Better Faster Stronger', 'Daft Punk')",edm
+"('Que Lloren', 'Ivy Queen')",latin
+"('White Guilt', 'The Bronx')",other
+"('Hurt', 'Christina Aguilera')",pop
+"('Con Los Años Que Me Quedan', 'Gloria Estefan')",pop
+"('My Love', 'Justin Timberlake')",pop
+"('Anticipating', 'Britney Spears')",pop
+"('Sssnakepit', 'Enter Shikari')",rock
+"('Kings and Queens', 'Thirty Seconds to Mars')",rock
+"('Casimir Pulaski Day', 'Sufjan Stevens')",pop
+"('Sensualité', 'Axelle Red')",pop
+"('People Like Us', 'Kelly Clarkson')",pop
+"('Like A Stone', 'Audioslave')",rock
+"('More Than a Woman', 'Aaliyah')",pop
+"('Changes', 'Tupac')",rap
+"('The Thunder Rolls', 'Garth Brooks')",country
+"('Track 7', nan)",other
+"('Brown Sugar', 'The Rolling Stones')",rock
+"('Black Horse & The Cherry Tree', 'KT Tunstall')",pop
+"(""Could've Been You"", 'Cher')",pop
+"('Blood on the Dance Floor', 'Michael Jackson')",r&b
+"('Battersea Odyssey', 'Super Furry Animals')",pop
+"('Chestnut Mare', 'The Byrds')",rock
+"('Evacuate The Dancefloor', 'Cascada')",pop
+"('Days Are Blood', 'Descendents')",other
+"('Turning Tables', 'Adele')",pop
+"('Beautiful', 'Christina Aguilera')",pop
+"('Carry On', 'Avenged Sevenfold')",rock
+"('When Girls Telephone Boys', 'Deftones')",rock
+"('Acid Tracks', 'Phuture')",edm
+"('Neon Knights', 'Steel Prophet')",rock
+"('2 + 2 = 5', 'Radiohead')",rock
+"('Rock the Boat', 'Bob Sinclar')",edm
+"('Aftermath', 'The Orb')",edm
+"('Move Over', 'Spice Girls')",pop
+"('Ring of Fire', 'Johnny Cash')",country
+"('Breaking Point', 'Keri Hilson')",pop
+"('Gasolina', 'Daddy Yankee')",latin
+"('Straight Outta Compton', 'N.W.A')",rap
+"('Straws Pulled At Random', 'Meshuggah')",rock
+"('Jump in the Fire', 'Metallica')",rock
+"('Over My Head', 'The Fray')",pop
+"('Another Rock and Roll Christmas', 'Gary Glitter')",other
+"('C.R.E.A.M', 'Wu-Tang Clan')",rap
+"('I Want More', 'Faithless')",edm
+"('Enemy', 'Fozzy')",rock
+"('The Devil Beneath My Feet', 'Marilyn Manson')",rock
+"('Yellow', 'Coldplay')",pop
+"('Problem', 'Ariana Grande')",pop
+"('Caught in a Mosh', 'Anthrax')",rock
+"('Chimes Of Freedom', 'Bob Dylan')",rock
+"('I Miss You', 'Beyoncé')",pop
+"('Do or Die', 'Thirty Seconds to Mars')",edm
+"('Radioactivity', 'Kraftwerk')",pop
+"('Party In The USA', 'Miley Cyrus')",pop
+"('Lola, Lola', 'Ricky Martin')",latin
+"('Midnight', 'Coldplay')",pop
+"('Nobody Knows Me', 'Madonna')",pop
+"('Electric', 'Robyn')",pop
+"('Te He Querido, Te He Llorado', 'Ivy Queen')",latin
+"('Coming Home', 'Diddy-Dirty Money')",pop
+"('Hall of Fame', 'The Script')",pop
+"('Everytime Tha Beat Drop', 'Monica')",r&b
+"('Obsessed', 'Mariah Carey')",pop
+"('Lena Anthem', 'Lena Philipsson')",pop
+"('Waterloo Sunset', 'Kinks')",rock
+"('Homeless', 'Leona Lewis')",pop
+"('Fantastic Baby', 'Big Bang')",k-pop
+"('Forklift', 'Pavement')",rock
+"(""What's Going On"", 'Marvin Gaye')",r&b
+"('Ese Hombre', 'La India')",other
+"('House of Jealous Lovers', 'The Rapture')",edm
+"('The Other Side', 'Jason Derulo')",pop
+"('The Other Side', 'Pendulum')",other
+"('Chasing a Feeling', 'The Narrative')",other
+"('Mr. Saxobeat', 'Alexandra Stan')",pop
+"('Old John Robertson', 'The Byrds')",rock
+"('Da La Vuelta', 'Marc Anthony')",latin
+"('Misirlou', 'Dick Dale')",other
+"('The Truth', 'Kris Allen')",pop
+"('False Alarm', 'The Bronx')",other
+"('6 Underground', 'Sneaker Pimps')",edm
+"('I Am I', 'Queensryche')",rock
+"('Music', 'Madonna')",pop
+"('Back To December', 'Taylor Swift')",pop
+"('Eyes Closed', 'The Narrative')",other
+"('I Love It', 'Icona Pop')",pop
+"('Fast Car', 'Tracy Chapman')",other
+"('Summer Love', 'Justin Timberlake')",pop
+"('No Sympathy', 'Super Furry Animals')",pop
+"('Start Over', 'Beyoncé')",pop
+"('Autobahn', 'Kraftwerk')",pop
+"('Happy House', 'The Juan MacLean')",edm
+"('Get Your Shine On', 'Florida Georgia Line')",country
+"('You Belong with Me', 'Taylor Swift')",pop
+"('22', 'Taylor Swift')",pop
+"('Strong Enough', 'Sheryl Crow')",pop
+"('Respect', 'Alliance Ethnik')",rap
+"('Music Box Dancer', 'Frank Mills')",other
+"('Que Seas Feliz', 'Luis Miguel')",latin
+"('Shitty Future', 'The Bronx')",other
+"('True Love Waits', 'Radiohead')",rock
+"('Antidote', 'Swedish House Mafia')",edm
+"('I Kissed a Girl', 'Katy Perry')",pop
+"(""I Can't Stand It"", 'Twenty 4 Seven')",edm
+"('Secrets', 'OneRepublic')",pop
+"('Angels', 'The xx')",pop
+"('Archie, Marry Me', 'Alvvays')",pop
+"('Pioneering', 'The Innocence Mission')",other
+"('Call the Shots', 'Girls Aloud')",pop
+"('Ragga Bomb', 'Skrillex')",edm
+"('Carouselambra', 'Led Zeppelin')",rock
+"('For Your Glory', 'DecembeRadio')",other
+"(""Let's Go"", 'The Cars')",rock
+"('International Love', 'Pitbull')",pop
+"(""Miss Movin' On"", 'Fifth Harmony')",pop
+"('Sat In Your Lap', 'Kate Bush')",pop
+"('The Things That I Used to Do', 'Guitar Slim')",other
+"('Chasing Time', 'Azealia Banks')",rap
+"(""They Don't Care About Us"", 'Michael Jackson')",r&b
+"('I Will Always Love You', 'Dolly Parton')",country
+"('With or Without You', 'U2')",rock
+"('Crazy in Love', nan)",other
+"('Off With Their Heads', 'Devlin')",other
+"('Aeroplane', 'Red Hot Chili Peppers')",rock
+"('Por Amarte Así', 'Cristian Castro')",latin
+"('Last Train to Trancentral', 'The KLF')",edm
+"('Bra vibrationer', 'Kikki Danielsson')",pop
+"('Sing', 'Travis')",pop
+"('Invisible Touch', 'Genesis')",rock
+"('Man in the Mirror', 'Michael Jackson')",r&b
+"('The Letter', 'The Box Tops')",rock
+"('Fix You', 'Coldplay')",pop
+"('Morrocoy', 'Vytas Brenner')",rock
+"('Satisfaction', 'Benny Benassi')",pop
+"(""Made It Back '99"", 'Beverley Knight')",r&b
+"('Carry Out', 'Timbaland')",pop
+"(""Devil's Island"", 'Architects')",rock
+"('Fembot', 'Robyn')",pop
+"('Shades of Cool', 'Lana Del Rey')",pop
+"('I Am The Highway', 'Audioslave')",rock
+"('Every Heartbeat', 'Amy Grant')",other
+"('True Blue', 'Madonna')",pop
+"('One Love', 'Jennifer Lopez')",pop
+"('Bad Day', 'Daniel Powter')",pop
+"('Hasta Que Te Conoci', 'Marc Anthony')",latin
+"('Gehenna', 'Slipknot')",rock
+"('Mother Earth', 'Within Temptation')",rock
+"('Grown Woman', 'Kelly Rowland')",pop
+"('Tumbling Dice', 'Rolling Stones')",rock
+"('No Te Pido Flores', 'Fanny Lu')",latin
+"('Tonight, Tonight', nan)",pop
+"('Get Off', 'Kittie')",rock
+"('Blue Jeans', 'Lana Del Rey')",pop
+"('Night Moves', 'Bob Seger')",rock
+"('Call My Name', 'Cheryl')",pop
+"('Rockferry', 'Duffy')",r&b
+"('Gimme Shelter', 'The Rolling Stones')",rock
+"(""Don't Rush"", 'Kelly Clarkson')",pop
+"('Heaven and Hell', 'Black Sabbath')",rock
+"('Thnks fr th Mmrs', 'Fall Out Boy')",rock
+"('Nuestro Amor', 'RBD')",latin
+"('Your Woman', 'White Town')",other
+"('Change Your Life', 'Little Mix')",pop
+"('Rapture', 'Iio')",edm
+"('Boyfriend', 'Justin Bieber')",pop
+"('They', 'Jem')",pop
+"('Stronger', 'Sugababes')",pop
+"('If U Seek Amy', 'Britney Spears')",pop
+"(""I'm Gonna Love You Too"", 'Blondie')",pop
+"('Ballad Of Easy Rider', 'The Byrds')",rock
+"('Through The Rain', 'Mariah Carey')",pop
+"('Never Surrender', 'Corey Hart')",pop
+"('Crime of the Century', 'Supertramp')",rock
+"('Sing', 'Ed Sheeran')",pop
+"('Twilight Zone', 'Golden Earring')",rock
+"('Monarchy of Roses', 'Red Hot Chili Peppers')",rock
+"('Toxic', 'Britney Spears')",pop
+"('Behind These Hazel Eyes', 'Kelly Clarkson')",pop
+"('Adrenalina', 'Wisin')",latin
+"('Mi Santa', 'Romeo Santos')",latin
+"('Style', 'Taylor Swift')",pop
+"('Street Fighting Man', 'The Rolling Stones')",rock
+"('Say A Prayer', 'Breathe')",pop
+"('Running Scared', 'Roy Orbison')",rock
+"('Dat Sexy Body', 'Sasha')",other
+"('My Only Wish', 'Britney Spears')",pop
+"(""You Ain't Goin' Nowhere"", 'The Byrds')",rock
+"('Alive', 'S Club')",pop
+"('Disconnected', 'Face to Face')",other
+"('Big Fat Bass', 'Britney Spears')",pop
+"('Oh Love', 'Green Day')",rock
+"('Garden Song', 'John Denver')",rock
+"('Yo-Yo', 'Nicola Roberts')",other
+"('Save Up All Your Tears', 'Cher')",pop
+"('Fire', '2NE1')",k-pop
+"('Who Is It', 'Björk')",pop
+"('Crawling', nan)",rock
+"('My Heart Will Go On', 'Celine Dion')",pop
+"('Our Song', 'Taylor Swift')",pop
+"('Foolish Games', 'Jewel')",pop
+"('Work Bitch', 'Britney Spears')",pop
+"('The Way She Moves', 'Zion')",latin
+"('Hello Kitty', 'Avril Lavigne')",pop
+"('This Kiss', 'Carly Rae Jepsen')",pop
+"('Sledgehammer', 'Fifth Harmony')",pop
+"('Stupid Hoe', 'Nicki Minaj')",pop
+"('Talk That Talk', 'Rihanna')",pop
+"('Where Have You Been', 'Rihanna')",pop
+"('No Particular Place To Go', 'Chuck Berry')",rock
+"('Spirit in the Sky', 'Norman Greenbaum')",rock
+"('Young Bloods', 'The Bronx')",other
+"('Horror Business', 'Misfits')",other
+"('Tu Cuerpo', 'Pitbull')",pop
+"('It Will Rain', 'Bruno Mars')",pop
+"('Bitter Sweet Symphony', 'The Verve')",pop
+"('Wrapped in Red', 'Kelly Clarkson')",pop
+"('Earth Song', 'Michael Jackson')",r&b
+"('Britney', 'Bebo Norman')",rock
+"('Donde Hubo Fuego', 'Daddy Yankee')",latin
+"(""I'll Remember"", 'Madonna')",pop
+"('Hope', 'Descendents')",other
+"('No More Hot Dogs', 'Hasil Adkins')",rock
+"('Underneath the Stars', 'Mariah Carey')",pop
+"(""If It's Lovin' That You Want"", 'Rihanna')",pop
+"(""Pushin' Me Away"", 'Jonas Brothers')",pop
+"('Ultraviolence', 'Lana Del Rey')",pop
+"('Strange Things Happening Every Day', 'Sister Rosetta Tharpe')",other
+"('Recess', 'Skrillex')",edm
+"('Start All Over', 'Miley Cyrus')",pop
+"('Checkmate', 'Jadakiss')",other
+"('We Built This City', 'Starship')",rock
+"('Sandstorm', 'Darude')",edm
+"('Isobel', 'Björk')",pop
+"('Love Shack', ""The B-52's"")",rock
+"(""Then It's White"", 'The Field')",edm
+"('Walking on the Moon', 'The Police')",rock
+"('Cabaret', 'Justin Timberlake')",pop
+"('Full Circle', 'The Byrds')",rock
+"('Stepping Stone', 'Duffy')",r&b
+"('Every Night', 'Hannah Diamond')",pop
+"('All or Nothing', 'Cher')",pop
+"('Stan', 'Eminem')",rap
+"('Be Yourself', 'Audioslave')",rock
+"('Changes', 'David Bowie')",rock
+"('What Time Is Love', 'The KLF')",edm
+"('Johnny B. Goode', 'Chuck Berry')",rock
+"('Greyhound', 'Swedish House Mafia')",edm
+"('West Coast', 'Lana Del Rey')",pop
+"('Kick Your Game', 'TLC')",pop
+"('Candy', 'Robbie Williams')",pop
+"('Turn It On Again', 'Genesis')",rock
+"('Love Is A Stranger', 'Eurythmics')",pop
+"('Tu Mirada', 'Luis Miguel')",latin
+"('Loud Music', 'Michelle Branch')",pop
+"('Nostalgic', 'Kelly Clarkson')",pop
+"('Rain Over Me', 'Pitbull')",pop
+"('Vuelve', 'Ricky Martin')",latin
+"('Under the Bridge', 'Red Hot Chili Peppers')",rock
+"('Human', nan)",rock
+"('No Matter What', 'T.I.')",rap
+"('Dope Hat', 'Marilyn Manson')",rock
+"('Helicopter', 'Bloc Party')",rock
+"('Juxtapozed With U', 'Super Furry Animals')",pop
+"('The Light', 'Common')",rap
+"('Daughter', nan)",other
+"('Got Dynamite', 'Demi Lovato')",pop
+"('Only', 'Nicki Minaj')",pop
+"('Look Away', 'Chicago')",rock
+"('Call Me Maybe', 'Carly Rae Jepsen')",pop
+"('Rocket', 'Beyonce')",pop
+"('Ghost Town', nan)",rock
+"('Ex Luna Scientia', 'Rolo Tomassi')",rock
+"('Pero Qué Necesidad', 'Juan Gabriel')",latin
+"('Slowly, Slowly', 'Magnapop')",pop
+"('Mmm Mmm Mmm Mmm', 'Crash Test Dummies')",rock
+"('Lunchbox', 'Marilyn Manson')",rock
+"('Imma Be', 'Black Eyed Peas')",pop
+"('See No More', 'Joe Jonas')",pop
+"('M', 'Ayumi Hamasaki')",pop
+"('A Little Less Conversation', 'Elvis Presley')",rock
+"('Space Odyssey', 'The Byrds')",rock
+"('Take You High', 'Kelly Clarkson')",pop
+"('Family Portrait', 'Pink')",pop
+"('More Than a Feeling', 'Boston')",rock
+"('Voices Of Babylon', 'The Outfield')",pop
+"('Behind The Lines', 'Genesis')",rock
+"('Dragostea din tei', 'O-Zone')",pop
+"('Break Free', 'Ariana Grande')",pop
+"(""Tonight I'm Getting Over You"", 'Carly Rae Jepsen')",pop
+"(""I'm a Believer"", 'The Monkees')",rock
+"('Mean', 'Taylor Swift')",pop
+"('Try Honesty', 'Billy Talent')",other
+"('Shorty, Shorty', 'Xtreme')",other
+"('212', 'Azealia Banks')",rap
+"('Balla Linda', 'Lucio Battisti')",pop
+"('Reunion', 'The xx')",pop
+"('Sparvöga', 'Marie Fredriksson')",pop
+"('Freed From Desire', 'Gala')",other
+"('Exit', 'Stateless')",rock
+"('Loungin', 'LL Cool J')",rap
+"('River', nan)",pop
+"('Alfie', 'Lily Allen')",pop
+"('Confusion', 'Fela Kuti')",pop
+"('Poison', 'Nicole Scherzinger')",pop
+"('For Whom the Bell Tolls', 'Metallica')",rock
+"('Dile', 'Ivy Queen')",latin
+"(""I Don't Believe You"", 'Pink')",pop
+"('Loca People', 'Sak Noel')",other
+"('Go Deep', 'Janet Jackson')",pop
+"('Sad But True', 'Metallica')",rock
+"('Falling Away from Me', 'Korn')",rock
+"('Ser o Parecer', 'RBD')",latin
+"('Volví a Nacer', 'Carlos Vives')",latin
+"('One More Time', 'Daft Punk')",edm
+"('Pure Energy', 'Information Society')",pop
+"('Ziggy Stardust', 'David Bowie')",rock
+"(""Can't Stop"", nan)",r&b
+"('Holiday', 'Green Day')",rock
+"('Hungry Like the Wolf', 'Duran Duran')",rock
+"('Alive', 'Jennifer Lopez')",pop
+"('All I Really Want To Do', 'Cher')",pop
+"('Cambodia', 'Kim Wilde')",pop
+"('Champagne Showers', 'LMFAO')",pop
+"('Harborcoat', 'R.E.M.')",rock
+"(""You Won't Forget About Me"", 'Dannii Minogue')",pop
+"('With U', 'Janet Jackson')",pop
+"('New Day', 'Alicia Keys')",rap
+"('Genie', ""Girls' Generation"")",k-pop
+"('Pack Of Thieves', 'Enter Shikari')",rock
+"('Moving', 'Kate Bush')",pop
+"('Change Your Life', 'Iggy Azalea')",pop
+"('If Your Girl Only Knew', 'Aaliyah')",pop
+"('Northern Lites', 'Super Furry Animals')",pop
+"('The Broken Ones', 'Dia Frampton')",other
+"('Dreams', 'Fleetwood Mac')",rock
+"('My Chick Bad', 'Ludacris')",rap
+"('2 On', 'Tinashe')",pop
+"('Black Or White', 'Michael Jackson')",r&b
+"(""What's My Name"", 'Rihanna')",pop
+"('Stop and Stare', 'OneRepublic')",pop
+"('Falsas Esperanzas', 'Christina Aguilera')",pop
+"('Imitation of Life', 'R.E.M.')",rock
+"('Rumour Has It', 'Adele')",pop
+"('Welcome to the Black Parade', 'My Chemical Romance')",rock
+"('Burbujas de amor', 'Juan Luis Guerra')",latin
+"('Flashdance', nan)",other
+"('13 Monsters', 'Lightning Bolt')",rock
+"('Million Voices', 'Otto Knows')",edm
+"('Corazon Sin Cara', 'Prince Royce')",latin
+"('Anytime You Need A Friend', 'Mariah Carey')",pop
+"('Sugar', 'Flo Rida')",pop
+"('The Nobodies', 'Marilyn Manson')",rock
+"('Ode To My Family', 'The Cranberries')",rock
+"('You Da One', 'Rihanna')",pop
+"('The Great Destroyer', 'Nine Inch Nails')",rock
+"('Turn Me On', 'David Guetta')",pop
+"('Beautiful', 'A. G. Cook')",pop
+"('Point Of No Return', 'Nu Shooz')",other
+"('Stylo', 'Gorillaz')",rock
+"('Give Me One Reason', 'Tracy Chapman')",other
+"('Paid My Dues', 'Anastacia')",pop
+"(""Can't Let Go"", 'Mariah Carey')",pop
+"('No Se Olvidar', 'Alejandro Fernandez')",latin
+"(""Wreckin' Crew"", 'The Meteors')",rock
+"('Queen of Chinatown', 'Amanda Lear')",other
+"('Feedback', 'Janet')",pop
+"(""All These Things That I've Done"", 'The Killers')",rock
+"('Stupid Girls', 'Pink')",pop
+"('Tender', 'Blur')",rock
+"('Circle the Drain', 'Katy Perry')",pop
+"(""She's All I Ever Had"", 'Ricky Martin')",latin
+"('Natural', 'S Club 7')",pop
+"('Meat Grinder', 'Madvillain')",rap
+"('When Love Takes Over', 'David Guetta')",pop
+"('In the Dark', 'Dev')",edm
+"('Nemo', 'Nightwish')",rock
+"('Institutionalized', 'Kendrick Lamar')",rap
+"('Over', 'Lindsay Lohan')",pop
+"('Marry You', 'Bruno Mars')",pop
+"('Occasional Rain', 'Terry Callier')",other
+"('Believe Again', 'Delta Goodrem')",pop
+"('Gentleman', 'The Saturdays')",pop
+"('Childhood', 'Michael Jackson')",r&b
+"('The Prayer', 'Bloc Party')",rock
+"('Moves Like Jagger', 'Maroon 5')",pop
+"('Yesterday', nan)",jazz
+"(""You Don't Know Me"", 'Armand Van Helden feat. Duane Harden')",edm
+"('Come & Get It', 'Selena Gomez')",pop
+"('Gypsy', 'Shakira')",latin
+"('Left Outside Alone', 'Anastacia')",pop
+"(""Let's Go Trippin'"", 'Dick Dale')",other
+"('Euphoria', 'Loreen')",pop
+"('Heartbeat Song', 'Kelly Clarkson')",pop
+"('Home', 'Phillip Phillips')",k-pop
+"(""I'm Into You"", 'Jennifer Lopez')",pop
+"('Together Again', 'Janet Jackson')",pop
+"('With Love', 'Hilary Duff')",pop
+"(""Don't Trust Me"", '3OH!3')",pop
+"('The Final Countdown', 'Europe')",rock
+"('Shooting Star', 'Elliott Smith')",rock
+"('Unchained Melody', 'Righteous Brothers')",rock
+"('Two Times Blue', 'Debbie Harry')",pop
+"('19th Nervous Breakdown', 'The Rolling Stones')",rock
+"('Ysbeidiau Heulog', 'Super Furry Animals')",pop
+"(""I'm Outta Love"", 'Anastacia')",pop
+"('From the Bottom of My Broken Heart', 'Britney Spears')",pop
+"('Who Owns My Heart', 'Miley Cyrus')",pop
+"('These Times', 'Swervedriver')",other
+"('Digital Love', 'Daft Punk')",edm
+"('Seven Nation Army', nan)",other
+"('Kerosene', 'Big Black')",rock
+"('Breathing', 'Jason Derulo')",pop
+"('Ghosttown', 'Madonna')",pop
+"('Tiffany Queen', 'The Byrds')",rock
+"('Save You', 'Kelly Clarkson')",pop
+"('London Calling', 'The Clash')",rock
+"('Not Pretty Enough', 'Kasey Chambers')",rock
+"('Fuck Tha Police', 'N.W.A')",rap
+"('El Último Beso', 'Vicente Fernandez')",latin
+"('Magic', 'Coldplay')",pop
+"('Try Again', 'Aaliyah')",pop
+"('Agadoo', 'Black Lace')",other
+"(""If You're Not The One"", 'Daniel Bedingfield')",pop
+"('Conquistador', 'Thirty Seconds to Mars')",rock
+"('Price Tag', 'Jessie J')",pop
+"('End Of The Road', nan)",rap
+"(""Haven't Met You Yet"", 'Nick Jonas')",other
+"('Night Vision', 'Super Furry Animals')",pop
+"('Bat Country', 'Avenged Sevenfold')",rock
+"(""Your Cheatin' Heart"", 'Hank Williams')",country
+"(""Don't Panic"", 'Coldplay')",pop
+"('Lay It Down', 'Magnapop')",pop
+"('Paint It Black', 'The Rolling Stones')",rock
+"('Papi', 'Jennifer Lopez')",pop
+"('It Was a Good Day', 'Ice Cube')",rap
+"('One Night Man', 'Ricky Martin')",latin
+"('32 Flavors', 'Alana Davis')",other
+"(""Don't Stop"", nan)",pop
+"('Happy', 'Leona Lewis')",pop
+"('Four Sticks', 'Led Zeppelin')",rock
+"('In This Life', 'Delta Goodrem')",pop
+"('Sober', 'Kelly Clarkson')",pop
+"(""You're Beautiful"", 'James Blunt')",other
+"('Moonchild', 'Fields of the Nephilim')",rock
+"('Sk8er Boi', 'Avril Lavigne')",pop
+"('Breathe on Me', 'Britney Spears')",pop
+"('One', 'Metallica')",rock
+"('Your Love Is My Drug', 'Ke$ha')",pop
+"('We Belong Together', 'Mariah Carey')",pop
+"('La Bikina', 'Luis Miguel')",latin
+"(""I Just Can't Stop Loving You"", 'Michael Jackson')",r&b
+"('Jump In The Line', 'Harry Belafonte')",other
+"('Pocketful of Sunshine', 'Natasha Bedingfield')",pop
+"('Money for Nothing', 'Dire Straits')",rock
+"('Wings', 'Little Mix')",pop
+"('Africa', 'Toto')",rock
+"('Trash', 'New York Dolls')",rock
+"('22', 'Lily Allen')",pop
+"('Hurricane', 'Bridgit Mendler')",pop
+"('All I Want For Christmas Is You', 'Mariah Carey')",pop
+"('Disturbia', 'Rihanna')",pop
+"('Kimi no Shiranai Monogatari', 'Supercell')",other
+"('Lips Are Unhappy', 'Lucky Soul')",pop
+"('Amazing', 'Alex Lloyd')",rock
+"('My Delirium', 'Ladyhawke')",pop
+"('Lo Que Paso Paso', 'Daddy Yankee')",latin
+"('City of Angels', 'Thirty Seconds to Mars')",rock
+"('Without Me', 'Eminem')",rap
+"('Bad Romance', 'Lady Gaga')",pop
+"('The Way I Are', 'Timbaland')",pop
+"('Porcelain', 'Moby')",edm
+"('Get It Started', 'Pitbull')",pop
+"('Mr. Bass', 'Descendents')",other
+"('La bilirrubina', 'Juan Luis Guerra')",latin
+"('Rose Colored Glasses', 'Kelly Rowland')",pop
+"('Inolvidable', 'Luis Miguel')",latin
+"('Cruise', 'Florida Georgia Line')",country
+"('Picture This', 'Blondie')",pop
+"('White Horse', 'Taylor Swift')",pop
+"('Alejandro', 'Lady Gaga')",pop
+"(""You've Lost That Lovin' Feelin'"", 'Righteous Brothers')",rock
+"('Shock To The System', 'Billy Idol')",rock
+"(""Now I'm That Bitch"", 'Livvi Franc')",pop
+"('I Just Shot John Lennon', 'The Cranberries')",rock
+"('Down That Road', 'Shara Nelson')",other
+"('Apologize', 'OneRepublic')",pop
+"('I Begin To Wonder', 'Dannii Minogue')",pop
+"('Indecisiones', 'Ivy Queen')",latin
+"('Come Alive', 'Paris Hilton')",pop
+"('Slipping Away', 'Bilal')",r&b
+"('Radar', 'Britney Spears')",pop
+"('We R Who We R', 'Ke$ha')",pop
+"('She Bangs', 'Ricky Martin')",latin
+"('Pure Narcotic', 'Porcupine Tree')",rock
+"('This Time Around', 'Michael Jackson')",r&b
+"('Gang Bang', 'Madonna')",pop
+"('Dream On', 'Aerosmith')",rock
+"('Glamorous', 'Fergie')",pop
+"('Take It Easy', 'Eagles')",rock
+"('Kill The Lights', 'Britney Spears')",pop
+"('Feel Good Hit of the Summer', 'Queens of the Stone Age')",rock
+"('The Crowing', 'Coheed and Cambria')",rock
+"('Get Lucky', 'Daft Punk')",edm
+"('All Fired Up', 'The Saturdays')",pop
+"(""I'm So Tired"", 'The Beatles')",rock
+"('God only knows', 'The Beach Boys')",rock
+"(""Don't Wanna Go Home"", 'Jason Derulo')",pop
+"('Body Party', 'Ciara')",pop
+"('La solitudine', 'Laura Pausini')",latin
+"(""Hustler's Ambition"", '50 Cent')",rap
+"('In My Dreams', 'Danny L Harle')",pop
+"('Yo No Se Mañana', 'Luis Enrique')",latin
+"('And Then We Kiss', 'Britney Spears')",pop
+"('Dark Side', 'Kelly Clarkson')",pop
+"('Down Under', 'Men at Work')",rock
+"('Beat It', 'Michael Jackson')",r&b
+"('Catch', 'Allie X')",pop
+"('Take Over Control', 'Afrojack')",edm
+"('This Is It', 'Michael Jackson')",r&b
+"('Dirty Dancer', 'Enrique Iglesias')",latin
+"('Neon Knights', 'Black Sabbath')",rock
+"('Last of the American Girls', 'Green Day')",rock
+"(""Here's to Never Growing Up"", 'Avril Lavigne')",pop
+"(""Burnin' Up"", 'Jonas Brothers')",pop
+"('Bigger Than Us', 'White Lies')",rock
+"('Hold On', 'Jonas Brothers')",pop
+"('Lock And Key', 'Rush')",rock
+"('All the Right Moves', 'OneRepublic')",pop
+"('Oh Mother', 'Christina Aguilera')",pop
+"('Still D.R.E.', 'Dr. Dre')",rap
+"('Tattooed Heart', 'Ariana Grande')",pop
+"('I Miss You', 'Miley Cyrus')",pop
+"('Alive and Kicking', 'Simple Minds')",rock
+"('Radioactive', 'Imagine Dragons')",rock
+"('Peacock', 'Katy Perry')",pop
+"(""Everybody's Been Burned"", 'The Byrds')",rock
+"('Andy Warhol', 'David Bowie')",rock
+"('So What', 'Pink')",pop
+"('Yellow Flicker Beat', 'Lorde')",pop
+"('Aerodynamic', 'Daft Punk')",edm
+"('Si Tu Supieras', 'Alejandro Fernandez')",latin
+"('Vida', 'Ricardo Arjona')",latin
+"('Freakshow', 'Britney Spears')",pop
+"('Found Out About You', 'Gin Blossoms')",pop
+"(""Bringin' On The Heartbreak"", 'Mariah Carey')",pop
+"(""Watch n' Learn"", 'Rihanna')",pop
+"('Sad', 'Maroon 5')",pop
+"('One Of Us', 'Joan Osborne')",pop
+"('See Emily Play', 'Pink Floyd')",rock
+"('See You Again', 'Carrie Underwood')",country
+"('Nasty', 'Janet Jackson')",pop
+"('Fuck Wit Dre Day', 'Dr. Dre')",rap
+"('The Dope Show', 'Marilyn Manson')",rock
+"('Entertainment', 'Phoenix')",rock
+"('Condor Ave', 'Elliott Smith')",rock
+"('Born Too Late', 'The Poni-Tails')",other
+"('Never Gonna Give You Up', 'Rick Astley')",pop
+"('The Song Remains the Same', 'Led Zeppelin')",rock
+"('Star Dust', 'Hoagy Carmichael')",jazz
+"('Counting Stars', 'OneRepublic')",pop
+"('Feel Good Drag', 'Anberlin')",pop
+"(""America's Suitehearts"", 'Fall Out Boy')",rock
+"(""Cece's Interlude"", 'Drake')",rap
+"('The Lion Sleeps Tonight', 'The Tokens')",pop
+"('Vermilion', 'Slipknot')",rock
+"('Boys & Girls', 'Ayumi Hamasaki')",pop
+"('Disposable Teens', 'Marilyn Manson')",rock
+"('Powerless', 'Linkin Park')",rock
+"('Summertime Sadness', 'Lana Del Rey')",pop
+"('War Child', 'Blondie')",pop
+"('Born to Die', 'Lana Del Rey')",pop
+"('Into the Nightlife', 'Cyndi Lauper')",pop
+"('Stupid Girl', 'Garbage')",rock
+"('Bette Davis Eyes', 'Kim Carnes')",pop
+"('I Want You', 'Janet Jackson')",pop
+"('I Care', 'Beyoncé')",pop
+"('No Quarter', 'Led Zeppelin')",rock
+"('Stronger Than Jesus', 'A Camp')",other
+"('Heart Shaped Box', 'Nirvana')",rock
+"(""Sinner's Prayer"", 'Sully Erna')",other
+"('My Back Pages', 'Bob Dylan')",rock
+"('Walking on a Dream', 'Empire of the Sun')",pop
+"('Angina', 'Tristania')",rock
+"(""Jessie's Girl"", 'Rick Springfield')",rock
+"('Haunted', 'Beyonce')",pop
+"('All For You', 'Janet Jackson')",pop
+"('Titanium', 'David Guetta')",pop
+"('LDN', 'Lily Allen')",pop
+"('The Magnificent', 'One World Orchestra')",other
+"('Video Games', 'Lana Del Rey')",pop
+"('My Arms Keep Missing You', 'Rick Astley')",pop
+"('Suave', 'Luis Miguel')",latin
+"('Tubthumping', 'Chumbawamba')",other
+"('Danse de la Chèvre', 'Arthur Honegger')",classical
+"('The Climb', 'Miley Cyrus')",pop
+"('Run Like Hell', 'Pink Floyd')",rock
+"('How Many More Years', ""Howlin' Wolf"")",other
+"('Survival of the Fittest', 'Mobb Deep')",rap
+"('Hey Jealousy', 'Gin Blossoms')",pop
+"('Chasing the Sun', 'Hilary Duff')",pop
+"('Some Things Come From Nothing', 'Super Furry Animals')",pop
+"('Temptations', '2Pac')",rap
+"('One More Chance', 'Madonna')",pop
+"('The Real Slim Shady', 'Eminem')",rap
+"('Take Care', 'Drake')",rap
+"('Stardust', 'Artie Shaw')",jazz
+"('When You Look Me in the Eyes', 'Jonas Brothers')",pop
+"('Sweet About Me', 'Gabriella Cilmi')",pop
+"('Disaster', 'JoJo')",pop
+"('Smoke on the Water', 'Deep Purple')",rock
+"(""You'll See"", 'Madonna')",pop
+"('Missing You', 'The Saturdays')",pop
+"('Deliverance', 'Opeth')",rock
+"('Something New', 'Girls Aloud')",pop
+"('Song for Bob Dylan', 'David Bowie')",rock
+"(""You Don't Miss Your Water"", 'The Byrds')",rock
+"('Danza Kuduro', 'Don Omar')",latin
+"('The Wave', 'Miike Snow')",pop
+"('Slow Down', 'Selena Gomez')",pop
+"('All Nite', 'Janet Jackson')",pop
+"('Mercy', 'Duffy')",r&b
+"(""Keeps Gettin' Better"", 'Christina Aguilera')",pop
+"('Big Fun', 'Inner City')",edm
+"('Restart', 'Bilal')",r&b
+"('You Rock My World', 'Michael Jackson')",r&b
+"('Lemonade', nan)",country
+"('Wake Up', 'Hilary Duff')",pop
+"(""Fallin'"", 'Alicia Keys')",r&b
+"('Ease Back', nan)",other
+"('To Hell with the Devil', 'Stryper')",rock
+"('Love Story', nan)",r&b
+"('La Violetera', 'Sara Montiel')",other
+"('Heroes', 'David Bowie')",rock
+"('Jet City Woman', 'Queensryche')",rock
+"('Welcome to the Jungle', ""Guns N' Roses"")",rock
+"('Bon Bon Vie', 'T.S. Monk')",r&b
+"('King Park', 'La Dispute')",rap
+"('Box Elder', 'Pavement')",rock
+"('Wisdom of the Kings', 'Rhapsody')",rock
+"('Born in the U.S.A.', 'Bruce Springsteen')",rock
+"(""Don't You Forget About Me"", 'Simple Minds')",rock
+"('Another Planet', 'Pendulum')",other
+"('Tush', 'ZZ Top')",rock
+"('Smile', 'Lily Allen')",pop
+"('Perfume', 'Britney Spears')",pop
+"('If I Had No Loot', 'Tony Toni Tone')",r&b
+"('Many Too Many', 'Genesis')",rock
+"('Dot', 'All')",pop
+"('Here We Go Again', 'Demi Lovato')",pop
+"('The Lazy Song', 'Bruno Mars')",pop
+"('Shake It Off', 'Taylor Swift')",pop
+"(""Bitch I'm Madonna"", 'Madonna')",pop
+"('Are You Lonesome Tonight', 'Elvis Presley')",rock
+"('The Sheltering Sky', 'King Crimson')",rock
+"('Lejos', 'Toby Love')",other
+"('Far Beyond Metal', 'Strapping Young Lad')",rock
+"('Come Back To Me', 'Vanessa Hudgens')",pop
+"('Popcorn', 'Hot Butter')",pop
+"('Banquet', 'Bloc Party')",rock
+"('Tuya Soy', 'Ivy Queen')",latin
+"('America, America', 'Luis Miguel')",latin
+"('Whatever You Like', 'T.I.')",rap
+"('Princess of China', 'Coldplay')",pop
+"('The Metre', 'Powderfinger')",rock
+"('The Chain', 'Fleetwood Mac')",rock
+"('Tattoo', 'Jordin Sparks')",pop
+"(""What's My Age Again"", 'Blink-182')",rock
+"('La Luz', 'Juanes')",latin
+"('Mi Corazoncito', 'Aventura')",latin
+"('Mutual Core', 'Björk')",pop
+"('Slow Life', 'Super Furry Animals')",pop
+"('The Jam Was Moving', 'Debbie Harry')",pop
+"('Galau', 'Siti Nurhaliza')",pop
+"('Soul Singing', 'The Black Crowes')",rock
+"('Oh Santa!', 'Mariah Carey')",pop
+"('Booty', 'Jennifer Lopez')",pop
+"('If I Could', 'Mineral')",other
+"('Optimo', 'Liquid Liquid')",rock
+"('Milk It', 'Nirvana')",rock
+"('Ave Maria', 'Beyonce')",pop
+"('Indiana', 'Meg & Dia')",pop
+"('Black Magic', 'Little Mix')",pop
+"('A Little Bit Longer', 'Jonas Brothers')",pop
+"('Mirror', 'Lil Wayne')",rap
+"('Misunderstanding', 'Genesis')",rock
+"('Linger', 'The Cranberries')",rock
+"('Show Your Hand', 'Super Furry Animals')",pop
+"('Liquorice', 'Azealia Banks')",rap
+"('Stormy Monday', 'Eva Cassidy')",other
+"('God Is A DJ', 'Faithless')",edm
+"('Dame', 'Luis Miguel')",latin
+"('Tabloid Junkie', 'Michael Jackson')",r&b
+"('Get Your Gunn', 'Marilyn Manson')",rock
+"('Por Debajo De La Mesa', 'Luis Miguel')",latin
+"('Windy', 'The Association')",rock
+"('Ride My See-Saw', 'The Moody Blues')",rock
+"('Monster Mash', 'Misfits')",other
+"('Immigrant Song', 'Led Zeppelin')",rock
+"('Illuminare', 'Rolo Tomassi')",rock
+"('Was Dog A Doughnut', 'Cat Stevens')",rock
+"('Eyes of a Stranger', 'Queensryche')",rock
+"('Not Like the Movies', 'Katy Perry')",pop
+"('Jealous', 'Nina')",other
+"('Hurt', 'Leona Lewis')",pop
+"('Just Perfect', 'All')",pop
+"('Chika Ideal', 'Ivy Queen')",latin
+"('All Hands On Deck', 'Tinashe')",pop
+"('Just the Way You Are', 'Bruno Mars')",pop
+"('Loverboy', 'Mariah Carey')",pop
+"('Simmer Down', 'Bob Marley & The Wailers')",other
+"('Erotica', 'Madonna')",pop
+"(""Pimpin'"", 'Tony Yayo')",rap
+"('Like a Virgin', 'Madonna')",pop
+"('Get Fresh', 'Kid Sister')",rap
+"('The World Is Not Enough', 'Garbage')",rock
+"('Into the Nothing', 'Breaking Benjamin')",rock
+"('Quicksand', 'David Bowie')",rock
+"('Te Amo', 'Rihanna')",pop
+"('Angel Caido', 'Ivy Queen')",latin
+"('Get Right', 'Jennifer Lopez')",pop
+"('Liquor Store Blues', 'Bruno Mars')",pop
+"('Guilty', 'All')",other
+"('Giving You Back', 'Robyn')",pop
+"('Rebel Yell', 'Billy Idol')",rock
+"('4 In The Morning', 'Gwen Stefani')",pop
+"('Baggy Trousers', 'Madness')",pop
+"(""It's Like That"", 'Mariah Carey')",pop
+"(""It's Only Make Believe"", 'Conway Twitty')",country
+"('O Tu O Ninguna', 'Luis Miguel')",latin
+"('Volare', 'Domenico Modugno')",pop
+"('Garageland', 'The Clash')",rock
+"('Wonderman', 'Tinie Tempah')",pop
+"('Disco Clone', 'Cristina')",other
+"('Now', 'Paramore')",pop
+"('National Anthem', 'Lana Del Rey')",pop
+"('What About Us', 'The Saturdays')",pop
+"('Closer', 'Tegan and Sara')",pop
+"('Blue Monday', 'New Order')",rock
+"('Azul', 'Cristian Castro')",latin
+"('Dirty Laundry', 'Don Henley')",rock
+"('I Will Be', 'Leona Lewis')",pop
+"(""Wasn't Born To Follow"", 'The Byrds')",rock
+"('Different Colors', 'Walk the Moon')",rock
+"('Paperthin Hymn', 'Anberlin')",pop
+"(""Kathleen's Song"", 'The Byrds')",rock
+"('Rehab', 'Rihanna')",pop
+"('Part of Me', 'Katy Perry')",pop
+"(""I Still Haven't Found What I'm Looking For"", 'U2')",rock
+"('Two Black Cadillacs', 'Carrie Underwood')",country
+"('Amiga Mia', 'Alejandro Sanz')",latin
+"('I Wanna Go', 'Britney Spears')",pop
+"('One', nan)",pop
+"('Lazer Beam', 'Super Furry Animals')",pop
+"('WOW', 'Marilyn Manson')",rock
+"('Everything to Me', 'Monica')",r&b
+"('Die In Your Arms', 'Justin Bieber')",pop
+"('Eye Of The Tiger', 'Survivor')",rock
+"('In the Shadows', 'The Rasmus')",rock
+"(""She's My Ex"", 'All')",pop
+"('Do What U Want', 'Lady Gaga')",pop
+"(""Don't Stop Me Now"", 'Queen')",rock
+"('Colony Collapse', 'Architects')",rock
+"('Entre el Mar y una Estrella', 'Thalia')",latin
+"('The Distance', 'Cake')",rock
+"('Somebody That I Used to Know', 'Gotye')",pop
+"('Daughters', nan)",other
+"('Blinded', 'Third Eye Blind')",rock
+"('Smile', 'Avril Lavigne')",pop
+"('Song 2', 'Blur')",rock
+"('Waterfalls', 'TLC')",pop
+"('Baby Love', 'Nicole Scherzinger')",pop
+"('X-Offender', 'Blondie')",pop
+"('Scream', 'Timbaland')",pop
+"('Clint Eastwood', 'Gorillaz')",rock
+"('Fuck Her Gently', 'Tenacious D')",rock
+"('A Sky Full of Stars', 'Coldplay')",pop
+"('The Way You Love Me', 'Keri Hilson')",pop
+"('Denim and Leather', 'Saxon')",rock
+"('Bloody Mary', 'Lady Gaga')",pop
+"('Deeper and Deeper', 'Madonna')",pop
+"('Nobody Wants to Be Lonely', 'Ricky Martin')",latin
+"('War', 'Edwin Starr')",r&b
+"(""I Don't Care"", '2NE1')",k-pop
+"('Since U Been Gone', 'Kelly Clarkson')",pop
+"('Sukiyaki', 'Kyu Sakamoto')",other
+"('Amame', 'Selena')",other
+"(""Kickin' My Heart Around"", 'The Black Crowes')",rock
+"('Sanctuary', nan)",jazz
+"('Just A Little While', 'Janet Jackson')",pop
+"('I Cry', 'Flo Rida')",pop
+"('Like The Weather', '10,000 Maniacs')",pop
+"('Play Hard', 'David Guetta')",pop
+"('Diamonds', 'Rihanna')",pop
+"('Chandelier', 'Sia')",pop
+"('Moonshine', 'Bruno Mars')",pop
+"('Mr. Jones', 'Counting Crows')",rock
+"('Hello Sunshine', 'Super Furry Animals')",pop
+"('Tangerine', 'Big Boi')",rap
+"('Gotta Be You', 'Sugababes')",pop
+"('Bad Boys', 'Inner Circle')",other
+"('Storm', 'Luna Sea')",other
+"('Party Rock Anthem', 'LMFAO')",pop
+"('Wish I Could Fly', 'Roxette')",pop
+"('Brand New Lover', 'Dead Or Alive')",pop
+"('The Loving Kind', 'Girls Aloud')",pop
+"('Cloudberries', 'Super Furry Animals')",pop
+"('Glitter In The Air', 'Pink')",pop
+"('Make Me Wanna Die', 'The Pretty Reckless')",pop
+"('Trampled Under Foot', 'Led Zeppelin')",rock
+"(""Lloyd, I'm Ready to Be Heartbroken"", 'Camera Obscura')",pop
+"('Lead Me On', 'Amy Grant')",rock
+"(""Don't Stop Believin'"", 'Journey')",rock
+"(""Tonight's the Night"", 'The Shirelles')",r&b
+"('Life', ""Des'ree"")",pop
+"('Carrion', 'Godflesh')",rock
+"('Say Something', 'A Great Big World & Christina Aguilera')",pop
+"('Run-Away', 'Super Furry Animals')",pop
+"('Electric Love', 'BØRNS')",rock
+"('Use Me', 'Miguel')",r&b
+"('Ice Princess', 'Azealia Banks')",rap
+"(""Got 'Til It's Gone"", 'Janet Jackson')",pop
+"('Russian Roulette', 'Rihanna')",pop
+"('Bring It All Back', 'S Club 7')",pop
+"('Beat of My Drum', 'Nicola Roberts')",other
+"('Rack City', 'Tyga')",rap
+"('Flatline', nan)",latin
+"('Turn Turn Turn', 'The Byrds')",rock
+"('Subtle Invitation', 'Mariah Carey')",pop
+"('Ray Charles', 'Chiddy Bang')",rap
+"('Fade to Black', 'Metallica')",rock
+"('Pretty Girl Rock', 'Keri Hilson')",pop
+"('Turn Up the Radio', 'Madonna')",pop
+"('Commander', 'Kelly Rowland')",pop
+"('Mrs Robinson', 'Simon and Garfunkel')",rock
+"('Shake', 'Jesse McCartney')",pop
+"('Feliz Navidad', nan)",pop
+"(""I'll Make Love To You"", 'Boyz II Men')",r&b
+"('Stay', 'Nas')",pop
+"('Do Or Die', 'Super Furry Animals')",pop
+"(""Ridin' Solo"", 'Jason Derulo')",pop
+"('Cry', 'Michael Jackson')",r&b
+"('Fergalicious', 'Fergie')",pop
+"('The Birds', 'Swervedriver')",other
+"('Hero', 'Mariah Carey')",pop
+"('Rave Down', 'Swervedriver')",other
+"('Trouble', 'Leona Lewis')",pop
+"('Precious', 'Depeche Mode')",rock
+"('Because Of You', 'Reba McEntire & Kelly Clarkson')",country
+"('This Love', nan)",pop
+"('Speechless', 'Lady Gaga')",pop
+"('Fuck You', 'Lily Allen')",pop
+"('Sad Song', 'The Cars')",rock
+"('Play', 'Jennifer Lopez')",pop
+"('Release', 'Timbaland')",pop
+"('I See Fire', 'Ed Sheeran')",pop
+"('Waiting for a Train', 'Jimmie Rodgers')",country
+"('I Like How It Feels', 'Enrique Iglesias')",latin
+"('Ayer', 'Luis Miguel')",latin
+"('Dance', 'ESG')",pop
+"('Every Little Thing She Does Is Magic', 'The Police')",rock
+"('Surfacing', 'Slipknot')",rock
+"('Jenny From The Block', 'Jennifer Lopez')",pop
+"('Pyramid Song', 'Radiohead')",rock
+"(""don't cry for me argentina"", 'Madonna')",pop
+"('Danger Zone', 'Kenny Loggins')",rock
+"('Young and Beautiful', 'Lana Del Rey')",pop
+"('Jump', 'Van Halen')",rock
+"('Rolling in the Deep', 'Adele')",pop
+"('Torero', 'Chayanne')",latin
+"('Attitude', 'Misfits')",other
+"('Pictures of Me', 'Elliott Smith')",rock
+"(""They Don't Know"", 'Tracey Ullman')",pop
+"('Badfish', 'Sublime')",latin
+"('Mr.Mr.', ""Girls' Generation"")",k-pop
+"('Creep', 'Radiohead')",rock
+"('Beautiful Dirty Rich', 'Lady Gaga')",pop
+"('Creep', 'TLC')",pop
+"('Cliffs Of Dover', 'Eric Johnson')",rock
+"('I Do', 'Ivy Queen')",latin
+"('Take Me', 'Stereophonics')",rock
+"('Animal Nitrate', 'Suede')",pop
+"('Like a Rolling Stone', 'Bob Dylan')",rock
+"('Damage Inc', 'Metallica')",rock
+"('The Way You Make Me Feel', 'Michael Jackson')",r&b
+"('Brite Side', 'Deborah Harry')",pop
+"('Time Between', 'The Byrds')",rock
+"('Wonderboy', 'Tenacious D')",rock
+"('Leave Me Alone', 'Michael Jackson')",r&b
+"('Wear My Kiss', 'Sugababes')",pop
+"('Duchess', 'Genesis')",rock
+"('If It Makes You Happy', 'Sheryl Crow')",pop
+"('Smooth Criminal', 'Michael Jackson')",r&b
+"('Way Out of Here', 'Porcupine Tree')",rock
+"('Crazy', 'Britney Spears')",pop
+"('Rockstar 101', 'Rihanna')",pop
+"('Losing You', 'Solange')",r&b
+"('Climax', 'Usher')",rap
+"('Turn Up the Music', 'Chris Brown')",r&b
+"('In Bloom', 'Nirvana')",rock
+"('Rie Y Llora', 'Celia Cruz')",other
+"('Marrakesh Express', 'Crosby, Stills & Nash')",rock
+"('Rumble', 'Link Wray')",rock
+"('Gold', nan)",pop
+"(""Don't Stop the Music"", 'Rihanna')",pop
+"('Jump', 'Rupee')",pop
+"('Fight for You', 'Jason Derulo')",pop
+"(""Sweet Talkin' Woman"", 'Electric Light Orchestra')",rock
+"('New Day', 'Karnivool')",rock
+"(""I'll Feel A Whole Lot Better"", 'The Byrds')",rock
+"('Du Hast', 'Rammstein')",rock
+"('Warwick Avenue', 'Duffy')",r&b
+"('The Rain Song', 'Led Zeppelin')",rock
+"('Holy Thursday', 'David Axelrod')",r&b
+"('Almost Home', 'Mariah Carey')",pop
+"('Girls & Boys', 'Blur')",rock
+"('Human Nature', 'Michael Jackson')",r&b
+"('Partition', 'Beyonce')",pop
+"('Lips Are Movin', 'Meghan Trainor')",pop
+"('Shreen', 'All')",pop
+"('S&M', 'Rihanna')",pop
+"('Union City Blue', 'Blondie')",pop
+"('Treasure', nan)",jazz
+"('Moving Targets', 'Van Hunt')",r&b
+"(""Hymne a l'amour"", 'Edith Piaf')",other
+"('Roxanne', 'The Police')",rock
+"('Whole Again', 'Atomic Kitten')",pop
+"(""It's All Over Now Baby Blue"", 'Them')",other
+"('Ticket to Ride', 'The Beatles')",rock
+"('Man That You Fear', 'Marilyn Manson')",rock
+"('Private Emotion', 'Ricky Martin')",latin
+"('Future Breed Machine', 'Meshuggah')",rock
+"('Seek and Destroy', 'Metallica')",rock
+"('Get Sexy', 'Sugababes')",pop
+"('The Hardest Part', 'Blondie')",pop
+"('Better Off Alone', 'Alice Deejay')",other
+"('Personal Jesus', 'Marilyn Manson')",rock
+"('Littlest Things', 'Lily Allen')",pop
+"('Children', 'Robert Miles')",other
+"('JCB', 'Nizlopi')",other
+"('Raining Blood', 'Slayer')",rock
+"('Empire', 'Queensryche')",rock
+"('mOBSCENE', 'Marilyn Manson')",rock
+"('My Name Is Not Susan', 'Whitney Houston')",pop
+"('My Favourite Game', 'Cardigans')",pop
+"(""It's A Sin"", 'Pet Shop Boys')",pop
+"('Dig Up Her Bones', 'Misfits')",other
+"(""I'll Be There"", 'Mariah Carey & Trey Lorenz')",pop
+"('Dance Again', 'Jennifer Lopez')",pop
+"(""Don't Fail Me Now"", 'Melanie Amaro')",other
+"('Everywhere', 'Michelle Branch')",pop
+"('Bleak', 'Opeth')",rock
+"('Fight for This Love', 'Cheryl Cole')",pop
+"('Levels', 'Avicii')",pop
+"('Wildest Dreams', 'Taylor Swift')",pop
+"('Release Me', 'Agnes')",pop
+"('Sweet Emotion', 'Aerosmith')",rock
+"('The Mephistopheles Of Los Angeles', 'Marilyn Manson')",rock
+"('Candyman', 'Christina Aguilera')",pop
+"('Hybrid Moments', 'Misfits')",other
+"('Original Fire', 'Audioslave')",rock
+"('Sing for the Moment', 'Eminem')",rap
+"('Motoroller Scalatron', 'Stereolab')",pop
+"('Good people', 'Jack Johnson')",other
+"('Runaway', 'Janet Jackson')",pop
+"('100 Yard Dash', 'Raphael Saadiq')",r&b
+"('This Is It', 'Kenny Loggins')",rock
+"('Rebulera', 'Ivy Queen')",latin
+"('Tourniquet', 'Marilyn Manson')",rock
+"('Mi Tierra', 'Gloria Estefan')",pop
+"('Grenade', 'Bruno Mars')",pop
+"('Catch Me If You Can', ""Girls' Generation"")",k-pop
+"('Stranger in Moscow', 'Michael Jackson')",r&b
+"('Bulletproof', 'La Roux')",pop
+"('ill Manors', 'Plan B')",other
+"('My Immortal', 'Evanescence')",rock
+"('Take Me Home', 'Cher')",pop
+"('Say Hello', 'Breathe')",pop
+"('See No Evil', 'Television')",rock
+"('Christmas Tree', 'Lady Gaga')",pop
+"('Te Quiero', 'Ricardo Arjona')",latin
+"('Gorilla', 'Bruno Mars')",pop
+"('Take My Breath Away', nan)",other
+"('Psychobilly Freakout', 'The Reverend Horton Heat')",country
+"('4 Minutes', 'Madonna')",pop
+"('Overprotected', 'Britney Spears')",pop
+"('Take Five', 'Dave Brubeck Quartet')",jazz
+"('The Boxer', 'The Chemical Brothers')",edm
+"('Swept Away', 'The xx')",pop
+"('Pyramids', nan)",other
+"('If I Lose Myself', 'OneRepublic')",pop
+"('Sabor A Mi', 'Luis Miguel')",latin
+"(""Can't Hold Us"", 'Macklemore')",rap
+"('The Beautiful People', 'Marilyn Manson')",rock
+"(""It's a Man's Man's Man's World"", 'James Brown')",r&b
+"('Paddling Out', 'Miike Snow')",pop
+"('Fuck the Pain Away', 'Peaches')",pop
+"('Showdown', 'Pendulum')",other
+"('Timebomb', 'Tove Lo')",pop
+"('Code Blue', 'T.S.O.L.')",other
+"('Deuces', 'Chris Brown')",r&b
+"(""She Ain't You"", 'Chris Brown')",r&b
+"(""It's No Good"", 'Depeche Mode')",rock
+"('Problem', 'Natalia Kills')",pop
+"('Shock', 'Beast')",k-pop
+"('The Fight Song', 'Marilyn Manson')",rock
+"('Wild Ones', 'Flo Rida')",pop
+"('Fusil contra fusil', 'Silvio Rodríguez')",latin
+"('Golden Retriever', 'Super Furry Animals')",pop
+"('We Are the People', 'Empire of the Sun')",pop
+"('Because Of You', 'Kelly Clarkson')",pop
+"('Tonight', 'Jonas Brothers')",pop
+"('Animal', 'Miike Snow')",pop
+"(""Who's That Girl"", 'Guy Sebastian')",pop
+"('Windowpane', 'Opeth')",rock
+"('In Too Deep', 'Sum 41')",rock
+"('In Love With Love', 'Debbie Harry')",pop
+"('Damage', 'Pharoahe Monch')",rap
+"('Rock Is Dead', 'Marilyn Manson')",rock
+"('Sweet And Low', 'Deborah Harry')",pop
+"('Generation Love', 'Jennette McCurdy')",pop
+"('Mi Chico Latino', 'Geri Halliwell')",pop
+"('Say You Love Me', 'Fleetwood Mac')",rock
+"('Touch of My Hand', 'Britney Spears')",pop
+"('New Romantics', 'Taylor Swift')",pop
+"('El Shaddai', 'Amy Grant')",other
+"('War Pigs', 'Black Sabbath')",rock
+"('Sultans of Swing', 'Dire Straits')",rock
+"('In My Place', 'Coldplay')",pop
+"('Mr Vain', 'Culture Beat')",pop
+"(""Livin' Thing"", 'Electric Light Orchestra')",rock
+"('In Private', 'Dusty Springfield')",rock
+"('Over the Hills and Far Away', 'Led Zeppelin')",rock
+"('La Bomba', 'Ricky Martin')",latin
+"('Lose My Breath', ""Destiny's Child"")",pop
+"('Colors', 'Headhunterz')",other
+"('Black Dog', 'Led Zeppelin')",rock
+"('Solo Quédate en Silencio', 'RBD')",latin
+"('Total Eclipse of the Heart', 'Bonnie Tyler')",pop
+"('Knock Me Down', 'Red Hot Chili Peppers')",rock
+"('Broken English', 'Marianne Faithfull')",other
+"('Someday', 'Nina')",other
+"('Chrome', 'Debbie Harry')",pop
+"('Dirty Diana', 'Michael Jackson')",r&b
+"('Mirrors', 'Justin Timberlake')",pop
+"('Wake Me Up', 'Avicii')",pop
+"('Euphoria', 'Usher')",rap
+"('Only Girl', 'Rihanna')",pop
+"('Masterpiece', 'Madonna')",pop
+"('Bang Bang Bang', 'Mark Ronson')",pop
+"('Love That Girl', 'Raphael Saadiq')",r&b
+"('Tu Recuerdo', 'Ricky Martin')",latin
+"(""I Don't Believe In Love"", 'Queensryche')",rock
+"('Einstein', 'Kelly Clarkson')",pop
+"('All She Wants to Do Is Dance', 'Don Henley')",rock
+"('DNA', 'Little Mix')",pop
+"('I Get Around', 'The Beach Boys')",rock
+"('Violet Hill', 'Coldplay')",pop
+"('Heart Skipped a Beat', 'The xx')",pop
+"(""When I'm Gone"", 'Simple Plan')",pop
+"('Lose Yourself', 'Eminem')",rap
+"('The Love Song', 'Marilyn Manson')",rock
+"(""Doesn't Really Matter"", 'Janet')",pop
+"('Drive', 'The Cars')",rock
+"('I Bet', 'Ciara')",pop
+"('Flume', 'Bon Iver')",pop
+"(""Who'd Have Known"", 'Lily Allen')",pop
+"('So Seductive', 'Tony Yayo')",rap
+"(""My Bucket's Got a Hole in It"", 'Hank Williams')",country
+"(""Walkin' on the Sun"", 'Smash Mouth')",pop
+"('Change', 'Deftones')",rock
+"('Every Breath You Take', 'The Police')",rock
+"('Brave', 'Sara Bareilles')",pop
+"('This', 'Darius Rucker')",country
+"('Beds Are Burning', 'Midnight Oil')",rock
+"('Such Great Heights', 'The Postal Service')",pop
+"('Into Dust', 'Mazzy Star')",pop
+"('Billionaire', nan)",other
+"('Everybody Wants To Rule The World', 'Tears For Fears')",pop
+"(""Wearin' That Loved on Look"", 'Elvis Presley')",rock
+"('Both Sides Now', 'Judy Collins')",rock
+"('Womanizer', 'Britney Spears')",pop
+"('No Reflection', 'Marilyn Manson')",rock
+"('Into The Night', 'Super Furry Animals')",pop
+"('Beautiful Life', 'Ace Of Base')",pop
+"('Inside Out', 'Shara Nelson')",other
+"('One', 'Swedish House Mafia')",edm
+"(""D'Yer Mak'er"", 'Led Zeppelin')",rock
+"('You Spin Me Round', 'Dead or Alive')",pop
+"('Once in a Lifetime', 'Talking Heads')",rock
+"('Nobody', 'Shara Nelson')",rap
+"('Lucky Day', 'Nicola Roberts')",other
+"('Yeah 3x', 'Chris Brown')",r&b
+"('Stockholm Syndrome', 'Blink 182')",rock
+"('Crazy Little Thing Called Love', 'Queen')",rock
+"('Whatever You Want', 'Status Quo')",rock
+"('Perdido Sin Ti', 'Ricky Martin')",latin
+"('The Brazilian', 'Genesis')",rock
+"('Firenze Sogna', 'Giuseppe Di Stefano')",classical
+"('Juicy', 'Notorious B.I.G.')",rap
+"('Go Your Own Way', 'Fleetwood Mac')",rock
+"('Nights In White Satin', 'The Moody Blues')",rock
+"('Tengo Un Amor', 'Toby Love')",other
+"('Dance Hall Days', 'Wang Chung')",pop
+"('Fall on Me', 'R.E.M.')",rock
+"('Wooden Pints', 'Korpiklaani')",rock
+"('The Lady Lies', 'Genesis')",rock
+"('Seasons Change', 'Exposé')",pop
+"('Dreaming', 'Blondie')",pop
+"('Blow', 'Ke$ha')",pop
+"('We Fly High', 'Jim Jones')",rap
+"('Virtual Insanity', 'Jamiroquai')",pop
+"('Hasta Que Te Conocí', 'Juan Gabriel')",latin
+"('Stronger', 'Britney Spears')",pop
+"('Take It Off', 'Kesha')",pop
+"('Gleaux', 'Dawn Richard')",r&b
+"('Cockiness', 'Rihanna')",pop
+"('In Walked Bud', 'Thelonious Monk Quartet')",jazz
+"('Destiny', 'Zero 7')",edm
+"('Kooks', 'David Bowie')",rock
+"('Moody', 'ESG')",pop
+"('Work', 'Ciara')",pop
+"('Scream', 'Kelis')",pop
+"('Space Invaders Are Smoking Grass', 'I-F')",edm
+"('I Know You Want Me', 'Pitbull')",pop
+"('Only Happy When it Rains', 'Garbage')",rock
+"('Wallace', 'Azealia Banks')",rap
+"('Creeping Death', 'Metallica')",rock
+"('Welcome to New York', 'Taylor Swift')",pop
+"(""C'Mon"", 'Ke$ha')",pop
+"('Rescue Me', 'Madonna')",pop
+"('Michael Caine', 'Madness')",pop
+"('No Exit', 'Blondie')",pop
+"('Dancing Days', 'Led Zeppelin')",rock
+"('New Perspective', 'Panic at the Disco')",pop
+"('Deep In The Motherlode', 'Genesis')",rock
+"('You Are Not Alone', 'Michael Jackson')",r&b
+"('Fire In My Heart', 'Super Furry Animals')",pop
+"('The Ocean', 'Led Zeppelin')",rock
+"('Roar', 'Katy Perry')",pop
+"('Mad About You', 'Hooverphonic')",edm
+"('Maybellene', 'Chuck Berry')",rock
+"('Shame For You', 'Lily Allen')",pop
+"('Ligaya', 'Eraserheads')",other
+"('Again', 'Flyleaf')",rock
+"('Put It In A Love Song', 'Alicia Keys')",r&b
+"('Dormir Contigo', 'Luis Miguel')",latin
+"('Someone', 'Kelly Clarkson')",pop
+"('The Harold Song', 'Ke$ha')",pop
+"('Rehab', 'Amy Winehouse')",r&b
+"('Keep Holding On', 'Avril Lavigne')",pop
+"('Seven Doors Hotel', 'Europe')",rock
+"('Title', nan)",rap
+"('Silence', 'Delerium')",other
+"('Happy', nan)",pop
+"('Up in the Air', 'Thirty Seconds to Mars')",rock
+"('Zombie', 'The Cranberries')",rock
+"(""Don't Tell Me"", 'Madonna')",pop
+"('Last Caress', 'Misfits')",other
+"('Harlem Shake', 'Baauer')",edm
+"('Let Me Love You', 'Ne-Yo')",pop
+"('Speed of Sound', 'Coldplay')",pop
+"('Run Devil Run', ""Girls' Generation"")",k-pop
+"('Work', 'Jimmy Eat World')",rock
+"('Both Sides Now', 'Carly Rae Jepsen')",pop
+"('Ramble On', 'Led Zeppelin')",rock
+"('All Summer Long', 'Kid Rock')",rock
+"('Butterfly', 'Mariah Carey')",pop
+"('Rough With The Smooth', 'Shara Nelson')",other
+"('Voodoo Child', 'Jimi Hendrix Experience')",rock
+"('The Scientist', 'Coldplay')",pop
+"('Eyes Without a Face', 'Billy Idol')",rock
+"('In Another Way', 'My Bloody Valentine')",pop
+"(""Parents Just Don't Understand"", 'DJ Jazzy Jeff & The Fresh Prince')",rap
+"(""Don't You Wanna Stay"", 'Jason Aldean')",country
+"('No Air', 'Jordin Sparks & Chris Brown')",pop
+"('Let Her Go', 'Passenger')",k-pop
+"('Out of Touch', 'Hall & Oates')",rock
+"('Do It Again', 'Pia Mia')",pop
+"('Somewhere I Belong', 'Linkin Park')",rock
+"('Downtown', 'Petula Clark')",rock
+"('So Under Pressure', 'Dannii Minogue')",pop
+"('G.U.Y.', 'Lady Gaga')",pop
+"(""The Times They Are a-Changin'"", 'Bob Dylan')",rock
