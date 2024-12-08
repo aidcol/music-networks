@@ -241,12 +241,14 @@ def load_embeddings(dir, filtered=True):
     
     Returns:
         np.ndarray: A single matrix containing all the embeddings.
+        list: A list of the original filenames in the order of the rows of the 
+            data matrix.
     """
     overlap = get_overlap_set(OVERLAPS_CSV) if filtered else set()
     idx_to_file = get_idx_to_filename(IDX_TO_FILENAME_CSV)
 
     embeddings = []
-    row_to_file = {}
+    filenames = []
 
     for idx, npy_file in enumerate(tqdm(os.listdir(dir),
                                     total=len(os.listdir(dir)),
@@ -262,10 +264,10 @@ def load_embeddings(dir, filtered=True):
             embedding = np.load(os.path.join(dir, npy_file))
             embedding = embedding.flatten()
             embeddings.append(embedding)
-            row_to_file[idx] = orig_file
+            filenames.append(orig_file)
 
     X = np.vstack(embeddings)
-    return X, row_to_file
+    return X, filenames
 
 
 def pca_reduce(matrix, n_components=.99):

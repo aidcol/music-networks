@@ -1,8 +1,16 @@
-data/__pycache__/
-data/mert_embeds/
-data/mertnet/
-data/temp/
+__pycache__/
+
+data/
+
+mertnet/adjacency_pca.npy
+mertnet/adjacency_raw_25.npy
+mertnet/embeddings_filenames.pkl
+mertnet/embeddings_pca.npy
+mertnet/embeddings.npy
+mertnet/precision_pca.npy
+mertnet/precision_raw_25.npy
 
 test.ipynb
+embeddings_test.py
 
 wikimute/__pycache__/
