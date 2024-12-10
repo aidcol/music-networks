@@ -122,6 +122,7 @@ def construct_graph(X, threshold):
           sigma)
     thresholded_matrix = threshold_distance_matrix(distance_matrix, threshold)
     adjacency_matrix = compute_similarity_weights(thresholded_matrix, sigma)
+    np.fill_diagonal(adjacency_matrix, 0)
     return adjacency_matrix
 
 
