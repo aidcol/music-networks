@@ -3,7 +3,9 @@ import numpy as np
 import pickle
 import matplotlib.pyplot as plt
 import pandas as pd
+import os
 
+os.chdir(r'C:\Users\Dawso\Elec573\final_project')
 
 class Genre_Condenser():
     def __init__(self):
@@ -67,19 +69,21 @@ df = pd.read_csv("track_features_with_genres.csv")
 
 #condense the genre to a label
 test1 = Genre_Condenser()
-df["Genres"] = df["Genres"].apply(lambda x: test1.condense(x))
+df["Genres_cond"] = df["Genres"].apply(lambda x: test1.condense(x))
+df.to_csv('tracks_with_genre_cond.csv') 
 
 #save the colorings
-genre_mapping_df = pd.DataFrame()
-genre_mapping_df["Genre"] = df["Genres"]
+genre_mapping_df = df.copy()
 genre_mapping_df["Node"] = df.apply(lambda row: (row['Song'], row['Artist']), axis=1)
 genre_mapping_df = genre_mapping_df.set_index(["Node"])
-genre_mapping_df.head()
+genre_mapping_df = genre_mapping_df.drop('Artist', axis=1)
+genre_mapping_df = genre_mapping_df.drop('Song', axis=1)
 genre_mapping_df.to_csv('genre_coloring.csv') 
 
 #assign the genres to the nodes
-genre_dict = genre_mapping_df.to_dict()
-genre_dict = genre_dict['Genre']
-nx.set_node_attributes(G, genre_dict, name="genre")
+genre_dict = genre_mapping_df.to_dict(orient='index')
+
+nx.set_node_attributes(G, genre_dict)
+print(list(G.nodes.data()))
 with open("playlist_graph_with_genre.pkl", "wb") as file:
     pickle.dump(G, file)
